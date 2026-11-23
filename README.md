@@ -2,7 +2,7 @@
 
 Arrivals and departures at Mauritius airport (Sir Seewoosagur Ramgoolam International, MRU), as JSON. Each flight has its number and codeshares, airline, the city it comes from or goes to, with that airport's code and position, the scheduled time, the estimated or actual time, and its status.
 
-A GitHub Action reads the airport's board every 10 minutes (GitHub often starts scheduled runs late, or skips one, so expect 10 to 20 minutes) and commits whatever changed. The board only ever shows today, so the daily files here are its only record once the day is over. The archive starts on 23 November 2026.
+A GitHub Action reads the airport's board every 10 minutes and commits whatever changed, so the data is 10 to 20 minutes behind the board. GitHub's own schedule fires late or not at all, so a small Cloudflare Worker (`trigger/`) starts the workflow every 10 minutes instead, with a token that can only run this repository's workflows. The board only ever shows today, so the daily files here are its only record once the day is over. The archive starts on 23 November 2026.
 
 The site built on this data is [moris3d.ramgolam.com/flights](https://moris3d.ramgolam.com/flights): the day's flights in 3D over the island, each on a path estimated from its times.
 
