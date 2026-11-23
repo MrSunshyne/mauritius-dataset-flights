@@ -1,0 +1,22 @@
+{
+  "name": "mauritius-dataset-flights",
+  "version": "1.0.0",
+  "description": "Arrivals and departures at Mauritius airport (SSR International, MRU), from its flight board, as JSON",
+  "type": "module",
+  "scripts": {
+    "fetch": "node fetch.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrSunshyne/mauritius-dataset-flights.git"
+  },
+  "author": "Sandeep Ramgolam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrSunshyne/mauritius-dataset-flights/issues"
+  },
+  "homepage": "https://moris3d.ramgolam.com/flights",
+  "engines": {
+    "node": ">=24"
+  }
+}
