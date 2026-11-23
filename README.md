@@ -32,6 +32,7 @@ https://raw.githubusercontent.com/MrSunshyne/mauritius-dataset-flights/main/data
 |---|---|
 | [`data/latest.json`](data/latest.json) | The board as it is now: today's flights, for a live display |
 | `data/days/YYYY/YYYY-MM-DD.json` | Every flight scheduled that day, as last seen: the archive, for punctuality, routes and traffic over time |
+| [`data/days/index.json`](data/days/index.json) | The days in the archive, oldest first: `{ date, file, arrivals, departures, updated }` each, so an app can find them without the GitHub API |
 | [`data/airports.json`](data/airports.json) | The airports the board's cities stand for, with their positions |
 
 ### A flight
