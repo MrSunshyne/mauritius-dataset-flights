@@ -41,7 +41,9 @@ jobs:
           git add -A
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
-          git push
+          # Two runs started at once (the Worker and GitHub's own schedule) can find the branch
+          # moved on by the other: replay this one on top, its data being the newer, and push.
+          git push || { git pull --rebase -X theirs && git push; }
 
       - name: Open or update an issue if the scrape failed
         if: failure()
