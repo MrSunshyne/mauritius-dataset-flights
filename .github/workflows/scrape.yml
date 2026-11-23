@@ -3,7 +3,9 @@ name: Scrape latest data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/10 * * * *" # every 10 minutes: GitHub often runs them later, or skips one
+    # Every 10 minutes, off the round minutes, when GitHub's scheduler is busiest and drops
+    # runs; it may still run them late or skip one.
+    - cron: "3-59/10 * * * *"
 
 # One run at a time, so two never push over each other.
 concurrency:
