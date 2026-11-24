@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-24T14:23:09.596Z",
+  "fetched": "2026-11-24T14:33:10.315Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1164,10 +1164,10 @@
         "Cape Town"
       ],
       "scheduled": "2026-11-24T18:15:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-24T18:27:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "28",
       "airport": {
@@ -1190,10 +1190,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-24T18:30:00+04:00",
-      "estimated": "2026-11-24T18:15:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-24T18:25:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "17",
       "airport": {
@@ -1216,8 +1216,8 @@
       "scheduled": "2026-11-24T19:00:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -1330,6 +1330,33 @@
       }
     },
     {
+      "id": "d-MK014-2026-11-24",
+      "kind": "departure",
+      "number": "MK014",
+      "codeshares": [
+        "AF7965",
+        "KL3849"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Paris CDG",
+      "stops": [
+        "Paris CDG"
+      ],
+      "scheduled": "2026-11-24T22:00:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "Check-in",
+      "belt": null,
+      "gate": "28",
+      "airport": {
+        "iata": "CDG",
+        "name": "Paris CDG",
+        "lat": 49.009,
+        "lon": 2.5541
+      }
+    },
+    {
       "id": "d-MK248-2026-11-24",
       "kind": "departure",
       "number": "MK248",
@@ -1403,33 +1430,6 @@
         "name": "Dubai",
         "lat": 25.2498,
         "lon": 55.371
-      }
-    },
-    {
-      "id": "d-MK014-2026-11-24",
-      "kind": "departure",
-      "number": "MK014",
-      "codeshares": [
-        "AF7965",
-        "KL3849"
-      ],
-      "airline": "Air Mauritius",
-      "city": "Paris CDG",
-      "stops": [
-        "Paris CDG"
-      ],
-      "scheduled": "2026-11-24T22:35:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
-      "belt": null,
-      "gate": "28",
-      "airport": {
-        "iata": "CDG",
-        "name": "Paris CDG",
-        "lat": 49.009,
-        "lon": 2.5541
       }
     },
     {
