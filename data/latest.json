@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-24T22:13:11.244Z",
+  "fetched": "2026-11-24T22:23:17.451Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -937,7 +937,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "02-03",
       "gate": null,
       "airport": {
         "iata": "CDG",
@@ -1712,13 +1712,13 @@
       "stops": [
         "Paris CDG"
       ],
-      "scheduled": "2026-11-25T20:45:00+04:00",
+      "scheduled": "2026-11-25T20:40:00+04:00",
       "estimated": null,
       "actual": null,
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "28",
       "airport": {
         "iata": "CDG",
         "name": "Paris CDG",
