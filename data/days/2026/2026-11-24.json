@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated": "2026-11-24T01:53:09.332Z",
+  "updated": "2026-11-24T02:03:10.088Z",
   "source": "https://mru.airport.aero",
   "flights": [
     {
@@ -14,11 +14,11 @@
         "Istanbul"
       ],
       "scheduled": "2026-11-24T06:25:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-24T06:50:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
+      "status": "estimated",
+      "statusText": "Expected",
+      "belt": "01",
       "gate": null,
       "airport": {
         "iata": "IST",
@@ -27,7 +27,7 @@
         "lon": 28.7321
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK844-2026-11-24",
@@ -81,7 +81,7 @@
         "lon": 72.8679
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK015-2026-11-24",
@@ -97,11 +97,11 @@
         "Paris CDG"
       ],
       "scheduled": "2026-11-24T07:10:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-24T06:28:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
+      "status": "estimated",
+      "statusText": "Expected",
+      "belt": "02-03",
       "gate": null,
       "airport": {
         "iata": "CDG",
@@ -110,7 +110,7 @@
         "lon": 2.5541
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK249-2026-11-24",
@@ -129,7 +129,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RUN",
@@ -138,7 +138,7 @@
         "lon": 55.5189
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK053-2026-11-24",
@@ -153,11 +153,11 @@
         "London Gatwick"
       ],
       "scheduled": "2026-11-24T08:10:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-24T08:02:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
+      "status": "estimated",
+      "statusText": "Expected",
+      "belt": "01",
       "gate": null,
       "airport": {
         "iata": "LGW",
@@ -166,7 +166,7 @@
         "lon": -0.1857
       },
       "firstSeen": "2026-11-24T00:13:10.183Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-AF470-2026-11-24",
@@ -181,11 +181,11 @@
         "Paris CDG"
       ],
       "scheduled": "2026-11-24T08:20:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-24T07:03:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
+      "status": "estimated",
+      "statusText": "Expected",
+      "belt": "04-05",
       "gate": null,
       "airport": {
         "iata": "CDG",
@@ -194,7 +194,7 @@
         "lon": 2.5541
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-6E1861-2026-11-24",
@@ -207,10 +207,10 @@
         "Bangalore"
       ],
       "scheduled": "2026-11-24T08:30:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-24T08:25:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -220,7 +220,7 @@
         "lon": 77.7063
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-EK701-2026-11-24",
@@ -248,7 +248,7 @@
         "lon": 55.371
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK209-2026-11-24",
@@ -267,7 +267,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "04",
       "gate": null,
       "airport": {
         "iata": "RUN",
@@ -276,7 +276,7 @@
         "lon": 55.5189
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK119-2026-11-24",
@@ -293,7 +293,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -302,7 +302,7 @@
         "lon": 63.361
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-UU104-2026-11-24",
@@ -319,7 +319,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "01",
       "gate": null,
       "airport": {
         "iata": "RUN",
@@ -328,7 +328,7 @@
         "lon": 55.5189
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK121-2026-11-24",
@@ -345,7 +345,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -354,7 +354,7 @@
         "lon": 63.361
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-TK160-2026-11-24",
@@ -367,10 +367,10 @@
         "Istanbul"
       ],
       "scheduled": "2026-11-24T12:35:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-24T12:05:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -380,7 +380,7 @@
         "lon": 28.7321
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK747-2026-11-24",
@@ -397,7 +397,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "05",
       "gate": null,
       "airport": {
         "iata": "MAA",
@@ -406,7 +406,7 @@
         "lon": 80.1693
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK219-2026-11-24",
@@ -453,7 +453,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "02-03",
       "gate": null,
       "airport": {
         "iata": "DXB",
@@ -462,7 +462,7 @@
         "lon": 55.371
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-FA850-2026-11-24",
@@ -479,7 +479,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "01",
       "gate": null,
       "airport": {
         "iata": "JNB",
@@ -488,7 +488,7 @@
         "lon": 28.2468
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK125-2026-11-24",
@@ -505,7 +505,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -514,7 +514,7 @@
         "lon": 63.361
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-SA190-2026-11-24",
@@ -533,7 +533,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "04",
       "gate": null,
       "airport": {
         "iata": "JNB",
@@ -542,7 +542,7 @@
         "lon": 28.2468
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK647-2026-11-24",
@@ -561,7 +561,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "05",
       "gate": null,
       "airport": {
         "iata": "KUL",
@@ -570,7 +570,7 @@
         "lon": 101.71
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK131-2026-11-24",
@@ -589,7 +589,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -598,7 +598,7 @@
         "lon": 63.361
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-SA194-2026-11-24",
@@ -615,7 +615,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "04",
       "gate": null,
       "airport": {
         "iata": "CPT",
@@ -624,7 +624,7 @@
         "lon": 18.6043
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK441-2026-11-24",
@@ -641,7 +641,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "05",
       "gate": null,
       "airport": {
         "iata": "PER",
@@ -650,7 +650,7 @@
         "lon": 115.967
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-EK703-2026-11-24",
@@ -669,7 +669,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "02-03",
       "gate": null,
       "airport": {
         "iata": "DXB",
@@ -678,7 +678,7 @@
         "lon": 55.371
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK135-2026-11-24",
@@ -695,7 +695,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -704,7 +704,7 @@
         "lon": 63.361
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-4Z350-2026-11-24",
@@ -721,7 +721,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "01",
       "gate": null,
       "airport": {
         "iata": "CPT",
@@ -730,7 +730,7 @@
         "lon": 18.6043
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK239-2026-11-24",
@@ -750,7 +750,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "04",
       "gate": null,
       "airport": {
         "iata": "RUN",
@@ -759,7 +759,7 @@
         "lon": 55.5189
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK852-2026-11-24",
@@ -778,7 +778,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "05",
       "gate": null,
       "airport": {
         "iata": "JNB",
@@ -787,7 +787,7 @@
         "lon": 28.2468
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK139-2026-11-24",
@@ -806,7 +806,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -815,7 +815,7 @@
         "lon": 63.361
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK141-2026-11-24",
@@ -834,7 +834,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -843,7 +843,7 @@
         "lon": 63.361
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "a-MK151-2026-11-24",
@@ -860,7 +860,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -869,7 +869,7 @@
         "lon": 63.361
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-MK118-2026-11-24",
@@ -885,9 +885,9 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
-      "gate": null,
+      "gate": "20",
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -895,7 +895,7 @@
         "lon": 63.361
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-TK1177-2026-11-24",
@@ -911,9 +911,9 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
-      "gate": null,
+      "gate": "19",
       "airport": {
         "iata": "IST",
         "name": "Istanbul",
@@ -921,7 +921,7 @@
         "lon": 28.7321
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-MK120-2026-11-24",
@@ -939,9 +939,9 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
-      "gate": null,
+      "gate": "20",
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -949,7 +949,7 @@
         "lon": 63.361
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-MK208-2026-11-24",
@@ -968,9 +968,9 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
-      "gate": null,
+      "gate": "25",
       "airport": {
         "iata": "RUN",
         "name": "St Denis, Réunion",
@@ -978,7 +978,7 @@
         "lon": 55.5189
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-MK851-2026-11-24",
@@ -996,9 +996,9 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
-      "gate": null,
+      "gate": "22",
       "airport": {
         "iata": "JNB",
         "name": "Johannesburg",
@@ -1006,7 +1006,7 @@
         "lon": 28.2468
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-AI2242-2026-11-24",
@@ -1024,7 +1024,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "26",
       "airport": {
         "iata": "BOM",
         "name": "Mumbai",
@@ -1032,7 +1032,7 @@
         "lon": 72.8679
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-6E1862-2026-11-24",
@@ -1050,7 +1050,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "24",
       "airport": {
         "iata": "BLR",
         "name": "Bangalore",
@@ -1058,7 +1058,7 @@
         "lon": 77.7063
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-MK218-2026-11-24",
@@ -1105,7 +1105,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "28",
       "airport": {
         "iata": "CDG",
         "name": "Paris CDG",
@@ -1113,7 +1113,7 @@
         "lon": 2.5541
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-MK124-2026-11-24",
@@ -1131,7 +1131,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "20",
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -1139,7 +1139,7 @@
         "lon": 63.361
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-MK130-2026-11-24",
@@ -1159,7 +1159,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "20",
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -1167,7 +1167,7 @@
         "lon": 63.361
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-MK134-2026-11-24",
@@ -1185,7 +1185,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "20",
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -1193,7 +1193,7 @@
         "lon": 63.361
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-MK238-2026-11-24",
@@ -1214,7 +1214,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "28",
       "airport": {
         "iata": "RUN",
         "name": "St Denis, Réunion",
@@ -1222,7 +1222,7 @@
         "lon": 55.5189
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-FA851-2026-11-24",
@@ -1240,7 +1240,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "24",
       "airport": {
         "iata": "JNB",
         "name": "Johannesburg",
@@ -1248,7 +1248,7 @@
         "lon": 28.2468
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-EK702-2026-11-24",
@@ -1276,7 +1276,7 @@
         "lon": 55.371
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-MK138-2026-11-24",
@@ -1294,7 +1294,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "20",
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -1302,7 +1302,7 @@
         "lon": 63.361
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-SA191-2026-11-24",
@@ -1322,7 +1322,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "19",
       "airport": {
         "iata": "JNB",
         "name": "Johannesburg",
@@ -1330,7 +1330,7 @@
         "lon": 28.2468
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-MK140-2026-11-24",
@@ -1348,7 +1348,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "20",
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -1356,7 +1356,7 @@
         "lon": 63.361
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-SA195-2026-11-24",
@@ -1374,7 +1374,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "24",
       "airport": {
         "iata": "CPT",
         "name": "Cape Town",
@@ -1382,7 +1382,7 @@
         "lon": 18.6043
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-UU105-2026-11-24",
@@ -1400,7 +1400,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "15",
       "airport": {
         "iata": "RUN",
         "name": "St Denis, Réunion",
@@ -1408,7 +1408,7 @@
         "lon": 55.5189
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-MK843-2026-11-24",
@@ -1428,7 +1428,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "26",
       "airport": {
         "iata": "CPT",
         "name": "Cape Town",
@@ -1436,7 +1436,7 @@
         "lon": 18.6043
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-4Z351-2026-11-24",
@@ -1454,7 +1454,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "28",
       "airport": {
         "iata": "CPT",
         "name": "Cape Town",
@@ -1462,7 +1462,7 @@
         "lon": 18.6043
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-EK710-2026-11-24",
@@ -1482,7 +1482,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "17",
       "airport": {
         "iata": "DXB",
         "name": "Dubai",
@@ -1490,7 +1490,7 @@
         "lon": 55.371
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-MK150-2026-11-24",
@@ -1508,7 +1508,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "20",
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -1516,7 +1516,7 @@
         "lon": 63.361
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-TK161-2026-11-24",
@@ -1534,7 +1534,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "26",
       "airport": {
         "iata": "IST",
         "name": "Istanbul",
@@ -1542,7 +1542,7 @@
         "lon": 28.7321
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-MK248-2026-11-24",
@@ -1562,7 +1562,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "25",
       "airport": {
         "iata": "RUN",
         "name": "St Denis, Réunion",
@@ -1570,7 +1570,7 @@
         "lon": 55.5189
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-MK042-2026-11-24",
@@ -1588,7 +1588,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "19",
       "airport": {
         "iata": "LGW",
         "name": "London Gatwick",
@@ -1596,7 +1596,7 @@
         "lon": -0.1857
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-EK704-2026-11-24",
@@ -1616,7 +1616,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "22-23",
       "airport": {
         "iata": "DXB",
         "name": "Dubai",
@@ -1624,7 +1624,7 @@
         "lon": 55.371
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-MK014-2026-11-24",
@@ -1645,7 +1645,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "28",
       "airport": {
         "iata": "CDG",
         "name": "Paris CDG",
@@ -1653,7 +1653,7 @@
         "lon": 2.5541
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     },
     {
       "id": "d-MK748-2026-11-24",
@@ -1671,7 +1671,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "24",
       "airport": {
         "iata": "BOM",
         "name": "Mumbai",
@@ -1679,7 +1679,7 @@
         "lon": 72.8679
       },
       "firstSeen": "2026-11-23T20:03:11.922Z",
-      "lastSeen": "2026-11-24T01:53:09.332Z"
+      "lastSeen": "2026-11-24T02:03:10.088Z"
     }
   ]
 }
