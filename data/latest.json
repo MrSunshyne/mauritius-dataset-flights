@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-24T07:53:12.169Z",
+  "fetched": "2026-11-24T08:03:21.612Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -867,10 +867,10 @@
         "Cape Town"
       ],
       "scheduled": "2026-11-24T16:25:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-24T16:29:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "04",
       "gate": null,
       "airport": {
