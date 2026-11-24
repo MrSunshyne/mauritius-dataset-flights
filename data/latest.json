@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-24T04:03:17.153Z",
+  "fetched": "2026-11-24T04:13:10.075Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -168,9 +168,9 @@
       ],
       "scheduled": "2026-11-24T08:10:00+04:00",
       "estimated": null,
-      "actual": "2026-11-24T07:57:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-24T08:04:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "03",
       "gate": null,
       "airport": {
@@ -245,8 +245,8 @@
       "scheduled": "2026-11-24T08:35:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -272,8 +272,8 @@
       "scheduled": "2026-11-24T08:40:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "25",
       "airport": {
