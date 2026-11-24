@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-24T23:27:38.620Z",
+  "fetched": "2026-11-24T23:33:15.260Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -809,11 +809,11 @@
         "Istanbul"
       ],
       "scheduled": "2026-11-25T12:40:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-25T11:56:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
+      "status": "estimated",
+      "statusText": "Expected",
+      "belt": "03",
       "gate": null,
       "airport": {
         "iata": "IST",
@@ -1694,7 +1694,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "24",
       "airport": {
         "iata": "IST",
         "name": "Istanbul",
