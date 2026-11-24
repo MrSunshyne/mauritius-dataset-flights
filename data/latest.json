@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-24T11:03:09.744Z",
+  "fetched": "2026-11-24T11:13:10.058Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -691,10 +691,10 @@
         "St Denis Reunion"
       ],
       "scheduled": "2026-11-24T15:25:00+04:00",
-      "estimated": "2026-11-24T14:50:00+04:00",
+      "estimated": "2026-11-24T15:02:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "28",
       "airport": {
@@ -817,10 +817,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-24T16:20:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-24T16:35:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -1143,7 +1143,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "26",
       "airport": {
