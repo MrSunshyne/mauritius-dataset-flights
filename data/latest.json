@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-24T05:23:12.268Z",
+  "fetched": "2026-11-24T05:33:09.313Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -370,7 +370,7 @@
         "Bangalore"
       ],
       "scheduled": "2026-11-24T09:30:00+04:00",
-      "estimated": "2026-11-24T09:20:00+04:00",
+      "estimated": "2026-11-24T09:27:00+04:00",
       "actual": null,
       "status": "unknown",
       "statusText": "Taxiing",
@@ -471,7 +471,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -521,7 +521,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -941,10 +941,10 @@
         "Perth"
       ],
       "scheduled": "2026-11-24T17:00:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-24T16:38:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "05",
       "gate": null,
       "airport": {
