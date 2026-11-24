@@ -1,0 +1,2031 @@
+{
+  "date": "2026-11-25",
+  "updated": "2026-11-24T20:03:11.034Z",
+  "source": "https://mru.airport.aero",
+  "flights": [
+    {
+      "id": "a-KQ274-2026-11-25",
+      "kind": "arrival",
+      "number": "KQ274",
+      "codeshares": [],
+      "airline": "Kenya Airways",
+      "city": "Nairobi",
+      "stops": [
+        "Nairobi"
+      ],
+      "scheduled": "2026-11-25T02:55:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "NBO",
+        "name": "Nairobi",
+        "lat": -1.3189,
+        "lon": 36.9282
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-DE2314-2026-11-25",
+      "kind": "arrival",
+      "number": "DE2314",
+      "codeshares": [],
+      "airline": "Condor",
+      "city": "Frankfurt",
+      "stops": [
+        "Frankfurt"
+      ],
+      "scheduled": "2026-11-25T06:25:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "FRA",
+        "name": "Frankfurt",
+        "lat": 50.0267,
+        "lon": 8.5584
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-MK015-2026-11-25",
+      "kind": "arrival",
+      "number": "MK015",
+      "codeshares": [
+        "AF7964",
+        "KL3848"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Paris CDG",
+      "stops": [
+        "Paris CDG"
+      ],
+      "scheduled": "2026-11-25T06:35:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "CDG",
+        "name": "Paris CDG",
+        "lat": 49.009,
+        "lon": 2.5541
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-AI2241-2026-11-25",
+      "kind": "arrival",
+      "number": "AI2241",
+      "codeshares": [],
+      "airline": "Air India",
+      "city": "Mumbai",
+      "stops": [
+        "Mumbai"
+      ],
+      "scheduled": "2026-11-25T06:55:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "BOM",
+        "name": "Mumbai",
+        "lat": 19.0887,
+        "lon": 72.8679
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-MK053-2026-11-25",
+      "kind": "arrival",
+      "number": "MK053",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "London Gatwick",
+      "stops": [
+        "London Gatwick"
+      ],
+      "scheduled": "2026-11-25T07:40:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "LGW",
+        "name": "London Gatwick",
+        "lat": 51.1487,
+        "lon": -0.1857
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-MK249-2026-11-25",
+      "kind": "arrival",
+      "number": "MK249",
+      "codeshares": [
+        "AF7945"
+      ],
+      "airline": "Air Mauritius",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-25T07:50:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-WK070-2026-11-25",
+      "kind": "arrival",
+      "number": "WK070",
+      "codeshares": [
+        "LX8070"
+      ],
+      "airline": "Edelweiss Air",
+      "city": "Zurich",
+      "stops": [
+        "Zurich"
+      ],
+      "scheduled": "2026-11-25T07:55:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "ZRH",
+        "name": "Zurich",
+        "lat": 47.4581,
+        "lon": 8.5481
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-AF470-2026-11-25",
+      "kind": "arrival",
+      "number": "AF470",
+      "codeshares": [
+        "MK933"
+      ],
+      "airline": "Air France",
+      "city": "Paris CDG",
+      "stops": [
+        "Paris CDG"
+      ],
+      "scheduled": "2026-11-25T08:20:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "CDG",
+        "name": "Paris CDG",
+        "lat": 49.009,
+        "lon": 2.5541
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-6E1861-2026-11-25",
+      "kind": "arrival",
+      "number": "6E1861",
+      "codeshares": [],
+      "airline": "IndiGo",
+      "city": "Bangalore",
+      "stops": [
+        "Bangalore"
+      ],
+      "scheduled": "2026-11-25T08:30:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "BLR",
+        "name": "Bangalore",
+        "lat": 13.1979,
+        "lon": 77.7063
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-OS061-2026-11-25",
+      "kind": "arrival",
+      "number": "OS061",
+      "codeshares": [],
+      "airline": "Austrian Airlines",
+      "city": "Vienna",
+      "stops": [
+        "Vienna"
+      ],
+      "scheduled": "2026-11-25T08:40:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "VIE",
+        "name": "Vienna",
+        "lat": 48.1103,
+        "lon": 16.5697
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-EK701-2026-11-25",
+      "kind": "arrival",
+      "number": "EK701",
+      "codeshares": [
+        "MK911"
+      ],
+      "airline": "Emirates",
+      "city": "Dubai",
+      "stops": [
+        "Dubai"
+      ],
+      "scheduled": "2026-11-25T09:10:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "DXB",
+        "name": "Dubai",
+        "lat": 25.2498,
+        "lon": 55.371
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-MK059-2026-11-25",
+      "kind": "arrival",
+      "number": "MK059",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Geneva",
+      "stops": [
+        "Geneva"
+      ],
+      "scheduled": "2026-11-25T09:35:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "GVA",
+        "name": "Geneva",
+        "lat": 46.2381,
+        "lon": 6.109
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-MK209-2026-11-25",
+      "kind": "arrival",
+      "number": "MK209",
+      "codeshares": [
+        "AF7952"
+      ],
+      "airline": "Air Mauritius",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-25T11:00:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-BA2065-2026-11-25",
+      "kind": "arrival",
+      "number": "BA2065",
+      "codeshares": [],
+      "airline": "British Airways",
+      "city": "London Gatwick",
+      "stops": [
+        "London Gatwick"
+      ],
+      "scheduled": "2026-11-25T11:35:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "LGW",
+        "name": "London Gatwick",
+        "lat": 51.1487,
+        "lon": -0.1857
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-MK119-2026-11-25",
+      "kind": "arrival",
+      "number": "MK119",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-25T11:40:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-HM049-2026-11-25",
+      "kind": "arrival",
+      "number": "HM049",
+      "codeshares": [],
+      "airline": "Air Seychelles",
+      "city": "Seychelles",
+      "stops": [
+        "Seychelles"
+      ],
+      "scheduled": "2026-11-25T12:05:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "SEZ",
+        "name": "Mahé, Seychelles",
+        "lat": -4.6743,
+        "lon": 55.5218
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-MK121-2026-11-25",
+      "kind": "arrival",
+      "number": "MK121",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-25T12:30:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-TK176-2026-11-25",
+      "kind": "arrival",
+      "number": "TK176",
+      "codeshares": [],
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
+      "stops": [
+        "Istanbul"
+      ],
+      "scheduled": "2026-11-25T12:40:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "IST",
+        "name": "Istanbul",
+        "lat": 41.2749,
+        "lon": 28.7321
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-MK219-2026-11-25",
+      "kind": "arrival",
+      "number": "MK219",
+      "codeshares": [
+        "AF7941"
+      ],
+      "airline": "Air Mauritius",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-25T12:55:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-MK749-2026-11-25",
+      "kind": "arrival",
+      "number": "MK749",
+      "codeshares": [
+        "AI6749"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Mumbai",
+      "stops": [
+        "Mumbai"
+      ],
+      "scheduled": "2026-11-25T13:20:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "BOM",
+        "name": "Mumbai",
+        "lat": 19.0887,
+        "lon": 72.8679
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-AF418-2026-11-25",
+      "kind": "arrival",
+      "number": "AF418",
+      "codeshares": [],
+      "airline": "Air France",
+      "city": "Paris CDG",
+      "stops": [
+        "Paris CDG"
+      ],
+      "scheduled": "2026-11-25T13:45:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "CDG",
+        "name": "Paris CDG",
+        "lat": 49.009,
+        "lon": 2.5541
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-SS632-2026-11-25",
+      "kind": "arrival",
+      "number": "SS632",
+      "codeshares": [],
+      "airline": "Corsair International",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-25T14:10:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-4Y156-2026-11-25",
+      "kind": "arrival",
+      "number": "4Y156",
+      "codeshares": [],
+      "airline": "Eurowings Discover",
+      "city": "Seychelles",
+      "stops": [
+        "Seychelles"
+      ],
+      "scheduled": "2026-11-25T14:40:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "SEZ",
+        "name": "Mahé, Seychelles",
+        "lat": -4.6743,
+        "lon": 55.5218
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-EK709-2026-11-25",
+      "kind": "arrival",
+      "number": "EK709",
+      "codeshares": [
+        "MK917"
+      ],
+      "airline": "Emirates",
+      "city": "Dubai",
+      "stops": [
+        "Dubai"
+      ],
+      "scheduled": "2026-11-25T14:40:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "DXB",
+        "name": "Dubai",
+        "lat": 25.2498,
+        "lon": 55.371
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-ET887-2026-11-25",
+      "kind": "arrival",
+      "number": "ET887",
+      "codeshares": [],
+      "airline": "Ethopian Airlines",
+      "city": "Addis Ababa",
+      "stops": [
+        "Addis Ababa"
+      ],
+      "scheduled": "2026-11-25T15:20:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "ADD",
+        "name": "Addis Ababa",
+        "lat": 8.9779,
+        "lon": 38.7993
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-SV481-2026-11-25",
+      "kind": "arrival",
+      "number": "SV481",
+      "codeshares": [
+        "MK787"
+      ],
+      "airline": "Saudi Arabian Airline",
+      "city": "Jeddah",
+      "stops": [
+        "Jeddah"
+      ],
+      "scheduled": "2026-11-25T15:35:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "JED",
+        "name": "Jeddah",
+        "lat": 21.6802,
+        "lon": 39.1574
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-MK125-2026-11-25",
+      "kind": "arrival",
+      "number": "MK125",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-25T15:40:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-SA190-2026-11-25",
+      "kind": "arrival",
+      "number": "SA190",
+      "codeshares": [
+        "MK950"
+      ],
+      "airline": "South African Airways",
+      "city": "Johannesburg",
+      "stops": [
+        "Johannesburg"
+      ],
+      "scheduled": "2026-11-25T15:45:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "JNB",
+        "name": "Johannesburg",
+        "lat": -26.1401,
+        "lon": 28.2468
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-UU106-2026-11-25",
+      "kind": "arrival",
+      "number": "UU106",
+      "codeshares": [],
+      "airline": "Air Austral",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-25T16:00:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-MK131-2026-11-25",
+      "kind": "arrival",
+      "number": "MK131",
+      "codeshares": [
+        "AF7049"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-25T16:20:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-EK703-2026-11-25",
+      "kind": "arrival",
+      "number": "EK703",
+      "codeshares": [
+        "MK913"
+      ],
+      "airline": "Emirates",
+      "city": "Dubai",
+      "stops": [
+        "Dubai"
+      ],
+      "scheduled": "2026-11-25T17:10:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "DXB",
+        "name": "Dubai",
+        "lat": 25.2498,
+        "lon": 55.371
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-MK135-2026-11-25",
+      "kind": "arrival",
+      "number": "MK135",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-25T17:10:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-KQ270-2026-11-25",
+      "kind": "arrival",
+      "number": "KQ270",
+      "codeshares": [
+        "MK961"
+      ],
+      "airline": "Kenya Airways",
+      "city": "Nairobi",
+      "stops": [
+        "Nairobi"
+      ],
+      "scheduled": "2026-11-25T17:30:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "NBO",
+        "name": "Nairobi",
+        "lat": -1.3189,
+        "lon": 36.9282
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-MK239-2026-11-25",
+      "kind": "arrival",
+      "number": "MK239",
+      "codeshares": [
+        "AF7943",
+        "AI6725"
+      ],
+      "airline": "Air Mauritius",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-25T17:45:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-MK289-2026-11-25",
+      "kind": "arrival",
+      "number": "MK289",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Antananarivo",
+      "stops": [
+        "Antananarivo"
+      ],
+      "scheduled": "2026-11-25T19:50:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "TNR",
+        "name": "Antananarivo",
+        "lat": -18.7969,
+        "lon": 47.4788
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-MK139-2026-11-25",
+      "kind": "arrival",
+      "number": "MK139",
+      "codeshares": [
+        "AF7963"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-25T20:30:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-MK141-2026-11-25",
+      "kind": "arrival",
+      "number": "MK141",
+      "codeshares": [
+        "AF7051"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-25T21:00:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "a-MK151-2026-11-25",
+      "kind": "arrival",
+      "number": "MK151",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-25T22:55:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-KQ275-2026-11-25",
+      "kind": "departure",
+      "number": "KQ275",
+      "codeshares": [],
+      "airline": "Kenya Airways",
+      "city": "Nairobi",
+      "stops": [
+        "Nairobi"
+      ],
+      "scheduled": "2026-11-25T03:55:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "NBO",
+        "name": "Nairobi",
+        "lat": -1.3189,
+        "lon": 36.9282
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-MK118-2026-11-25",
+      "kind": "departure",
+      "number": "MK118",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-25T07:45:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-MK120-2026-11-25",
+      "kind": "departure",
+      "number": "MK120",
+      "codeshares": [
+        "AF7044"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-25T08:35:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-DE2315-2026-11-25",
+      "kind": "departure",
+      "number": "DE2315",
+      "codeshares": [],
+      "airline": "Condor",
+      "city": "Frankfurt",
+      "stops": [
+        "Frankfurt"
+      ],
+      "scheduled": "2026-11-25T08:40:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "FRA",
+        "name": "Frankfurt",
+        "lat": 50.0267,
+        "lon": 8.5584
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-MK208-2026-11-25",
+      "kind": "departure",
+      "number": "MK208",
+      "codeshares": [
+        "AF7946",
+        "AI6724"
+      ],
+      "airline": "Air Mauritius",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-25T08:40:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-AI2242-2026-11-25",
+      "kind": "departure",
+      "number": "AI2242",
+      "codeshares": [],
+      "airline": "Air India",
+      "city": "Mumbai",
+      "stops": [
+        "Mumbai"
+      ],
+      "scheduled": "2026-11-25T09:00:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "BOM",
+        "name": "Mumbai",
+        "lat": 19.0887,
+        "lon": 72.8679
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-WK071-2026-11-25",
+      "kind": "departure",
+      "number": "WK071",
+      "codeshares": [
+        "LX8071"
+      ],
+      "airline": "Edelweiss Air",
+      "city": "Zurich",
+      "stops": [
+        "Zurich"
+      ],
+      "scheduled": "2026-11-25T09:25:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "ZRH",
+        "name": "Zurich",
+        "lat": 47.4581,
+        "lon": 8.5481
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-6E1862-2026-11-25",
+      "kind": "departure",
+      "number": "6E1862",
+      "codeshares": [],
+      "airline": "IndiGo",
+      "city": "Bangalore",
+      "stops": [
+        "Bangalore"
+      ],
+      "scheduled": "2026-11-25T09:30:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "BLR",
+        "name": "Bangalore",
+        "lat": 13.1979,
+        "lon": 77.7063
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-MK048-2026-11-25",
+      "kind": "departure",
+      "number": "MK048",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Geneva",
+      "stops": [
+        "Geneva"
+      ],
+      "scheduled": "2026-11-25T09:45:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "GVA",
+        "name": "Geneva",
+        "lat": 46.2381,
+        "lon": 6.109
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-MK218-2026-11-25",
+      "kind": "departure",
+      "number": "MK218",
+      "codeshares": [
+        "AF7940",
+        "AI6722"
+      ],
+      "airline": "Air Mauritius",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-25T10:00:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-OS062-2026-11-25",
+      "kind": "departure",
+      "number": "OS062",
+      "codeshares": [],
+      "airline": "Austrian Airlines",
+      "city": "Vienna",
+      "stops": [
+        "Vienna"
+      ],
+      "scheduled": "2026-11-25T10:20:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "VIE",
+        "name": "Vienna",
+        "lat": 48.1103,
+        "lon": 16.5697
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-AF473-2026-11-25",
+      "kind": "departure",
+      "number": "AF473",
+      "codeshares": [],
+      "airline": "Air France",
+      "city": "Paris CDG",
+      "stops": [
+        "Paris CDG"
+      ],
+      "scheduled": "2026-11-25T10:40:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "CDG",
+        "name": "Paris CDG",
+        "lat": 49.009,
+        "lon": 2.5541
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-MK124-2026-11-25",
+      "kind": "departure",
+      "number": "MK124",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-25T11:45:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-MK130-2026-11-25",
+      "kind": "departure",
+      "number": "MK130",
+      "codeshares": [
+        "AF7050"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-25T12:25:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-HM048-2026-11-25",
+      "kind": "departure",
+      "number": "HM048",
+      "codeshares": [],
+      "airline": "Air Seychelles",
+      "city": "Seychelles",
+      "stops": [
+        "Seychelles"
+      ],
+      "scheduled": "2026-11-25T13:05:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "SEZ",
+        "name": "Mahé, Seychelles",
+        "lat": -4.6743,
+        "lon": 55.5218
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-MK134-2026-11-25",
+      "kind": "departure",
+      "number": "MK134",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-25T13:15:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-MK288-2026-11-25",
+      "kind": "departure",
+      "number": "MK288",
+      "codeshares": [
+        "AI6740",
+        "EK3476"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Antananarivo",
+      "stops": [
+        "Antananarivo"
+      ],
+      "scheduled": "2026-11-25T14:20:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "TNR",
+        "name": "Antananarivo",
+        "lat": -18.7969,
+        "lon": 47.4788
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-MK238-2026-11-25",
+      "kind": "departure",
+      "number": "MK238",
+      "codeshares": [
+        "AF7942",
+        "AI6718"
+      ],
+      "airline": "Air Mauritius",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-25T15:25:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-ET886-2026-11-25",
+      "kind": "departure",
+      "number": "ET886",
+      "codeshares": [],
+      "airline": "Ethopian Airlines",
+      "city": "Addis Ababa",
+      "stops": [
+        "Addis Ababa"
+      ],
+      "scheduled": "2026-11-25T16:20:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "ADD",
+        "name": "Addis Ababa",
+        "lat": 8.9779,
+        "lon": 38.7993
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-EK702-2026-11-25",
+      "kind": "departure",
+      "number": "EK702",
+      "codeshares": [
+        "MK910"
+      ],
+      "airline": "Emirates",
+      "city": "Dubai",
+      "stops": [
+        "Dubai"
+      ],
+      "scheduled": "2026-11-25T16:25:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "DXB",
+        "name": "Dubai",
+        "lat": 25.2498,
+        "lon": 55.371
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-MK138-2026-11-25",
+      "kind": "departure",
+      "number": "MK138",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-25T16:35:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-SA191-2026-11-25",
+      "kind": "departure",
+      "number": "SA191",
+      "codeshares": [
+        "MK949"
+      ],
+      "airline": "South African Airways",
+      "city": "Johannesburg",
+      "stops": [
+        "Johannesburg"
+      ],
+      "scheduled": "2026-11-25T16:35:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "JNB",
+        "name": "Johannesburg",
+        "lat": -26.1401,
+        "lon": 28.2468
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-MK140-2026-11-25",
+      "kind": "departure",
+      "number": "MK140",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-25T17:05:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-UU107-2026-11-25",
+      "kind": "departure",
+      "number": "UU107",
+      "codeshares": [],
+      "airline": "Air Austral",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-25T17:15:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-SV482-2026-11-25",
+      "kind": "departure",
+      "number": "SV482",
+      "codeshares": [
+        "MK786"
+      ],
+      "airline": "Saudi Arabian Airline",
+      "city": "Jeddah",
+      "stops": [
+        "Jeddah"
+      ],
+      "scheduled": "2026-11-25T17:45:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "JED",
+        "name": "Jeddah",
+        "lat": 21.6802,
+        "lon": 39.1574
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-SS633-2026-11-25",
+      "kind": "departure",
+      "number": "SS633",
+      "codeshares": [],
+      "airline": "Corsair International",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion",
+        "Marseille",
+        "Toulouse"
+      ],
+      "scheduled": "2026-11-25T17:55:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-4Y157-2026-11-25",
+      "kind": "departure",
+      "number": "4Y157",
+      "codeshares": [],
+      "airline": "Eurowings Discover",
+      "city": "Seychelles",
+      "stops": [
+        "Seychelles",
+        "Frankfurt"
+      ],
+      "scheduled": "2026-11-25T18:10:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "SEZ",
+        "name": "Mahé, Seychelles",
+        "lat": -4.6743,
+        "lon": 55.5218
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-EK710-2026-11-25",
+      "kind": "departure",
+      "number": "EK710",
+      "codeshares": [
+        "MK916"
+      ],
+      "airline": "Emirates",
+      "city": "Dubai",
+      "stops": [
+        "Dubai"
+      ],
+      "scheduled": "2026-11-25T18:30:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "DXB",
+        "name": "Dubai",
+        "lat": 25.2498,
+        "lon": 55.371
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-KQ271-2026-11-25",
+      "kind": "departure",
+      "number": "KQ271",
+      "codeshares": [
+        "MK960"
+      ],
+      "airline": "Kenya Airways",
+      "city": "Nairobi",
+      "stops": [
+        "Nairobi"
+      ],
+      "scheduled": "2026-11-25T18:30:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "NBO",
+        "name": "Nairobi",
+        "lat": -1.3189,
+        "lon": 36.9282
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-MK150-2026-11-25",
+      "kind": "departure",
+      "number": "MK150",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-25T19:00:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-TK177-2026-11-25",
+      "kind": "departure",
+      "number": "TK177",
+      "codeshares": [],
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
+      "stops": [
+        "Istanbul"
+      ],
+      "scheduled": "2026-11-25T20:30:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "IST",
+        "name": "Istanbul",
+        "lat": 41.2749,
+        "lon": 28.7321
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-AF417-2026-11-25",
+      "kind": "departure",
+      "number": "AF417",
+      "codeshares": [],
+      "airline": "Air France",
+      "city": "Paris CDG",
+      "stops": [
+        "Paris CDG"
+      ],
+      "scheduled": "2026-11-25T20:45:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "CDG",
+        "name": "Paris CDG",
+        "lat": 49.009,
+        "lon": 2.5541
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-MK744-2026-11-25",
+      "kind": "departure",
+      "number": "MK744",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Delhi",
+      "stops": [
+        "Delhi"
+      ],
+      "scheduled": "2026-11-25T21:00:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "DEL",
+        "name": "Delhi",
+        "lat": 28.5556,
+        "lon": 77.0952
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-BA2064-2026-11-25",
+      "kind": "departure",
+      "number": "BA2064",
+      "codeshares": [],
+      "airline": "British Airways",
+      "city": "London Gatwick",
+      "stops": [
+        "London Gatwick"
+      ],
+      "scheduled": "2026-11-25T21:15:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "LGW",
+        "name": "London Gatwick",
+        "lat": 51.1487,
+        "lon": -0.1857
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-MK248-2026-11-25",
+      "kind": "departure",
+      "number": "MK248",
+      "codeshares": [
+        "AF7944"
+      ],
+      "airline": "Air Mauritius",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-25T22:00:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-EK704-2026-11-25",
+      "kind": "departure",
+      "number": "EK704",
+      "codeshares": [
+        "MK912"
+      ],
+      "airline": "Emirates",
+      "city": "Dubai",
+      "stops": [
+        "Dubai"
+      ],
+      "scheduled": "2026-11-25T22:30:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "DXB",
+        "name": "Dubai",
+        "lat": 25.2498,
+        "lon": 55.371
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    },
+    {
+      "id": "d-MK014-2026-11-25",
+      "kind": "departure",
+      "number": "MK014",
+      "codeshares": [
+        "AF7965",
+        "KL3849"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Paris CDG",
+      "stops": [
+        "Paris CDG"
+      ],
+      "scheduled": "2026-11-25T22:35:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "CDG",
+        "name": "Paris CDG",
+        "lat": 49.009,
+        "lon": 2.5541
+      },
+      "firstSeen": "2026-11-24T20:03:11.034Z",
+      "lastSeen": "2026-11-24T20:03:11.034Z"
+    }
+  ]
+}
