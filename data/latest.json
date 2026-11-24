@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-24T08:03:21.612Z",
+  "fetched": "2026-11-24T08:13:10.196Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -520,8 +520,8 @@
       "scheduled": "2026-11-24T12:25:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -566,10 +566,10 @@
         "Istanbul"
       ],
       "scheduled": "2026-11-24T12:35:00+04:00",
-      "estimated": "2026-11-24T12:05:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-24T12:09:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -741,10 +741,10 @@
         "Johannesburg"
       ],
       "scheduled": "2026-11-24T15:45:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-24T15:50:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "04",
       "gate": null,
       "airport": {
@@ -867,7 +867,7 @@
         "Cape Town"
       ],
       "scheduled": "2026-11-24T16:25:00+04:00",
-      "estimated": "2026-11-24T16:29:00+04:00",
+      "estimated": "2026-11-24T16:27:00+04:00",
       "actual": null,
       "status": "estimated",
       "statusText": "Expected",
@@ -894,7 +894,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -968,7 +968,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -1143,7 +1143,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "26",
       "airport": {
