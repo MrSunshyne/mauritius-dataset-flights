@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-24T03:03:10.464Z",
+  "fetched": "2026-11-24T03:13:09.154Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -40,10 +40,10 @@
         "Mumbai"
       ],
       "scheduled": "2026-11-24T06:55:00+04:00",
-      "estimated": "2026-11-24T07:09:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-24T07:09:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "05",
       "gate": null,
       "airport": {
@@ -68,9 +68,9 @@
       ],
       "scheduled": "2026-11-24T07:10:00+04:00",
       "estimated": null,
-      "actual": "2026-11-24T06:57:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-24T07:03:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -141,9 +141,9 @@
         "Istanbul"
       ],
       "scheduled": "2026-11-24T08:00:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-24T08:50:00+04:00",
       "actual": null,
-      "status": "scheduled",
+      "status": "estimated",
       "statusText": "Check-in",
       "belt": null,
       "gate": "19",
