@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-24T01:33:16.073Z",
+  "fetched": "2026-11-24T01:43:09.944Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -15,7 +15,7 @@
       "stops": [
         "Istanbul"
       ],
-      "scheduled": "2026-11-24T06:15:00+04:00",
+      "scheduled": "2026-11-24T06:25:00+04:00",
       "estimated": null,
       "actual": null,
       "status": "scheduled",
