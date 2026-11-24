@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-24T07:23:10.481Z",
+  "fetched": "2026-11-24T07:33:17.231Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -424,7 +424,7 @@
       "actual": "2026-11-24T11:04:00+04:00",
       "status": "arrived",
       "statusText": "Arrived",
-      "belt": "04",
+      "belt": "05",
       "gate": null,
       "airport": {
         "iata": "RUN",
