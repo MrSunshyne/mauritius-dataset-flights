@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-24T12:33:12.649Z",
+  "fetched": "2026-11-24T12:43:18.339Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -818,9 +818,9 @@
       ],
       "scheduled": "2026-11-24T16:20:00+04:00",
       "estimated": null,
-      "actual": "2026-11-24T16:31:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-24T16:35:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -867,10 +867,10 @@
         "Cape Town"
       ],
       "scheduled": "2026-11-24T16:25:00+04:00",
-      "estimated": "2026-11-24T16:27:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-24T16:39:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -891,10 +891,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-24T16:35:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-24T16:37:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -917,7 +917,7 @@
         "Johannesburg"
       ],
       "scheduled": "2026-11-24T16:35:00+04:00",
-      "estimated": "2026-11-24T16:28:00+04:00",
+      "estimated": "2026-11-24T16:34:00+04:00",
       "actual": null,
       "status": "unknown",
       "statusText": "Taxiing",
