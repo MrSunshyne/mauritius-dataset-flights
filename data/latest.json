@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-24T07:33:17.231Z",
+  "fetched": "2026-11-24T07:43:09.624Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -492,10 +492,10 @@
         "St Denis Reunion"
       ],
       "scheduled": "2026-11-24T11:55:00+04:00",
-      "estimated": "2026-11-24T11:39:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-24T11:40:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -664,10 +664,10 @@
         "Johannesburg"
       ],
       "scheduled": "2026-11-24T15:15:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-24T17:15:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -991,10 +991,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-24T17:10:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-24T17:25:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "02-03",
       "gate": null,
       "airport": {
