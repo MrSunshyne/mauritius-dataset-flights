@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-24T00:03:11.092Z",
+  "fetched": "2026-11-24T00:13:10.183Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -54,32 +54,6 @@
         "name": "Paris CDG",
         "lat": 49.009,
         "lon": 2.5541
-      }
-    },
-    {
-      "id": "a-MK844-2026-11-24",
-      "kind": "arrival",
-      "number": "MK844",
-      "codeshares": [
-        "AF7948"
-      ],
-      "airline": "Air Mauritius",
-      "city": "Cape Town",
-      "stops": [
-        "Cape Town"
-      ],
-      "scheduled": "2026-11-24T06:40:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "CPT",
-        "name": "Cape Town",
-        "lat": -33.974,
-        "lon": 18.6043
       }
     },
     {
@@ -178,6 +152,32 @@
         "name": "Istanbul",
         "lat": 41.2749,
         "lon": 28.7321
+      }
+    },
+    {
+      "id": "a-MK053-2026-11-24",
+      "kind": "arrival",
+      "number": "MK053",
+      "codeshares": [
+        "AF7948"
+      ],
+      "airline": "Air Mauritius",
+      "city": "London Gatwick",
+      "stops": [
+        "London Gatwick"
+      ],
+      "scheduled": "2026-11-24T08:10:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "LGW",
+        "name": "London Gatwick",
+        "lat": 51.1487,
+        "lon": -0.1857
       }
     },
     {
