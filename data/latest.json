@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-24T14:53:10.414Z",
+  "fetched": "2026-11-24T15:03:10.442Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1215,9 +1215,9 @@
       ],
       "scheduled": "2026-11-24T19:00:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "actual": "2026-11-24T18:54:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -1240,10 +1240,10 @@
         "Johannesburg"
       ],
       "scheduled": "2026-11-24T19:10:00+04:00",
-      "estimated": "2026-11-24T18:53:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-24T18:54:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "05",
       "gate": null,
       "airport": {
@@ -1270,7 +1270,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": "06",
+      "belt": "01",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -1320,7 +1320,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": "06",
+      "belt": "01",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -1372,7 +1372,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "25",
       "airport": {
@@ -1446,7 +1446,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -1471,7 +1471,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": "06",
+      "belt": "01",
       "gate": null,
       "airport": {
         "iata": "RRG",
