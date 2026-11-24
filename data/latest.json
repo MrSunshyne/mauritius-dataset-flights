@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-24T04:23:09.452Z",
+  "fetched": "2026-11-24T04:33:12.195Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -143,8 +143,8 @@
       "scheduled": "2026-11-24T08:00:00+04:00",
       "estimated": "2026-11-24T08:50:00+04:00",
       "actual": null,
-      "status": "estimated",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "19",
       "airport": {
@@ -217,10 +217,10 @@
         "Bangalore"
       ],
       "scheduled": "2026-11-24T08:30:00+04:00",
-      "estimated": "2026-11-24T08:25:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-24T08:26:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -244,9 +244,9 @@
       ],
       "scheduled": "2026-11-24T08:35:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "actual": "2026-11-24T08:30:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -298,8 +298,8 @@
       "scheduled": "2026-11-24T08:50:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "22",
       "airport": {
