@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T13:13:13.516Z",
+  "fetched": "2026-11-25T13:23:10.623Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1171,9 +1171,9 @@
       ],
       "scheduled": "2026-11-25T17:05:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "actual": "2026-11-25T17:21:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -1221,9 +1221,9 @@
       ],
       "scheduled": "2026-11-25T17:10:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T17:10:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-25T17:14:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -1244,7 +1244,7 @@
         "St Denis Reunion"
       ],
       "scheduled": "2026-11-25T17:15:00+04:00",
-      "estimated": "2026-11-25T17:11:00+04:00",
+      "estimated": "2026-11-25T17:17:00+04:00",
       "actual": null,
       "status": "unknown",
       "statusText": "Taxiing",
@@ -1271,9 +1271,9 @@
       ],
       "scheduled": "2026-11-25T17:30:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T17:05:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-25T17:13:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "03",
       "gate": null,
       "airport": {
@@ -1348,8 +1348,8 @@
       "scheduled": "2026-11-25T17:55:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "26",
       "airport": {
