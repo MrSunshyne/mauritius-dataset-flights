@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T03:53:09.059Z",
+  "fetched": "2026-11-25T04:03:10.176Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -169,10 +169,10 @@
         "Zurich"
       ],
       "scheduled": "2026-11-25T07:55:00+04:00",
-      "estimated": "2026-11-25T08:06:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-25T08:00:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -247,8 +247,8 @@
       "scheduled": "2026-11-25T08:35:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "20",
       "airport": {
