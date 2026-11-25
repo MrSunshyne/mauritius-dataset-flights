@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T02:23:10.061Z",
+  "fetched": "2026-11-25T02:33:09.118Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -396,7 +396,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "17",
       "airport": {
