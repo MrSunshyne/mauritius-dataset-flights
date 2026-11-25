@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T00:23:09.489Z",
+  "fetched": "2026-11-25T00:33:18.425Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1072,33 +1072,6 @@
       }
     },
     {
-      "id": "d-MK238-2026-11-25",
-      "kind": "departure",
-      "number": "MK238",
-      "codeshares": [
-        "AF7942",
-        "AI6718"
-      ],
-      "airline": "Air Mauritius",
-      "city": "St Denis Reunion",
-      "stops": [
-        "St Denis Reunion"
-      ],
-      "scheduled": "2026-11-25T15:25:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "RUN",
-        "name": "St Denis, Réunion",
-        "lat": -20.8901,
-        "lon": 55.5189
-      }
-    },
-    {
       "id": "a-SV481-2026-11-25",
       "kind": "arrival",
       "number": "SV481",
@@ -1172,6 +1145,33 @@
         "name": "Johannesburg",
         "lat": -26.1401,
         "lon": 28.2468
+      }
+    },
+    {
+      "id": "d-MK238-2026-11-25",
+      "kind": "departure",
+      "number": "MK238",
+      "codeshares": [
+        "AF7942",
+        "AI6718"
+      ],
+      "airline": "Air Mauritius",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-25T15:55:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
       }
     },
     {
@@ -1449,33 +1449,6 @@
       }
     },
     {
-      "id": "a-MK239-2026-11-25",
-      "kind": "arrival",
-      "number": "MK239",
-      "codeshares": [
-        "AF7943",
-        "AI6725"
-      ],
-      "airline": "Air Mauritius",
-      "city": "St Denis Reunion",
-      "stops": [
-        "St Denis Reunion"
-      ],
-      "scheduled": "2026-11-25T17:45:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "RUN",
-        "name": "St Denis, Réunion",
-        "lat": -20.8901,
-        "lon": 55.5189
-      }
-    },
-    {
       "id": "d-SV482-2026-11-25",
       "kind": "departure",
       "number": "SV482",
@@ -1550,6 +1523,33 @@
         "name": "Mahé, Seychelles",
         "lat": -4.6743,
         "lon": 55.5218
+      }
+    },
+    {
+      "id": "a-MK239-2026-11-25",
+      "kind": "arrival",
+      "number": "MK239",
+      "codeshares": [
+        "AF7943",
+        "AI6725"
+      ],
+      "airline": "Air Mauritius",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-25T18:15:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
       }
     },
     {
