@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T12:03:11.813Z",
+  "fetched": "2026-11-25T12:13:18.662Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -814,7 +814,7 @@
         "St Denis Reunion"
       ],
       "scheduled": "2026-11-25T14:10:00+04:00",
-      "estimated": "2026-11-25T16:10:00+04:00",
+      "estimated": "2026-11-25T16:23:00+04:00",
       "actual": null,
       "status": "delayed",
       "statusText": "Delayed",
@@ -1045,9 +1045,9 @@
       ],
       "scheduled": "2026-11-25T16:00:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T15:57:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-25T16:05:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "02",
       "gate": null,
       "airport": {
@@ -1120,10 +1120,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-25T16:25:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-25T16:11:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "22-23",
       "airport": {
@@ -1148,8 +1148,8 @@
       "scheduled": "2026-11-25T16:35:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "17",
       "airport": {
@@ -1323,7 +1323,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "20",
       "airport": {
