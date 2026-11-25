@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T03:33:09.558Z",
+  "fetched": "2026-11-25T03:43:17.969Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -117,10 +117,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-25T07:45:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-25T07:40:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -144,9 +144,9 @@
       ],
       "scheduled": "2026-11-25T07:50:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "actual": "2026-11-25T07:39:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -764,10 +764,10 @@
         "Mumbai"
       ],
       "scheduled": "2026-11-25T13:20:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-25T13:03:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "05",
       "gate": null,
       "airport": {
