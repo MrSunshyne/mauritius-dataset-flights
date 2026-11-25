@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T11:13:10.583Z",
+  "fetched": "2026-11-25T11:23:11.258Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -918,9 +918,9 @@
       ],
       "scheduled": "2026-11-25T15:10:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T15:09:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-25T15:13:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -967,10 +967,10 @@
         "Jeddah"
       ],
       "scheduled": "2026-11-25T15:35:00+04:00",
-      "estimated": "2026-11-25T15:26:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-25T15:16:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "04-05",
       "gate": null,
       "airport": {
@@ -1071,7 +1071,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "Check-in",
+      "statusText": "",
       "belt": null,
       "gate": "26",
       "airport": {
@@ -1094,10 +1094,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-25T16:20:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-25T16:30:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "06",
       "gate": null,
       "airport": {
