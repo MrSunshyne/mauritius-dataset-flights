@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T12:43:08.294Z",
+  "fetched": "2026-11-25T12:53:09.856Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1068,10 +1068,10 @@
         "Addis Ababa"
       ],
       "scheduled": "2026-11-25T16:20:00+04:00",
-      "estimated": "2026-11-25T16:30:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-25T16:46:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "26",
       "airport": {
@@ -1146,10 +1146,10 @@
         "Johannesburg"
       ],
       "scheduled": "2026-11-25T16:35:00+04:00",
-      "estimated": "2026-11-25T16:32:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-25T16:42:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "17",
       "airport": {
@@ -1196,10 +1196,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-25T17:10:00+04:00",
-      "estimated": "2026-11-25T17:04:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-25T16:50:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -1298,8 +1298,8 @@
       "scheduled": "2026-11-25T17:45:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
       "gate": "28",
       "airport": {
