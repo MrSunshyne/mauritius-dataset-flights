@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T06:03:08.854Z",
+  "fetched": "2026-11-25T06:13:09.821Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -444,10 +444,10 @@
         "St Denis Reunion"
       ],
       "scheduled": "2026-11-25T10:00:00+04:00",
-      "estimated": "2026-11-25T09:57:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-25T10:04:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -468,10 +468,10 @@
         "Vienna"
       ],
       "scheduled": "2026-11-25T10:20:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-25T10:11:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "19",
       "airport": {
