@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T14:13:09.916Z",
+  "fetched": "2026-11-25T14:23:09.688Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1321,9 +1321,9 @@
       ],
       "scheduled": "2026-11-25T17:55:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "actual": "2026-11-25T18:16:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -1373,10 +1373,10 @@
         "Frankfurt"
       ],
       "scheduled": "2026-11-25T18:10:00+04:00",
-      "estimated": "2026-11-25T17:58:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-25T18:12:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -1426,10 +1426,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-25T18:30:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-25T18:19:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "15",
       "airport": {
