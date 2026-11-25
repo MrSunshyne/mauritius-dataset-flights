@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T20:43:09.771Z",
+  "fetched": "2026-11-25T20:53:11.941Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -91,10 +91,10 @@
         "Mumbai"
       ],
       "scheduled": "2026-11-26T06:55:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-26T06:41:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "05",
       "gate": null,
       "airport": {
