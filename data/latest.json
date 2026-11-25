@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T16:23:09.130Z",
+  "fetched": "2026-11-25T16:33:14.672Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1524,10 +1524,10 @@
         "Istanbul"
       ],
       "scheduled": "2026-11-25T20:30:00+04:00",
-      "estimated": "2026-11-25T20:17:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-25T20:29:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -1628,8 +1628,8 @@
       "scheduled": "2026-11-25T21:00:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "15",
       "airport": {
