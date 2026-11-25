@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T05:03:09.039Z",
+  "fetched": "2026-11-25T05:13:09.797Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -317,10 +317,10 @@
         "Mumbai"
       ],
       "scheduled": "2026-11-25T09:00:00+04:00",
-      "estimated": "2026-11-25T08:50:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-25T09:04:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "22",
       "airport": {
@@ -341,10 +341,10 @@
         "Geneva"
       ],
       "scheduled": "2026-11-25T09:05:00+04:00",
-      "estimated": "2026-11-25T09:15:00+04:00",
+      "estimated": "2026-11-25T09:09:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "26",
       "airport": {
