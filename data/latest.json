@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T01:03:09.997Z",
+  "fetched": "2026-11-25T01:13:09.528Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1701,6 +1701,30 @@
       }
     },
     {
+      "id": "d-BA2064-2026-11-25",
+      "kind": "departure",
+      "number": "BA2064",
+      "codeshares": [],
+      "airline": "British Airways",
+      "city": "London Gatwick",
+      "stops": [
+        "London Gatwick"
+      ],
+      "scheduled": "2026-11-25T20:55:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "LGW",
+        "name": "London Gatwick",
+        "lat": 51.1487,
+        "lon": -0.1857
+      }
+    },
+    {
       "id": "a-MK141-2026-11-25",
       "kind": "arrival",
       "number": "MK141",
@@ -1751,30 +1775,6 @@
       }
     },
     {
-      "id": "d-BA2064-2026-11-25",
-      "kind": "departure",
-      "number": "BA2064",
-      "codeshares": [],
-      "airline": "British Airways",
-      "city": "London Gatwick",
-      "stops": [
-        "London Gatwick"
-      ],
-      "scheduled": "2026-11-25T21:15:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "LGW",
-        "name": "London Gatwick",
-        "lat": 51.1487,
-        "lon": -0.1857
-      }
-    },
-    {
       "id": "a-MK139-2026-11-25",
       "kind": "arrival",
       "number": "MK139",
@@ -1798,6 +1798,33 @@
         "name": "Rodrigues",
         "lat": -19.7577,
         "lon": 63.361
+      }
+    },
+    {
+      "id": "d-MK014-2026-11-25",
+      "kind": "departure",
+      "number": "MK014",
+      "codeshares": [
+        "AF7965",
+        "KL3849"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Paris CDG",
+      "stops": [
+        "Paris CDG"
+      ],
+      "scheduled": "2026-11-25T22:00:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "CDG",
+        "name": "Paris CDG",
+        "lat": 49.009,
+        "lon": 2.5541
       }
     },
     {
@@ -1850,33 +1877,6 @@
         "name": "Dubai",
         "lat": 25.2498,
         "lon": 55.371
-      }
-    },
-    {
-      "id": "d-MK014-2026-11-25",
-      "kind": "departure",
-      "number": "MK014",
-      "codeshares": [
-        "AF7965",
-        "KL3849"
-      ],
-      "airline": "Air Mauritius",
-      "city": "Paris CDG",
-      "stops": [
-        "Paris CDG"
-      ],
-      "scheduled": "2026-11-25T22:35:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "CDG",
-        "name": "Paris CDG",
-        "lat": 49.009,
-        "lon": 2.5541
       }
     },
     {
