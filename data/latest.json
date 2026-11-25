@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T05:23:08.313Z",
+  "fetched": "2026-11-25T05:33:09.326Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -341,10 +341,10 @@
         "Geneva"
       ],
       "scheduled": "2026-11-25T09:05:00+04:00",
-      "estimated": "2026-11-25T09:13:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-25T09:26:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "26",
       "airport": {
@@ -497,7 +497,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "Check-in",
+      "statusText": "",
       "belt": null,
       "gate": "28",
       "airport": {
@@ -521,7 +521,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "20",
       "airport": {
