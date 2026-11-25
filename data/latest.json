@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T15:13:10.873Z",
+  "fetched": "2026-11-25T15:23:15.188Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1477,9 +1477,9 @@
       ],
       "scheduled": "2026-11-25T19:00:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "actual": "2026-11-25T19:18:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -1500,10 +1500,10 @@
         "Antananarivo"
       ],
       "scheduled": "2026-11-25T19:50:00+04:00",
-      "estimated": "2026-11-25T19:12:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-25T19:16:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "05",
       "gate": null,
       "airport": {
