@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T07:03:10.334Z",
+  "fetched": "2026-11-25T07:13:10.163Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1196,10 +1196,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-25T17:10:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-25T17:04:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "02-03",
       "gate": null,
       "airport": {
