@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T11:33:19.933Z",
+  "fetched": "2026-11-25T11:43:18.030Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -994,9 +994,9 @@
       ],
       "scheduled": "2026-11-25T15:45:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "actual": "2026-11-25T15:36:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "03",
       "gate": null,
       "airport": {
@@ -1022,8 +1022,8 @@
       "scheduled": "2026-11-25T15:55:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "25",
       "airport": {
@@ -1351,7 +1351,7 @@
       "status": "scheduled",
       "statusText": "Check-in",
       "belt": null,
-      "gate": "25",
+      "gate": "26",
       "airport": {
         "iata": "RUN",
         "name": "St Denis, Réunion",
@@ -1457,7 +1457,7 @@
       "status": "scheduled",
       "statusText": "Check-in",
       "belt": null,
-      "gate": "26",
+      "gate": "17",
       "airport": {
         "iata": "NBO",
         "name": "Nairobi",
