@@ -1,12 +1,36 @@
 {
-  "fetched": "2026-11-25T19:53:10.267Z",
+  "fetched": "2026-11-25T20:03:09.213Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
   ],
   "flights": [
     {
-      "id": "a-DE2314-2026-11-25",
+      "id": "a-TK1176-2026-11-26",
+      "kind": "arrival",
+      "number": "TK1176",
+      "codeshares": [],
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
+      "stops": [
+        "Istanbul"
+      ],
+      "scheduled": "2026-11-26T06:15:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "IST",
+        "name": "Istanbul",
+        "lat": 41.2749,
+        "lon": 28.7321
+      }
+    },
+    {
+      "id": "a-DE2314-2026-11-26",
       "kind": "arrival",
       "number": "DE2314",
       "codeshares": [],
@@ -15,12 +39,12 @@
       "stops": [
         "Frankfurt"
       ],
-      "scheduled": "2026-11-25T06:25:00+04:00",
+      "scheduled": "2026-11-26T06:25:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T05:30:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "04",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "FRA",
@@ -30,57 +54,7 @@
       }
     },
     {
-      "id": "a-MK844-2026-11-25",
-      "kind": "arrival",
-      "number": "MK844",
-      "codeshares": [
-        "AF7969"
-      ],
-      "airline": "Air Mauritius",
-      "city": "Cape Town",
-      "stops": [
-        "Cape Town"
-      ],
-      "scheduled": "2026-11-25T06:40:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T06:18:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "01",
-      "gate": null,
-      "airport": {
-        "iata": "CPT",
-        "name": "Cape Town",
-        "lat": -33.974,
-        "lon": 18.6043
-      }
-    },
-    {
-      "id": "a-AI2241-2026-11-25",
-      "kind": "arrival",
-      "number": "AI2241",
-      "codeshares": [],
-      "airline": "Air India",
-      "city": "Mumbai",
-      "stops": [
-        "Mumbai"
-      ],
-      "scheduled": "2026-11-25T06:55:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T06:49:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "05",
-      "gate": null,
-      "airport": {
-        "iata": "BOM",
-        "name": "Mumbai",
-        "lat": 19.0887,
-        "lon": 72.8679
-      }
-    },
-    {
-      "id": "a-MK015-2026-11-25",
+      "id": "a-MK015-2026-11-26",
       "kind": "arrival",
       "number": "MK015",
       "codeshares": [
@@ -92,12 +66,12 @@
       "stops": [
         "Paris CDG"
       ],
-      "scheduled": "2026-11-25T07:10:00+04:00",
+      "scheduled": "2026-11-26T06:35:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T07:23:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "02-03",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "CDG",
@@ -107,7 +81,55 @@
       }
     },
     {
-      "id": "d-MK118-2026-11-25",
+      "id": "a-AI2241-2026-11-26",
+      "kind": "arrival",
+      "number": "AI2241",
+      "codeshares": [],
+      "airline": "Air India",
+      "city": "Mumbai",
+      "stops": [
+        "Mumbai"
+      ],
+      "scheduled": "2026-11-26T06:55:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "BOM",
+        "name": "Mumbai",
+        "lat": 19.0887,
+        "lon": 72.8679
+      }
+    },
+    {
+      "id": "a-UU102-2026-11-26",
+      "kind": "arrival",
+      "number": "UU102",
+      "codeshares": [],
+      "airline": "Air Austral",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-26T07:30:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
+      }
+    },
+    {
+      "id": "d-MK118-2026-11-26",
       "kind": "departure",
       "number": "MK118",
       "codeshares": [],
@@ -116,13 +138,13 @@
       "stops": [
         "Rodrigues"
       ],
-      "scheduled": "2026-11-25T07:45:00+04:00",
+      "scheduled": "2026-11-26T07:45:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T07:44:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "20",
+      "gate": null,
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -131,7 +153,7 @@
       }
     },
     {
-      "id": "a-MK249-2026-11-25",
+      "id": "a-MK249-2026-11-26",
       "kind": "arrival",
       "number": "MK249",
       "codeshares": [
@@ -142,12 +164,12 @@
       "stops": [
         "St Denis Reunion"
       ],
-      "scheduled": "2026-11-25T07:50:00+04:00",
+      "scheduled": "2026-11-26T07:50:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T07:43:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "06",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "RUN",
@@ -157,57 +179,55 @@
       }
     },
     {
-      "id": "a-WK070-2026-11-25",
-      "kind": "arrival",
-      "number": "WK070",
-      "codeshares": [
-        "LX8070"
-      ],
-      "airline": "Edelweiss Air",
-      "city": "Zurich",
-      "stops": [
-        "Zurich"
-      ],
-      "scheduled": "2026-11-25T07:55:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T08:09:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "01",
-      "gate": null,
-      "airport": {
-        "iata": "ZRH",
-        "name": "Zurich",
-        "lat": 47.4581,
-        "lon": 8.5481
-      }
-    },
-    {
-      "id": "a-6E1861-2026-11-25",
-      "kind": "arrival",
-      "number": "6E1861",
+      "id": "d-TK1177-2026-11-26",
+      "kind": "departure",
+      "number": "TK1177",
       "codeshares": [],
-      "airline": "IndiGo",
-      "city": "Bangalore",
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
       "stops": [
-        "Bangalore"
+        "Istanbul"
       ],
-      "scheduled": "2026-11-25T08:30:00+04:00",
+      "scheduled": "2026-11-26T08:00:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T08:27:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "06",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
-        "iata": "BLR",
-        "name": "Bangalore",
-        "lat": 13.1979,
-        "lon": 77.7063
+        "iata": "IST",
+        "name": "Istanbul",
+        "lat": 41.2749,
+        "lon": 28.7321
       }
     },
     {
-      "id": "a-AF470-2026-11-25",
+      "id": "d-UU103-2026-11-26",
+      "kind": "departure",
+      "number": "UU103",
+      "codeshares": [],
+      "airline": "Air Austral",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-26T08:15:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
+      }
+    },
+    {
+      "id": "a-AF470-2026-11-26",
       "kind": "arrival",
       "number": "AF470",
       "codeshares": [
@@ -218,12 +238,12 @@
       "stops": [
         "Paris CDG"
       ],
-      "scheduled": "2026-11-25T08:30:00+04:00",
+      "scheduled": "2026-11-26T08:20:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T08:13:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "04-05",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "CDG",
@@ -233,7 +253,31 @@
       }
     },
     {
-      "id": "d-MK120-2026-11-25",
+      "id": "a-6E1861-2026-11-26",
+      "kind": "arrival",
+      "number": "6E1861",
+      "codeshares": [],
+      "airline": "IndiGo",
+      "city": "Bangalore",
+      "stops": [
+        "Bangalore"
+      ],
+      "scheduled": "2026-11-26T08:30:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "BLR",
+        "name": "Bangalore",
+        "lat": 13.1979,
+        "lon": 77.7063
+      }
+    },
+    {
+      "id": "d-MK120-2026-11-26",
       "kind": "departure",
       "number": "MK120",
       "codeshares": [
@@ -244,13 +288,13 @@
       "stops": [
         "Rodrigues"
       ],
-      "scheduled": "2026-11-25T08:35:00+04:00",
+      "scheduled": "2026-11-26T08:35:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T08:33:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "20",
+      "gate": null,
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -259,7 +303,7 @@
       }
     },
     {
-      "id": "d-DE2315-2026-11-25",
+      "id": "d-DE2315-2026-11-26",
       "kind": "departure",
       "number": "DE2315",
       "codeshares": [],
@@ -268,13 +312,13 @@
       "stops": [
         "Frankfurt"
       ],
-      "scheduled": "2026-11-25T08:40:00+04:00",
+      "scheduled": "2026-11-26T08:40:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T08:41:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "19",
+      "gate": null,
       "airport": {
         "iata": "FRA",
         "name": "Frankfurt",
@@ -283,7 +327,34 @@
       }
     },
     {
-      "id": "a-OS061-2026-11-25",
+      "id": "d-MK208-2026-11-26",
+      "kind": "departure",
+      "number": "MK208",
+      "codeshares": [
+        "AF7946",
+        "AI6724"
+      ],
+      "airline": "Air Mauritius",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-26T08:40:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
+      }
+    },
+    {
+      "id": "a-OS061-2026-11-26",
       "kind": "arrival",
       "number": "OS061",
       "codeshares": [],
@@ -292,12 +363,12 @@
       "stops": [
         "Vienna"
       ],
-      "scheduled": "2026-11-25T08:40:00+04:00",
+      "scheduled": "2026-11-26T08:40:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T08:39:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "01",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "VIE",
@@ -307,7 +378,33 @@
       }
     },
     {
-      "id": "d-AI2242-2026-11-25",
+      "id": "d-MK851-2026-11-26",
+      "kind": "departure",
+      "number": "MK851",
+      "codeshares": [
+        "SA7110"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Johannesburg",
+      "stops": [
+        "Johannesburg"
+      ],
+      "scheduled": "2026-11-26T08:50:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "JNB",
+        "name": "Johannesburg",
+        "lat": -26.1401,
+        "lon": 28.2468
+      }
+    },
+    {
+      "id": "d-AI2242-2026-11-26",
       "kind": "departure",
       "number": "AI2242",
       "codeshares": [],
@@ -316,13 +413,13 @@
       "stops": [
         "Mumbai"
       ],
-      "scheduled": "2026-11-25T09:00:00+04:00",
+      "scheduled": "2026-11-26T09:00:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T09:04:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "22",
+      "gate": null,
       "airport": {
         "iata": "BOM",
         "name": "Mumbai",
@@ -331,31 +428,7 @@
       }
     },
     {
-      "id": "d-MK048-2026-11-25",
-      "kind": "departure",
-      "number": "MK048",
-      "codeshares": [],
-      "airline": "Air Mauritius",
-      "city": "Geneva",
-      "stops": [
-        "Geneva"
-      ],
-      "scheduled": "2026-11-25T09:05:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T09:26:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
-      "belt": null,
-      "gate": "26",
-      "airport": {
-        "iata": "GVA",
-        "name": "Geneva",
-        "lat": 46.2381,
-        "lon": 6.109
-      }
-    },
-    {
-      "id": "a-EK701-2026-11-25",
+      "id": "a-EK701-2026-11-26",
       "kind": "arrival",
       "number": "EK701",
       "codeshares": [
@@ -366,12 +439,12 @@
       "stops": [
         "Dubai"
       ],
-      "scheduled": "2026-11-25T09:10:00+04:00",
+      "scheduled": "2026-11-26T09:10:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T09:00:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "02-03",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "DXB",
@@ -381,33 +454,7 @@
       }
     },
     {
-      "id": "d-WK071-2026-11-25",
-      "kind": "departure",
-      "number": "WK071",
-      "codeshares": [
-        "LX8071"
-      ],
-      "airline": "Edelweiss Air",
-      "city": "Zurich",
-      "stops": [
-        "Zurich"
-      ],
-      "scheduled": "2026-11-25T09:25:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T09:49:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
-      "belt": null,
-      "gate": "17",
-      "airport": {
-        "iata": "ZRH",
-        "name": "Zurich",
-        "lat": 47.4581,
-        "lon": 8.5481
-      }
-    },
-    {
-      "id": "d-6E1862-2026-11-25",
+      "id": "d-6E1862-2026-11-26",
       "kind": "departure",
       "number": "6E1862",
       "codeshares": [],
@@ -416,13 +463,13 @@
       "stops": [
         "Bangalore"
       ],
-      "scheduled": "2026-11-25T09:30:00+04:00",
+      "scheduled": "2026-11-26T09:30:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T09:37:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "15",
+      "gate": null,
       "airport": {
         "iata": "BLR",
         "name": "Bangalore",
@@ -431,7 +478,7 @@
       }
     },
     {
-      "id": "d-MK218-2026-11-25",
+      "id": "d-MK218-2026-11-26",
       "kind": "departure",
       "number": "MK218",
       "codeshares": [
@@ -443,13 +490,13 @@
       "stops": [
         "St Denis Reunion"
       ],
-      "scheduled": "2026-11-25T10:00:00+04:00",
+      "scheduled": "2026-11-26T10:00:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T10:04:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "24",
+      "gate": null,
       "airport": {
         "iata": "RUN",
         "name": "St Denis, Réunion",
@@ -458,7 +505,35 @@
       }
     },
     {
-      "id": "d-OS062-2026-11-25",
+      "id": "d-MK440-2026-11-26",
+      "kind": "departure",
+      "number": "MK440",
+      "codeshares": [
+        "AF7953",
+        "KQ4506",
+        "UU1940"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Perth",
+      "stops": [
+        "Perth"
+      ],
+      "scheduled": "2026-11-26T10:15:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "PER",
+        "name": "Perth",
+        "lat": -31.9403,
+        "lon": 115.967
+      }
+    },
+    {
+      "id": "d-OS062-2026-11-26",
       "kind": "departure",
       "number": "OS062",
       "codeshares": [],
@@ -467,13 +542,13 @@
       "stops": [
         "Vienna"
       ],
-      "scheduled": "2026-11-25T10:20:00+04:00",
+      "scheduled": "2026-11-26T10:20:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T10:26:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "19",
+      "gate": null,
       "airport": {
         "iata": "VIE",
         "name": "Vienna",
@@ -482,24 +557,22 @@
       }
     },
     {
-      "id": "d-AF473-2026-11-25",
+      "id": "d-AF473-2026-11-26",
       "kind": "departure",
       "number": "AF473",
-      "codeshares": [
-        "MK932"
-      ],
+      "codeshares": [],
       "airline": "Air France",
       "city": "Paris CDG",
       "stops": [
         "Paris CDG"
       ],
-      "scheduled": "2026-11-25T10:35:00+04:00",
+      "scheduled": "2026-11-26T10:40:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T10:53:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "28",
+      "gate": null,
       "airport": {
         "iata": "CDG",
         "name": "Paris CDG",
@@ -508,55 +581,57 @@
       }
     },
     {
-      "id": "d-MK124-2026-11-25",
-      "kind": "departure",
-      "number": "MK124",
-      "codeshares": [],
-      "airline": "Air Mauritius",
-      "city": "Rodrigues",
-      "stops": [
-        "Rodrigues"
-      ],
-      "scheduled": "2026-11-25T11:15:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T11:17:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
-      "belt": null,
-      "gate": "20",
-      "airport": {
-        "iata": "RRG",
-        "name": "Rodrigues",
-        "lat": -19.7577,
-        "lon": 63.361
-      }
-    },
-    {
-      "id": "a-BA2065-2026-11-25",
+      "id": "a-MK209-2026-11-26",
       "kind": "arrival",
-      "number": "BA2065",
-      "codeshares": [],
-      "airline": "British Airways",
-      "city": "London Gatwick",
-      "stops": [
-        "London Gatwick"
+      "number": "MK209",
+      "codeshares": [
+        "AF7952"
       ],
-      "scheduled": "2026-11-25T11:35:00+04:00",
+      "airline": "Air Mauritius",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-26T11:00:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T11:48:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "05",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
-        "iata": "LGW",
-        "name": "London Gatwick",
-        "lat": 51.1487,
-        "lon": -0.1857
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
       }
     },
     {
-      "id": "a-MK119-2026-11-25",
+      "id": "a-AZ772-2026-11-26",
+      "kind": "arrival",
+      "number": "AZ772",
+      "codeshares": [],
+      "airline": "ITA Airways",
+      "city": "Rome",
+      "stops": [
+        "Rome"
+      ],
+      "scheduled": "2026-11-26T11:25:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "FCO",
+        "name": "Rome",
+        "lat": 41.8045,
+        "lon": 12.252
+      }
+    },
+    {
+      "id": "a-MK119-2026-11-26",
       "kind": "arrival",
       "number": "MK119",
       "codeshares": [],
@@ -565,12 +640,12 @@
       "stops": [
         "Rodrigues"
       ],
-      "scheduled": "2026-11-25T11:40:00+04:00",
+      "scheduled": "2026-11-26T11:40:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T11:33:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "06",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -580,7 +655,55 @@
       }
     },
     {
-      "id": "a-HM049-2026-11-25",
+      "id": "d-MK124-2026-11-26",
+      "kind": "departure",
+      "number": "MK124",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-26T11:45:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      }
+    },
+    {
+      "id": "a-SS958-2026-11-26",
+      "kind": "arrival",
+      "number": "SS958",
+      "codeshares": [],
+      "airline": "Corsair International",
+      "city": "Paris Orly",
+      "stops": [
+        "Paris Orly"
+      ],
+      "scheduled": "2026-11-26T11:55:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "ORY",
+        "name": "Paris Orly",
+        "lat": 48.7295,
+        "lon": 2.359
+      }
+    },
+    {
+      "id": "a-HM049-2026-11-26",
       "kind": "arrival",
       "number": "HM049",
       "codeshares": [],
@@ -589,12 +712,12 @@
       "stops": [
         "Seychelles"
       ],
-      "scheduled": "2026-11-25T12:05:00+04:00",
+      "scheduled": "2026-11-26T12:05:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T12:06:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "01",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "SEZ",
@@ -604,7 +727,7 @@
       }
     },
     {
-      "id": "d-MK130-2026-11-25",
+      "id": "d-MK130-2026-11-26",
       "kind": "departure",
       "number": "MK130",
       "codeshares": [
@@ -615,36 +738,12 @@
       "stops": [
         "Rodrigues"
       ],
-      "scheduled": "2026-11-25T12:25:00+04:00",
+      "scheduled": "2026-11-26T12:25:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T12:26:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "20",
-      "airport": {
-        "iata": "RRG",
-        "name": "Rodrigues",
-        "lat": -19.7577,
-        "lon": 63.361
-      }
-    },
-    {
-      "id": "a-MK121-2026-11-25",
-      "kind": "arrival",
-      "number": "MK121",
-      "codeshares": [],
-      "airline": "Air Mauritius",
-      "city": "Rodrigues",
-      "stops": [
-        "Rodrigues"
-      ],
-      "scheduled": "2026-11-25T12:30:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T12:32:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -654,21 +753,45 @@
       }
     },
     {
-      "id": "a-TK176-2026-11-25",
+      "id": "a-MK121-2026-11-26",
       "kind": "arrival",
-      "number": "TK176",
+      "number": "MK121",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-26T12:30:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      }
+    },
+    {
+      "id": "a-TK160-2026-11-26",
+      "kind": "arrival",
+      "number": "TK160",
       "codeshares": [],
       "airline": "Turkish Airlines",
       "city": "Istanbul",
       "stops": [
         "Istanbul"
       ],
-      "scheduled": "2026-11-25T12:40:00+04:00",
+      "scheduled": "2026-11-26T12:35:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T12:16:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "02-03",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "IST",
@@ -678,7 +801,7 @@
       }
     },
     {
-      "id": "a-MK219-2026-11-25",
+      "id": "a-MK219-2026-11-26",
       "kind": "arrival",
       "number": "MK219",
       "codeshares": [
@@ -689,12 +812,12 @@
       "stops": [
         "St Denis Reunion"
       ],
-      "scheduled": "2026-11-25T12:55:00+04:00",
+      "scheduled": "2026-11-26T12:55:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T12:43:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "01",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "RUN",
@@ -704,7 +827,7 @@
       }
     },
     {
-      "id": "d-HM048-2026-11-25",
+      "id": "d-HM048-2026-11-26",
       "kind": "departure",
       "number": "HM048",
       "codeshares": [],
@@ -713,13 +836,13 @@
       "stops": [
         "Seychelles"
       ],
-      "scheduled": "2026-11-25T13:05:00+04:00",
+      "scheduled": "2026-11-26T13:05:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T13:04:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "17",
+      "gate": null,
       "airport": {
         "iata": "SEZ",
         "name": "Mahé, Seychelles",
@@ -728,7 +851,7 @@
       }
     },
     {
-      "id": "d-MK134-2026-11-25",
+      "id": "d-MK134-2026-11-26",
       "kind": "departure",
       "number": "MK134",
       "codeshares": [],
@@ -737,13 +860,13 @@
       "stops": [
         "Rodrigues"
       ],
-      "scheduled": "2026-11-25T13:15:00+04:00",
+      "scheduled": "2026-11-26T13:15:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T13:16:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "20",
+      "gate": null,
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -752,83 +875,7 @@
       }
     },
     {
-      "id": "a-MK749-2026-11-25",
-      "kind": "arrival",
-      "number": "MK749",
-      "codeshares": [
-        "AI6749"
-      ],
-      "airline": "Air Mauritius",
-      "city": "Mumbai",
-      "stops": [
-        "Mumbai"
-      ],
-      "scheduled": "2026-11-25T13:20:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T13:08:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "05",
-      "gate": null,
-      "airport": {
-        "iata": "BOM",
-        "name": "Mumbai",
-        "lat": 19.0887,
-        "lon": 72.8679
-      }
-    },
-    {
-      "id": "a-AF418-2026-11-25",
-      "kind": "arrival",
-      "number": "AF418",
-      "codeshares": [
-        "MK935"
-      ],
-      "airline": "Air France",
-      "city": "Paris CDG",
-      "stops": [
-        "Paris CDG"
-      ],
-      "scheduled": "2026-11-25T13:45:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T14:07:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "04-05",
-      "gate": null,
-      "airport": {
-        "iata": "CDG",
-        "name": "Paris CDG",
-        "lat": 49.009,
-        "lon": 2.5541
-      }
-    },
-    {
-      "id": "a-SS632-2026-11-25",
-      "kind": "arrival",
-      "number": "SS632",
-      "codeshares": [],
-      "airline": "Corsair International",
-      "city": "St Denis Reunion",
-      "stops": [
-        "St Denis Reunion"
-      ],
-      "scheduled": "2026-11-25T14:10:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T16:36:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "01",
-      "gate": null,
-      "airport": {
-        "iata": "RUN",
-        "name": "St Denis, Réunion",
-        "lat": -20.8901,
-        "lon": 55.5189
-      }
-    },
-    {
-      "id": "d-MK288-2026-11-25",
+      "id": "d-MK288-2026-11-26",
       "kind": "departure",
       "number": "MK288",
       "codeshares": [
@@ -840,13 +887,13 @@
       "stops": [
         "Antananarivo"
       ],
-      "scheduled": "2026-11-25T14:20:00+04:00",
+      "scheduled": "2026-11-26T14:20:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T14:42:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "26",
+      "gate": null,
       "airport": {
         "iata": "TNR",
         "name": "Antananarivo",
@@ -855,33 +902,31 @@
       }
     },
     {
-      "id": "a-4Y156-2026-11-25",
+      "id": "a-MK745-2026-11-26",
       "kind": "arrival",
-      "number": "4Y156",
-      "codeshares": [
-        "LH4542"
-      ],
-      "airline": "Eurowings Discover",
-      "city": "Seychelles",
+      "number": "MK745",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Delhi",
       "stops": [
-        "Seychelles"
+        "Delhi"
       ],
-      "scheduled": "2026-11-25T14:40:00+04:00",
+      "scheduled": "2026-11-26T14:20:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T13:38:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "02",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
-        "iata": "SEZ",
-        "name": "Mahé, Seychelles",
-        "lat": -4.6743,
-        "lon": 55.5218
+        "iata": "DEL",
+        "name": "Delhi",
+        "lat": 28.5556,
+        "lon": 77.0952
       }
     },
     {
-      "id": "a-EK709-2026-11-25",
+      "id": "a-EK709-2026-11-26",
       "kind": "arrival",
       "number": "EK709",
       "codeshares": [
@@ -892,12 +937,12 @@
       "stops": [
         "Dubai"
       ],
-      "scheduled": "2026-11-25T14:40:00+04:00",
+      "scheduled": "2026-11-26T14:40:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T14:22:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "03",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "DXB",
@@ -907,97 +952,21 @@
       }
     },
     {
-      "id": "a-MK125-2026-11-25",
+      "id": "a-FA850-2026-11-26",
       "kind": "arrival",
-      "number": "MK125",
+      "number": "FA850",
       "codeshares": [],
-      "airline": "Air Mauritius",
-      "city": "Rodrigues",
-      "stops": [
-        "Rodrigues"
-      ],
-      "scheduled": "2026-11-25T15:10:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T15:13:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "06",
-      "gate": null,
-      "airport": {
-        "iata": "RRG",
-        "name": "Rodrigues",
-        "lat": -19.7577,
-        "lon": 63.361
-      }
-    },
-    {
-      "id": "a-ET887-2026-11-25",
-      "kind": "arrival",
-      "number": "ET887",
-      "codeshares": [],
-      "airline": "Ethopian Airlines",
-      "city": "Addis Ababa",
-      "stops": [
-        "Addis Ababa"
-      ],
-      "scheduled": "2026-11-25T15:20:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T15:09:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "01",
-      "gate": null,
-      "airport": {
-        "iata": "ADD",
-        "name": "Addis Ababa",
-        "lat": 8.9779,
-        "lon": 38.7993
-      }
-    },
-    {
-      "id": "a-SV481-2026-11-25",
-      "kind": "arrival",
-      "number": "SV481",
-      "codeshares": [
-        "MK787"
-      ],
-      "airline": "Saudi Arabian Airline",
-      "city": "Jeddah",
-      "stops": [
-        "Jeddah"
-      ],
-      "scheduled": "2026-11-25T15:35:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T15:23:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "04-05",
-      "gate": null,
-      "airport": {
-        "iata": "JED",
-        "name": "Jeddah",
-        "lat": 21.6802,
-        "lon": 39.1574
-      }
-    },
-    {
-      "id": "a-SA190-2026-11-25",
-      "kind": "arrival",
-      "number": "SA190",
-      "codeshares": [
-        "MK950"
-      ],
-      "airline": "South African Airways",
+      "airline": "FlySafair",
       "city": "Johannesburg",
       "stops": [
         "Johannesburg"
       ],
-      "scheduled": "2026-11-25T15:45:00+04:00",
+      "scheduled": "2026-11-26T15:15:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T15:42:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "03",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "JNB",
@@ -1007,7 +976,7 @@
       }
     },
     {
-      "id": "d-MK238-2026-11-25",
+      "id": "d-MK238-2026-11-26",
       "kind": "departure",
       "number": "MK238",
       "codeshares": [
@@ -1019,36 +988,12 @@
       "stops": [
         "St Denis Reunion"
       ],
-      "scheduled": "2026-11-25T15:55:00+04:00",
+      "scheduled": "2026-11-26T15:25:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T16:16:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "25",
-      "airport": {
-        "iata": "RUN",
-        "name": "St Denis, Réunion",
-        "lat": -20.8901,
-        "lon": 55.5189
-      }
-    },
-    {
-      "id": "a-UU106-2026-11-25",
-      "kind": "arrival",
-      "number": "UU106",
-      "codeshares": [],
-      "airline": "Air Austral",
-      "city": "St Denis Reunion",
-      "stops": [
-        "St Denis Reunion"
-      ],
-      "scheduled": "2026-11-25T16:00:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T16:05:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "02",
       "gate": null,
       "airport": {
         "iata": "RUN",
@@ -1058,31 +1003,81 @@
       }
     },
     {
-      "id": "d-ET886-2026-11-25",
-      "kind": "departure",
-      "number": "ET886",
+      "id": "a-MK125-2026-11-26",
+      "kind": "arrival",
+      "number": "MK125",
       "codeshares": [],
-      "airline": "Ethopian Airlines",
-      "city": "Addis Ababa",
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
       "stops": [
-        "Addis Ababa"
+        "Rodrigues"
       ],
-      "scheduled": "2026-11-25T16:20:00+04:00",
+      "scheduled": "2026-11-26T15:40:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T16:46:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "26",
+      "gate": null,
       "airport": {
-        "iata": "ADD",
-        "name": "Addis Ababa",
-        "lat": 8.9779,
-        "lon": 38.7993
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
       }
     },
     {
-      "id": "a-MK131-2026-11-25",
+      "id": "a-SA190-2026-11-26",
+      "kind": "arrival",
+      "number": "SA190",
+      "codeshares": [
+        "MK950"
+      ],
+      "airline": "South African Airways",
+      "city": "Johannesburg",
+      "stops": [
+        "Johannesburg"
+      ],
+      "scheduled": "2026-11-26T15:45:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "JNB",
+        "name": "Johannesburg",
+        "lat": -26.1401,
+        "lon": 28.2468
+      }
+    },
+    {
+      "id": "d-FA851-2026-11-26",
+      "kind": "departure",
+      "number": "FA851",
+      "codeshares": [],
+      "airline": "FlySafair",
+      "city": "Johannesburg",
+      "stops": [
+        "Johannesburg"
+      ],
+      "scheduled": "2026-11-26T16:15:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "JNB",
+        "name": "Johannesburg",
+        "lat": -26.1401,
+        "lon": 28.2468
+      }
+    },
+    {
+      "id": "a-MK131-2026-11-26",
       "kind": "arrival",
       "number": "MK131",
       "codeshares": [
@@ -1093,12 +1088,12 @@
       "stops": [
         "Rodrigues"
       ],
-      "scheduled": "2026-11-25T16:20:00+04:00",
+      "scheduled": "2026-11-26T16:20:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T16:27:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "06",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -1108,7 +1103,31 @@
       }
     },
     {
-      "id": "d-EK702-2026-11-25",
+      "id": "a-UU104-2026-11-26",
+      "kind": "arrival",
+      "number": "UU104",
+      "codeshares": [],
+      "airline": "Air Austral",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-26T16:20:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
+      }
+    },
+    {
+      "id": "d-EK702-2026-11-26",
       "kind": "departure",
       "number": "EK702",
       "codeshares": [
@@ -1119,13 +1138,13 @@
       "stops": [
         "Dubai"
       ],
-      "scheduled": "2026-11-25T16:25:00+04:00",
+      "scheduled": "2026-11-26T16:25:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T16:33:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "22-23",
+      "gate": null,
       "airport": {
         "iata": "DXB",
         "name": "Dubai",
@@ -1134,7 +1153,55 @@
       }
     },
     {
-      "id": "d-SA191-2026-11-25",
+      "id": "a-SA194-2026-11-26",
+      "kind": "arrival",
+      "number": "SA194",
+      "codeshares": [],
+      "airline": "South African Airways",
+      "city": "Cape Town",
+      "stops": [
+        "Cape Town"
+      ],
+      "scheduled": "2026-11-26T16:25:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "CPT",
+        "name": "Cape Town",
+        "lat": -33.974,
+        "lon": 18.6043
+      }
+    },
+    {
+      "id": "d-MK138-2026-11-26",
+      "kind": "departure",
+      "number": "MK138",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-26T16:35:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      }
+    },
+    {
+      "id": "d-SA191-2026-11-26",
       "kind": "departure",
       "number": "SA191",
       "codeshares": [
@@ -1145,13 +1212,13 @@
       "stops": [
         "Johannesburg"
       ],
-      "scheduled": "2026-11-25T16:35:00+04:00",
+      "scheduled": "2026-11-26T16:35:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T16:42:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "17",
+      "gate": null,
       "airport": {
         "iata": "JNB",
         "name": "Johannesburg",
@@ -1160,7 +1227,7 @@
       }
     },
     {
-      "id": "d-MK140-2026-11-25",
+      "id": "d-MK140-2026-11-26",
       "kind": "departure",
       "number": "MK140",
       "codeshares": [],
@@ -1169,13 +1236,13 @@
       "stops": [
         "Rodrigues"
       ],
-      "scheduled": "2026-11-25T17:05:00+04:00",
+      "scheduled": "2026-11-26T17:05:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T17:21:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "20",
+      "gate": null,
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -1184,7 +1251,7 @@
       }
     },
     {
-      "id": "a-EK703-2026-11-25",
+      "id": "a-EK703-2026-11-26",
       "kind": "arrival",
       "number": "EK703",
       "codeshares": [
@@ -1195,12 +1262,12 @@
       "stops": [
         "Dubai"
       ],
-      "scheduled": "2026-11-25T17:10:00+04:00",
+      "scheduled": "2026-11-26T17:10:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T16:59:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "04-05",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "DXB",
@@ -1210,7 +1277,7 @@
       }
     },
     {
-      "id": "a-MK135-2026-11-25",
+      "id": "a-MK135-2026-11-26",
       "kind": "arrival",
       "number": "MK135",
       "codeshares": [],
@@ -1219,12 +1286,12 @@
       "stops": [
         "Rodrigues"
       ],
-      "scheduled": "2026-11-25T17:10:00+04:00",
+      "scheduled": "2026-11-26T17:10:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T17:14:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "06",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -1234,125 +1301,47 @@
       }
     },
     {
-      "id": "d-UU107-2026-11-25",
+      "id": "d-SA195-2026-11-26",
       "kind": "departure",
-      "number": "UU107",
+      "number": "SA195",
+      "codeshares": [],
+      "airline": "South African Airways",
+      "city": "Cape Town",
+      "stops": [
+        "Cape Town"
+      ],
+      "scheduled": "2026-11-26T17:15:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "CPT",
+        "name": "Cape Town",
+        "lat": -33.974,
+        "lon": 18.6043
+      }
+    },
+    {
+      "id": "d-UU105-2026-11-26",
+      "kind": "departure",
+      "number": "UU105",
       "codeshares": [],
       "airline": "Air Austral",
       "city": "St Denis Reunion",
       "stops": [
         "St Denis Reunion"
       ],
-      "scheduled": "2026-11-25T17:15:00+04:00",
+      "scheduled": "2026-11-26T17:40:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T17:27:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "19",
-      "airport": {
-        "iata": "RUN",
-        "name": "St Denis, Réunion",
-        "lat": -20.8901,
-        "lon": 55.5189
-      }
-    },
-    {
-      "id": "a-KQ270-2026-11-25",
-      "kind": "arrival",
-      "number": "KQ270",
-      "codeshares": [
-        "MK961"
-      ],
-      "airline": "Kenya Airways",
-      "city": "Nairobi",
-      "stops": [
-        "Nairobi"
-      ],
-      "scheduled": "2026-11-25T17:30:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T17:13:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "03",
       "gate": null,
       "airport": {
-        "iata": "NBO",
-        "name": "Nairobi",
-        "lat": -1.3189,
-        "lon": 36.9282
-      }
-    },
-    {
-      "id": "d-SV482-2026-11-25",
-      "kind": "departure",
-      "number": "SV482",
-      "codeshares": [
-        "MK786"
-      ],
-      "airline": "Saudi Arabian Airline",
-      "city": "Jeddah",
-      "stops": [
-        "Jeddah"
-      ],
-      "scheduled": "2026-11-25T17:45:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T17:49:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
-      "belt": null,
-      "gate": "28",
-      "airport": {
-        "iata": "JED",
-        "name": "Jeddah",
-        "lat": 21.6802,
-        "lon": 39.1574
-      }
-    },
-    {
-      "id": "d-MK138-2026-11-25",
-      "kind": "departure",
-      "number": "MK138",
-      "codeshares": [],
-      "airline": "Air Mauritius",
-      "city": "Rodrigues",
-      "stops": [
-        "Rodrigues"
-      ],
-      "scheduled": "2026-11-25T17:55:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T18:16:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
-      "belt": null,
-      "gate": "20",
-      "airport": {
-        "iata": "RRG",
-        "name": "Rodrigues",
-        "lat": -19.7577,
-        "lon": 63.361
-      }
-    },
-    {
-      "id": "d-SS633-2026-11-25",
-      "kind": "departure",
-      "number": "SS633",
-      "codeshares": [],
-      "airline": "Corsair International",
-      "city": "St Denis Reunion",
-      "stops": [
-        "St Denis Reunion",
-        "Marseille",
-        "Toulouse"
-      ],
-      "scheduled": "2026-11-25T17:55:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T18:10:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
-      "belt": null,
-      "gate": "26",
-      "airport": {
         "iata": "RUN",
         "name": "St Denis, Réunion",
         "lat": -20.8901,
@@ -1360,34 +1349,7 @@
       }
     },
     {
-      "id": "d-4Y157-2026-11-25",
-      "kind": "departure",
-      "number": "4Y157",
-      "codeshares": [
-        "LH4543"
-      ],
-      "airline": "Eurowings Discover",
-      "city": "Seychelles",
-      "stops": [
-        "Seychelles",
-        "Frankfurt"
-      ],
-      "scheduled": "2026-11-25T18:10:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T18:12:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
-      "belt": null,
-      "gate": "24",
-      "airport": {
-        "iata": "SEZ",
-        "name": "Mahé, Seychelles",
-        "lat": -4.6743,
-        "lon": 55.5218
-      }
-    },
-    {
-      "id": "a-MK239-2026-11-25",
+      "id": "a-MK239-2026-11-26",
       "kind": "arrival",
       "number": "MK239",
       "codeshares": [
@@ -1399,12 +1361,12 @@
       "stops": [
         "St Denis Reunion"
       ],
-      "scheduled": "2026-11-25T18:15:00+04:00",
+      "scheduled": "2026-11-26T17:45:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T18:40:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "04",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "RUN",
@@ -1414,7 +1376,31 @@
       }
     },
     {
-      "id": "d-EK710-2026-11-25",
+      "id": "d-MK144-2026-11-26",
+      "kind": "departure",
+      "number": "MK144",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-26T17:55:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      }
+    },
+    {
+      "id": "d-EK710-2026-11-26",
       "kind": "departure",
       "number": "EK710",
       "codeshares": [
@@ -1425,13 +1411,13 @@
       "stops": [
         "Dubai"
       ],
-      "scheduled": "2026-11-25T18:30:00+04:00",
+      "scheduled": "2026-11-26T18:30:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T18:32:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "15",
+      "gate": null,
       "airport": {
         "iata": "DXB",
         "name": "Dubai",
@@ -1440,33 +1426,7 @@
       }
     },
     {
-      "id": "d-KQ271-2026-11-25",
-      "kind": "departure",
-      "number": "KQ271",
-      "codeshares": [
-        "MK960"
-      ],
-      "airline": "Kenya Airways",
-      "city": "Nairobi",
-      "stops": [
-        "Nairobi"
-      ],
-      "scheduled": "2026-11-25T18:30:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T18:38:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
-      "belt": null,
-      "gate": "17",
-      "airport": {
-        "iata": "NBO",
-        "name": "Nairobi",
-        "lat": -1.3189,
-        "lon": 36.9282
-      }
-    },
-    {
-      "id": "d-MK150-2026-11-25",
+      "id": "d-MK150-2026-11-26",
       "kind": "departure",
       "number": "MK150",
       "codeshares": [],
@@ -1475,13 +1435,13 @@
       "stops": [
         "Rodrigues"
       ],
-      "scheduled": "2026-11-25T19:00:00+04:00",
+      "scheduled": "2026-11-26T19:00:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T19:18:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "20",
+      "gate": null,
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -1490,7 +1450,33 @@
       }
     },
     {
-      "id": "a-MK289-2026-11-25",
+      "id": "a-MK852-2026-11-26",
+      "kind": "arrival",
+      "number": "MK852",
+      "codeshares": [
+        "SA7109"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Johannesburg",
+      "stops": [
+        "Johannesburg"
+      ],
+      "scheduled": "2026-11-26T19:10:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "JNB",
+        "name": "Johannesburg",
+        "lat": -26.1401,
+        "lon": 28.2468
+      }
+    },
+    {
+      "id": "a-MK289-2026-11-26",
       "kind": "arrival",
       "number": "MK289",
       "codeshares": [],
@@ -1499,12 +1485,12 @@
       "stops": [
         "Antananarivo"
       ],
-      "scheduled": "2026-11-25T19:50:00+04:00",
+      "scheduled": "2026-11-26T19:50:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T19:16:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "05",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "TNR",
@@ -1514,133 +1500,7 @@
       }
     },
     {
-      "id": "d-TK177-2026-11-25",
-      "kind": "departure",
-      "number": "TK177",
-      "codeshares": [],
-      "airline": "Turkish Airlines",
-      "city": "Istanbul",
-      "stops": [
-        "Istanbul"
-      ],
-      "scheduled": "2026-11-25T20:30:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T20:29:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
-      "belt": null,
-      "gate": "24",
-      "airport": {
-        "iata": "IST",
-        "name": "Istanbul",
-        "lat": 41.2749,
-        "lon": 28.7321
-      }
-    },
-    {
-      "id": "d-AF417-2026-11-25",
-      "kind": "departure",
-      "number": "AF417",
-      "codeshares": [
-        "MK934"
-      ],
-      "airline": "Air France",
-      "city": "Paris CDG",
-      "stops": [
-        "Paris CDG"
-      ],
-      "scheduled": "2026-11-25T20:40:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T21:02:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
-      "belt": null,
-      "gate": "28",
-      "airport": {
-        "iata": "CDG",
-        "name": "Paris CDG",
-        "lat": 49.009,
-        "lon": 2.5541
-      }
-    },
-    {
-      "id": "d-BA2064-2026-11-25",
-      "kind": "departure",
-      "number": "BA2064",
-      "codeshares": [],
-      "airline": "British Airways",
-      "city": "London Gatwick",
-      "stops": [
-        "London Gatwick"
-      ],
-      "scheduled": "2026-11-25T20:55:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T21:10:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
-      "belt": null,
-      "gate": "19",
-      "airport": {
-        "iata": "LGW",
-        "name": "London Gatwick",
-        "lat": 51.1487,
-        "lon": -0.1857
-      }
-    },
-    {
-      "id": "a-MK141-2026-11-25",
-      "kind": "arrival",
-      "number": "MK141",
-      "codeshares": [
-        "AF7051"
-      ],
-      "airline": "Air Mauritius",
-      "city": "Rodrigues",
-      "stops": [
-        "Rodrigues"
-      ],
-      "scheduled": "2026-11-25T21:00:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T21:14:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "01",
-      "gate": null,
-      "airport": {
-        "iata": "RRG",
-        "name": "Rodrigues",
-        "lat": -19.7577,
-        "lon": 63.361
-      }
-    },
-    {
-      "id": "d-MK744-2026-11-25",
-      "kind": "departure",
-      "number": "MK744",
-      "codeshares": [
-        "AI6744"
-      ],
-      "airline": "Air Mauritius",
-      "city": "Delhi",
-      "stops": [
-        "Delhi"
-      ],
-      "scheduled": "2026-11-25T21:00:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T21:18:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
-      "belt": null,
-      "gate": "15",
-      "airport": {
-        "iata": "DEL",
-        "name": "Delhi",
-        "lat": 28.5556,
-        "lon": 77.0952
-      }
-    },
-    {
-      "id": "a-MK139-2026-11-25",
+      "id": "a-MK139-2026-11-26",
       "kind": "arrival",
       "number": "MK139",
       "codeshares": [
@@ -1651,12 +1511,12 @@
       "stops": [
         "Rodrigues"
       ],
-      "scheduled": "2026-11-25T21:50:00+04:00",
+      "scheduled": "2026-11-26T20:30:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T22:12:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "01",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -1666,7 +1526,207 @@
       }
     },
     {
-      "id": "d-MK014-2026-11-25",
+      "id": "d-TK161-2026-11-26",
+      "kind": "departure",
+      "number": "TK161",
+      "codeshares": [],
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
+      "stops": [
+        "Istanbul"
+      ],
+      "scheduled": "2026-11-26T20:30:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "IST",
+        "name": "Istanbul",
+        "lat": 41.2749,
+        "lon": 28.7321
+      }
+    },
+    {
+      "id": "a-MK141-2026-11-26",
+      "kind": "arrival",
+      "number": "MK141",
+      "codeshares": [
+        "AF7051"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-26T21:00:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      }
+    },
+    {
+      "id": "d-SS959-2026-11-26",
+      "kind": "departure",
+      "number": "SS959",
+      "codeshares": [],
+      "airline": "Corsair International",
+      "city": "Paris Orly",
+      "stops": [
+        "Paris Orly"
+      ],
+      "scheduled": "2026-11-26T21:40:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "ORY",
+        "name": "Paris Orly",
+        "lat": 48.7295,
+        "lon": 2.359
+      }
+    },
+    {
+      "id": "a-MK145-2026-11-26",
+      "kind": "arrival",
+      "number": "MK145",
+      "codeshares": [
+        "AF7045"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-26T21:50:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      }
+    },
+    {
+      "id": "a-LO6315-2026-11-26",
+      "kind": "arrival",
+      "number": "LO6315",
+      "codeshares": [],
+      "airline": "Lot Polish Airlines",
+      "city": "Warsaw",
+      "stops": [
+        "Warsaw"
+      ],
+      "scheduled": "2026-11-26T21:55:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "WAW",
+        "name": "Warsaw",
+        "lat": 52.1657,
+        "lon": 20.9671
+      }
+    },
+    {
+      "id": "d-MK248-2026-11-26",
+      "kind": "departure",
+      "number": "MK248",
+      "codeshares": [
+        "AF7944"
+      ],
+      "airline": "Air Mauritius",
+      "city": "St Denis Reunion",
+      "stops": [
+        "St Denis Reunion"
+      ],
+      "scheduled": "2026-11-26T22:00:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RUN",
+        "name": "St Denis, Réunion",
+        "lat": -20.8901,
+        "lon": 55.5189
+      }
+    },
+    {
+      "id": "d-MK042-2026-11-26",
+      "kind": "departure",
+      "number": "MK042",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "London Gatwick",
+      "stops": [
+        "London Gatwick"
+      ],
+      "scheduled": "2026-11-26T22:25:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "LGW",
+        "name": "London Gatwick",
+        "lat": 51.1487,
+        "lon": -0.1857
+      }
+    },
+    {
+      "id": "d-EK704-2026-11-26",
+      "kind": "departure",
+      "number": "EK704",
+      "codeshares": [
+        "MK912"
+      ],
+      "airline": "Emirates",
+      "city": "Dubai",
+      "stops": [
+        "Dubai"
+      ],
+      "scheduled": "2026-11-26T22:30:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "DXB",
+        "name": "Dubai",
+        "lat": 25.2498,
+        "lon": 55.371
+      }
+    },
+    {
+      "id": "d-MK014-2026-11-26",
       "kind": "departure",
       "number": "MK014",
       "codeshares": [
@@ -1678,13 +1738,13 @@
       "stops": [
         "Paris CDG"
       ],
-      "scheduled": "2026-11-25T22:00:00+04:00",
+      "scheduled": "2026-11-26T22:35:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T22:16:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "26",
+      "gate": null,
       "airport": {
         "iata": "CDG",
         "name": "Paris CDG",
@@ -1693,59 +1753,58 @@
       }
     },
     {
-      "id": "d-MK248-2026-11-25",
+      "id": "d-MK748-2026-11-26",
       "kind": "departure",
-      "number": "MK248",
+      "number": "MK748",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Mumbai",
+      "stops": [
+        "Mumbai"
+      ],
+      "scheduled": "2026-11-26T22:45:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "BOM",
+        "name": "Mumbai",
+        "lat": 19.0887,
+        "lon": 72.8679
+      }
+    },
+    {
+      "id": "d-MK646-2026-11-26",
+      "kind": "departure",
+      "number": "MK646",
       "codeshares": [
-        "AF7944"
+        "MH5770",
+        "SQ6050"
       ],
       "airline": "Air Mauritius",
-      "city": "St Denis Reunion",
+      "city": "Kuala Lumpur",
       "stops": [
-        "St Denis Reunion"
+        "Kuala Lumpur"
       ],
-      "scheduled": "2026-11-25T22:00:00+04:00",
+      "scheduled": "2026-11-26T22:50:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T22:19:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
-      "gate": "25",
+      "gate": null,
       "airport": {
-        "iata": "RUN",
-        "name": "St Denis, Réunion",
-        "lat": -20.8901,
-        "lon": 55.5189
+        "iata": "KUL",
+        "name": "Kuala Lumpur",
+        "lat": 2.7456,
+        "lon": 101.71
       }
     },
     {
-      "id": "d-EK704-2026-11-25",
-      "kind": "departure",
-      "number": "EK704",
-      "codeshares": [
-        "MK912"
-      ],
-      "airline": "Emirates",
-      "city": "Dubai",
-      "stops": [
-        "Dubai"
-      ],
-      "scheduled": "2026-11-25T22:30:00+04:00",
-      "estimated": null,
-      "actual": "2026-11-25T22:29:00+04:00",
-      "status": "departed",
-      "statusText": "Take Off",
-      "belt": null,
-      "gate": "22-23",
-      "airport": {
-        "iata": "DXB",
-        "name": "Dubai",
-        "lat": 25.2498,
-        "lon": 55.371
-      }
-    },
-    {
-      "id": "a-MK151-2026-11-25",
+      "id": "a-MK151-2026-11-26",
       "kind": "arrival",
       "number": "MK151",
       "codeshares": [],
@@ -1754,18 +1813,66 @@
       "stops": [
         "Rodrigues"
       ],
-      "scheduled": "2026-11-25T22:55:00+04:00",
+      "scheduled": "2026-11-26T22:55:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T23:01:00+04:00",
-      "status": "arrived",
-      "statusText": "Arrived",
-      "belt": "01",
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
       "gate": null,
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
         "lat": -19.7577,
         "lon": 63.361
+      }
+    },
+    {
+      "id": "d-AZ773-2026-11-26",
+      "kind": "departure",
+      "number": "AZ773",
+      "codeshares": [],
+      "airline": "ITA Airways",
+      "city": "Rome",
+      "stops": [
+        "Rome"
+      ],
+      "scheduled": "2026-11-26T23:10:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "FCO",
+        "name": "Rome",
+        "lat": 41.8045,
+        "lon": 12.252
+      }
+    },
+    {
+      "id": "d-LO6316-2026-11-26",
+      "kind": "departure",
+      "number": "LO6316",
+      "codeshares": [],
+      "airline": "Lot Polish Airlines",
+      "city": "Warsaw",
+      "stops": [
+        "Warsaw"
+      ],
+      "scheduled": "2026-11-26T23:55:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "WAW",
+        "name": "Warsaw",
+        "lat": 52.1657,
+        "lon": 20.9671
       }
     }
   ]
