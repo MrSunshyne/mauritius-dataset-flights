@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T10:53:10.766Z",
+  "fetched": "2026-11-25T11:03:18.470Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -942,9 +942,9 @@
       ],
       "scheduled": "2026-11-25T15:20:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "actual": "2026-11-25T15:00:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -971,7 +971,7 @@
       "actual": null,
       "status": "estimated",
       "statusText": "Expected",
-      "belt": "04",
+      "belt": "04-05",
       "gate": null,
       "airport": {
         "iata": "JED",
@@ -1173,7 +1173,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "20",
       "airport": {
