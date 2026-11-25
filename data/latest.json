@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T10:03:12.430Z",
+  "fetched": "2026-11-25T10:13:12.828Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -791,10 +791,10 @@
       ],
       "scheduled": "2026-11-25T13:45:00+04:00",
       "estimated": null,
-      "actual": "2026-11-25T14:01:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
-      "belt": "03-04",
+      "actual": "2026-11-25T14:07:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
+      "belt": "04-05",
       "gate": null,
       "airport": {
         "iata": "CDG",
@@ -897,7 +897,7 @@
       "actual": null,
       "status": "estimated",
       "statusText": "Expected",
-      "belt": "02",
+      "belt": "03",
       "gate": null,
       "airport": {
         "iata": "DXB",
