@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T13:33:08.961Z",
+  "fetched": "2026-11-25T13:43:10.160Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1296,10 +1296,10 @@
         "Jeddah"
       ],
       "scheduled": "2026-11-25T17:45:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-25T17:32:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "28",
       "airport": {
@@ -1322,8 +1322,8 @@
       "scheduled": "2026-11-25T17:55:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -1455,7 +1455,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "Check-in",
+      "statusText": "",
       "belt": null,
       "gate": "17",
       "airport": {
