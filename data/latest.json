@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T00:53:19.503Z",
+  "fetched": "2026-11-25T01:03:09.997Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -78,33 +78,6 @@
       }
     },
     {
-      "id": "a-MK015-2026-11-25",
-      "kind": "arrival",
-      "number": "MK015",
-      "codeshares": [
-        "AF7964",
-        "KL3848"
-      ],
-      "airline": "Air Mauritius",
-      "city": "Paris CDG",
-      "stops": [
-        "Paris CDG"
-      ],
-      "scheduled": "2026-11-25T06:35:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "CDG",
-        "name": "Paris CDG",
-        "lat": 49.009,
-        "lon": 2.5541
-      }
-    },
-    {
       "id": "a-MK844-2026-11-25",
       "kind": "arrival",
       "number": "MK844",
@@ -150,6 +123,33 @@
         "name": "Mumbai",
         "lat": 19.0887,
         "lon": 72.8679
+      }
+    },
+    {
+      "id": "a-MK015-2026-11-25",
+      "kind": "arrival",
+      "number": "MK015",
+      "codeshares": [
+        "AF7964",
+        "KL3848"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Paris CDG",
+      "stops": [
+        "Paris CDG"
+      ],
+      "scheduled": "2026-11-25T07:10:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "CDG",
+        "name": "Paris CDG",
+        "lat": 49.009,
+        "lon": 2.5541
       }
     },
     {
@@ -428,6 +428,30 @@
       }
     },
     {
+      "id": "d-MK048-2026-11-25",
+      "kind": "departure",
+      "number": "MK048",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Geneva",
+      "stops": [
+        "Geneva"
+      ],
+      "scheduled": "2026-11-25T09:05:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "GVA",
+        "name": "Geneva",
+        "lat": 46.2381,
+        "lon": 6.109
+      }
+    },
+    {
       "id": "a-EK701-2026-11-25",
       "kind": "arrival",
       "number": "EK701",
@@ -514,30 +538,6 @@
         "Geneva"
       ],
       "scheduled": "2026-11-25T09:35:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "GVA",
-        "name": "Geneva",
-        "lat": 46.2381,
-        "lon": 6.109
-      }
-    },
-    {
-      "id": "d-MK048-2026-11-25",
-      "kind": "departure",
-      "number": "MK048",
-      "codeshares": [],
-      "airline": "Air Mauritius",
-      "city": "Geneva",
-      "stops": [
-        "Geneva"
-      ],
-      "scheduled": "2026-11-25T09:45:00+04:00",
       "estimated": null,
       "actual": null,
       "status": "scheduled",
