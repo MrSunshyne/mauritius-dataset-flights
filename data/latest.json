@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T23:23:08.205Z",
+  "fetched": "2026-11-25T23:33:10.139Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -440,10 +440,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-26T09:10:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-26T09:33:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -787,11 +787,11 @@
         "Istanbul"
       ],
       "scheduled": "2026-11-26T12:35:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-26T12:02:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
+      "status": "estimated",
+      "statusText": "Expected",
+      "belt": "02-03",
       "gate": null,
       "airport": {
         "iata": "IST",
@@ -1144,7 +1144,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "22-23",
       "airport": {
         "iata": "DXB",
         "name": "Dubai",
