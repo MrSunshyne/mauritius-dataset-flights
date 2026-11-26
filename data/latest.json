@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T17:03:09.513Z",
+  "fetched": "2026-11-26T17:13:11.093Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1492,7 +1492,7 @@
       "actual": "2026-11-26T20:48:00+04:00",
       "status": "arrived",
       "statusText": "Arrived",
-      "belt": "06",
+      "belt": "01",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -1542,7 +1542,7 @@
       "actual": null,
       "status": "estimated",
       "statusText": "Expected",
-      "belt": "06",
+      "belt": "01",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -1616,7 +1616,7 @@
       "actual": null,
       "status": "estimated",
       "statusText": "Expected",
-      "belt": "06",
+      "belt": "01",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -1842,7 +1842,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": "01",
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
