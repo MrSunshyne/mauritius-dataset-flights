@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T01:43:08.932Z",
+  "fetched": "2026-11-26T01:53:12.118Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -464,10 +464,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-26T09:10:00+04:00",
-      "estimated": "2026-11-26T09:33:00+04:00",
+      "estimated": null,
       "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "status": "scheduled",
+      "statusText": "",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -638,10 +638,10 @@
         "Rome"
       ],
       "scheduled": "2026-11-26T11:10:00+04:00",
-      "estimated": "2026-11-26T12:15:00+04:00",
+      "estimated": null,
       "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "status": "scheduled",
+      "statusText": "",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -835,10 +835,10 @@
         "Istanbul"
       ],
       "scheduled": "2026-11-26T12:35:00+04:00",
-      "estimated": "2026-11-26T12:02:00+04:00",
+      "estimated": null,
       "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "status": "scheduled",
+      "statusText": "",
       "belt": "02-03",
       "gate": null,
       "airport": {
