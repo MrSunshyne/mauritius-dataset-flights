@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T02:43:10.193Z",
+  "fetched": "2026-11-26T02:53:17.854Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -41,9 +41,9 @@
       ],
       "scheduled": "2026-11-26T06:55:00+04:00",
       "estimated": null,
-      "actual": "2026-11-26T06:38:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-26T06:44:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "05",
       "gate": null,
       "airport": {
@@ -91,10 +91,10 @@
         "St Denis Reunion"
       ],
       "scheduled": "2026-11-26T07:30:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-26T07:20:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "04",
       "gate": null,
       "airport": {
