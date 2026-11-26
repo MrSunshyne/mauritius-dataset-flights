@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T22:53:08.732Z",
+  "fetched": "2026-11-26T23:03:08.723Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -505,7 +505,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "02-03",
       "gate": null,
       "airport": {
         "iata": "DXB",
