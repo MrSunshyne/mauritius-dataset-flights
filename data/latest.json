@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T03:23:09.426Z",
+  "fetched": "2026-11-26T03:33:18.078Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -142,9 +142,9 @@
       ],
       "scheduled": "2026-11-26T07:50:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "actual": "2026-11-26T07:27:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -319,7 +319,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "Check-in",
+      "statusText": "",
       "belt": null,
       "gate": "19",
       "airport": {
@@ -885,10 +885,10 @@
         "Delhi"
       ],
       "scheduled": "2026-11-26T14:20:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-26T14:22:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "04-05",
       "gate": null,
       "airport": {
