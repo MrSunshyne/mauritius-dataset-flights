@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T07:43:18.188Z",
+  "fetched": "2026-11-26T07:53:08.415Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -641,7 +641,7 @@
         "St Denis Reunion"
       ],
       "scheduled": "2026-11-26T11:20:00+04:00",
-      "estimated": "2026-11-26T11:36:00+04:00",
+      "estimated": "2026-11-26T11:45:00+04:00",
       "actual": null,
       "status": "unknown",
       "statusText": "Taxiing",
@@ -689,10 +689,10 @@
         "Paris Orly"
       ],
       "scheduled": "2026-11-26T11:55:00+04:00",
-      "estimated": "2026-11-26T11:41:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-26T11:45:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "04-05",
       "gate": null,
       "airport": {
@@ -1163,7 +1163,7 @@
         "Cape Town"
       ],
       "scheduled": "2026-11-26T16:25:00+04:00",
-      "estimated": "2026-11-26T16:22:00+04:00",
+      "estimated": "2026-11-26T16:21:00+04:00",
       "actual": null,
       "status": "estimated",
       "statusText": "Expected",
