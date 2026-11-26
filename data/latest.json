@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T00:43:09.857Z",
+  "fetched": "2026-11-26T00:53:09.120Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -652,6 +652,30 @@
       }
     },
     {
+      "id": "d-MK124-2026-11-26",
+      "kind": "departure",
+      "number": "MK124",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-26T11:15:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      }
+    },
+    {
       "id": "d-MK218-2026-11-26",
       "kind": "departure",
       "number": "MK218",
@@ -689,30 +713,6 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-26T11:40:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "RRG",
-        "name": "Rodrigues",
-        "lat": -19.7577,
-        "lon": 63.361
-      }
-    },
-    {
-      "id": "d-MK124-2026-11-26",
-      "kind": "departure",
-      "number": "MK124",
-      "codeshares": [],
-      "airline": "Air Mauritius",
-      "city": "Rodrigues",
-      "stops": [
-        "Rodrigues"
-      ],
-      "scheduled": "2026-11-26T11:45:00+04:00",
       "estimated": null,
       "actual": null,
       "status": "scheduled",
@@ -973,6 +973,30 @@
       }
     },
     {
+      "id": "a-MK125-2026-11-26",
+      "kind": "arrival",
+      "number": "MK125",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Rodrigues",
+      "stops": [
+        "Rodrigues"
+      ],
+      "scheduled": "2026-11-26T15:10:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "RRG",
+        "name": "Rodrigues",
+        "lat": -19.7577,
+        "lon": 63.361
+      }
+    },
+    {
       "id": "a-FA850-2026-11-26",
       "kind": "arrival",
       "number": "FA850",
@@ -994,30 +1018,6 @@
         "name": "Johannesburg",
         "lat": -26.1401,
         "lon": 28.2468
-      }
-    },
-    {
-      "id": "a-MK125-2026-11-26",
-      "kind": "arrival",
-      "number": "MK125",
-      "codeshares": [],
-      "airline": "Air Mauritius",
-      "city": "Rodrigues",
-      "stops": [
-        "Rodrigues"
-      ],
-      "scheduled": "2026-11-26T15:40:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "RRG",
-        "name": "Rodrigues",
-        "lat": -19.7577,
-        "lon": 63.361
       }
     },
     {
