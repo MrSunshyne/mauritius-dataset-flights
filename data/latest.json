@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T05:13:09.318Z",
+  "fetched": "2026-11-26T05:23:12.366Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -416,10 +416,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-26T09:10:00+04:00",
-      "estimated": "2026-11-26T09:33:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-26T09:16:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -440,10 +440,10 @@
         "Bangalore"
       ],
       "scheduled": "2026-11-26T09:30:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-26T09:18:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -519,7 +519,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "Check-in",
+      "statusText": "",
       "belt": null,
       "gate": "15",
       "airport": {
@@ -617,7 +617,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -742,7 +742,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "20",
       "airport": {
