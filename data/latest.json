@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T06:33:19.375Z",
+  "fetched": "2026-11-26T06:43:09.144Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -440,10 +440,10 @@
         "Bangalore"
       ],
       "scheduled": "2026-11-26T09:30:00+04:00",
-      "estimated": "2026-11-26T09:18:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-26T09:29:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -517,9 +517,9 @@
       ],
       "scheduled": "2026-11-26T10:20:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "actual": "2026-11-26T10:34:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "15",
       "airport": {
@@ -665,10 +665,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-26T11:40:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-26T12:09:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -763,10 +763,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-26T12:30:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-26T12:09:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "06",
       "gate": null,
       "airport": {
