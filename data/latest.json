@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T04:53:08.200Z",
+  "fetched": "2026-11-26T05:03:08.548Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -316,7 +316,7 @@
         "Frankfurt"
       ],
       "scheduled": "2026-11-26T08:40:00+04:00",
-      "estimated": "2026-11-26T08:47:00+04:00",
+      "estimated": "2026-11-26T08:54:00+04:00",
       "actual": null,
       "status": "unknown",
       "statusText": "Taxiing",
@@ -341,9 +341,9 @@
       ],
       "scheduled": "2026-11-26T08:40:00+04:00",
       "estimated": null,
-      "actual": "2026-11-26T08:32:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-26T08:50:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -390,10 +390,10 @@
         "Mumbai"
       ],
       "scheduled": "2026-11-26T09:00:00+04:00",
-      "estimated": "2026-11-26T08:42:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-26T08:53:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "15",
       "airport": {
@@ -497,7 +497,7 @@
       "status": "scheduled",
       "statusText": "Check-in",
       "belt": null,
-      "gate": "25",
+      "gate": "26",
       "airport": {
         "iata": "PER",
         "name": "Perth",
