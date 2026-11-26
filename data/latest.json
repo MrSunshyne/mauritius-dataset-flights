@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T06:03:08.963Z",
+  "fetched": "2026-11-26T06:13:10.873Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -464,10 +464,10 @@
         "Geneva"
       ],
       "scheduled": "2026-11-26T10:10:00+04:00",
-      "estimated": "2026-11-26T10:10:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-26T10:07:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "05",
       "gate": null,
       "airport": {
@@ -494,8 +494,8 @@
       "scheduled": "2026-11-26T10:15:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "gate-closed",
+      "statusText": "Closed",
       "belt": null,
       "gate": "26",
       "airport": {
