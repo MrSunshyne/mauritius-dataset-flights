@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T19:23:09.033Z",
+  "fetched": "2026-11-26T19:33:19.404Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1763,10 +1763,10 @@
         "Mumbai"
       ],
       "scheduled": "2026-11-26T22:45:00+04:00",
-      "estimated": "2026-11-26T23:09:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-26T23:21:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "17",
       "airport": {
