@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T12:13:10.873Z",
+  "fetched": "2026-11-26T12:23:13.538Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1039,10 +1039,10 @@
         "St Denis Reunion"
       ],
       "scheduled": "2026-11-26T15:55:00+04:00",
-      "estimated": "2026-11-26T16:08:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-26T16:12:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "25",
       "airport": {
@@ -1063,10 +1063,10 @@
         "Johannesburg"
       ],
       "scheduled": "2026-11-26T16:15:00+04:00",
-      "estimated": "2026-11-26T16:00:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-26T16:09:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "19",
       "airport": {
@@ -1139,10 +1139,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-26T16:25:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-26T16:19:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "22-23",
       "airport": {
@@ -1163,10 +1163,10 @@
         "Cape Town"
       ],
       "scheduled": "2026-11-26T16:25:00+04:00",
-      "estimated": "2026-11-26T16:21:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-26T16:21:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -1438,10 +1438,10 @@
         "Johannesburg"
       ],
       "scheduled": "2026-11-26T19:10:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-26T19:12:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "03-04",
       "gate": null,
       "airport": {
@@ -1465,7 +1465,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "20",
       "airport": {
