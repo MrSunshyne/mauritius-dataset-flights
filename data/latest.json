@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T11:53:08.942Z",
+  "fetched": "2026-11-26T12:03:09.327Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -986,10 +986,10 @@
         "Antananarivo"
       ],
       "scheduled": "2026-11-26T15:40:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-26T15:52:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "28",
       "airport": {
@@ -1063,10 +1063,10 @@
         "Johannesburg"
       ],
       "scheduled": "2026-11-26T16:15:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-26T16:00:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "19",
       "airport": {
@@ -1215,8 +1215,8 @@
       "scheduled": "2026-11-26T16:35:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "15",
       "airport": {
