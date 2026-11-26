@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T04:33:08.430Z",
+  "fetched": "2026-11-26T04:43:09.631Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -340,10 +340,10 @@
         "Vienna"
       ],
       "scheduled": "2026-11-26T08:40:00+04:00",
-      "estimated": "2026-11-26T08:40:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-26T08:32:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -390,10 +390,10 @@
         "Mumbai"
       ],
       "scheduled": "2026-11-26T09:00:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-26T08:38:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "15",
       "airport": {
@@ -442,8 +442,8 @@
       "scheduled": "2026-11-26T09:30:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -521,7 +521,7 @@
       "status": "scheduled",
       "statusText": "Check-in",
       "belt": null,
-      "gate": "19",
+      "gate": "15",
       "airport": {
         "iata": "VIE",
         "name": "Vienna",
