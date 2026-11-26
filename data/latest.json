@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T23:53:08.398Z",
+  "fetched": "2026-11-26T00:03:09.032Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -200,6 +200,30 @@
         "name": "Istanbul",
         "lat": 41.2749,
         "lon": 28.7321
+      }
+    },
+    {
+      "id": "a-MK053-2026-11-26",
+      "kind": "arrival",
+      "number": "MK053",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "London Gatwick",
+      "stops": [
+        "London Gatwick"
+      ],
+      "scheduled": "2026-11-26T08:10:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "LGW",
+        "name": "London Gatwick",
+        "lat": 51.1487,
+        "lon": -0.1857
       }
     },
     {
@@ -502,6 +526,30 @@
         "name": "St Denis, Réunion",
         "lat": -20.8901,
         "lon": 55.5189
+      }
+    },
+    {
+      "id": "a-MK059-2026-11-26",
+      "kind": "arrival",
+      "number": "MK059",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Geneva",
+      "stops": [
+        "Geneva"
+      ],
+      "scheduled": "2026-11-26T10:10:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "GVA",
+        "name": "Geneva",
+        "lat": 46.2381,
+        "lon": 6.109
       }
     },
     {
