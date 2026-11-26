@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T08:13:11.015Z",
+  "fetched": "2026-11-26T08:23:10.128Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -590,10 +590,10 @@
         "Rome"
       ],
       "scheduled": "2026-11-26T11:10:00+04:00",
-      "estimated": "2026-11-26T12:15:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-26T12:21:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -741,8 +741,8 @@
       "scheduled": "2026-11-26T12:25:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "gate-closed",
-      "statusText": "Closed",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -788,9 +788,9 @@
       ],
       "scheduled": "2026-11-26T12:35:00+04:00",
       "estimated": null,
-      "actual": "2026-11-26T12:10:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-26T12:18:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "03",
       "gate": null,
       "airport": {
@@ -813,8 +813,8 @@
       "scheduled": "2026-11-26T13:05:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -1042,7 +1042,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "25",
       "airport": {
