@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T08:06:17.379Z",
+  "fetched": "2026-11-26T08:13:11.015Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -666,9 +666,9 @@
       ],
       "scheduled": "2026-11-26T11:40:00+04:00",
       "estimated": null,
-      "actual": "2026-11-26T12:02:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-26T12:06:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -787,10 +787,10 @@
         "Istanbul"
       ],
       "scheduled": "2026-11-26T12:35:00+04:00",
-      "estimated": "2026-11-26T12:02:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-26T12:10:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "03",
       "gate": null,
       "airport": {
