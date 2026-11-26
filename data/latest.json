@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T07:53:08.415Z",
+  "fetched": "2026-11-26T08:03:14.137Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -641,10 +641,10 @@
         "St Denis Reunion"
       ],
       "scheduled": "2026-11-26T11:20:00+04:00",
-      "estimated": "2026-11-26T11:45:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-26T11:57:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -690,9 +690,9 @@
       ],
       "scheduled": "2026-11-26T11:55:00+04:00",
       "estimated": null,
-      "actual": "2026-11-26T11:45:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-26T11:57:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "04-05",
       "gate": null,
       "airport": {
@@ -713,10 +713,10 @@
         "Seychelles"
       ],
       "scheduled": "2026-11-26T12:05:00+04:00",
-      "estimated": "2026-11-26T12:12:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-26T11:57:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "02",
       "gate": null,
       "airport": {
@@ -989,7 +989,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "28",
       "airport": {
@@ -1012,10 +1012,10 @@
         "Johannesburg"
       ],
       "scheduled": "2026-11-26T15:45:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-26T15:30:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "04",
       "gate": null,
       "airport": {
