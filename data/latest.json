@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T09:03:20.574Z",
+  "fetched": "2026-11-26T09:13:08.737Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -764,9 +764,9 @@
       ],
       "scheduled": "2026-11-26T12:30:00+04:00",
       "estimated": null,
-      "actual": "2026-11-26T12:49:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-26T12:53:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -811,10 +811,10 @@
         "Seychelles"
       ],
       "scheduled": "2026-11-26T13:05:00+04:00",
-      "estimated": "2026-11-26T12:58:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-26T13:08:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "24",
       "airport": {
