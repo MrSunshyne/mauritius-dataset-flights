@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T03:53:09.474Z",
+  "fetched": "2026-11-26T04:03:07.965Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -169,7 +169,7 @@
       "actual": null,
       "status": "estimated",
       "statusText": "Expected",
-      "belt": "02-03",
+      "belt": "04-05",
       "gate": null,
       "airport": {
         "iata": "LGW",
@@ -267,10 +267,10 @@
       ],
       "scheduled": "2026-11-26T08:30:00+04:00",
       "estimated": null,
-      "actual": "2026-11-26T07:48:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
-      "belt": "04-05",
+      "actual": "2026-11-26T07:54:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
+      "belt": "02-03",
       "gate": null,
       "airport": {
         "iata": "CDG",
@@ -294,8 +294,8 @@
       "scheduled": "2026-11-26T08:35:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -393,7 +393,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "Check-in",
+      "statusText": "",
       "belt": null,
       "gate": "15",
       "airport": {
