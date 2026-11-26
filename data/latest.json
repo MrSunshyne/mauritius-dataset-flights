@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T13:13:09.955Z",
+  "fetched": "2026-11-26T13:23:09.071Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1239,8 +1239,8 @@
       "scheduled": "2026-11-26T17:05:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "gate-closed",
+      "statusText": "Closed",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -1264,9 +1264,9 @@
       ],
       "scheduled": "2026-11-26T17:10:00+04:00",
       "estimated": null,
-      "actual": "2026-11-26T17:07:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-26T17:14:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -1311,7 +1311,7 @@
         "Cape Town"
       ],
       "scheduled": "2026-11-26T17:15:00+04:00",
-      "estimated": "2026-11-26T17:07:00+04:00",
+      "estimated": "2026-11-26T17:18:00+04:00",
       "actual": null,
       "status": "unknown",
       "statusText": "Taxiing",
