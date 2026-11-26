@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T14:33:09.514Z",
+  "fetched": "2026-11-26T14:43:09.431Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1360,9 +1360,9 @@
       ],
       "scheduled": "2026-11-26T17:55:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "actual": "2026-11-26T18:40:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -1412,10 +1412,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-26T18:30:00+04:00",
-      "estimated": "2026-11-26T18:22:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-26T18:36:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "24",
       "airport": {
