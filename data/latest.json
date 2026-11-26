@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T18:43:08.003Z",
+  "fetched": "2026-11-26T18:53:09.528Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1816,8 +1816,8 @@
       "scheduled": "2026-11-26T23:10:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "scheduled",
+      "statusText": "",
       "belt": null,
       "gate": "15",
       "airport": {
@@ -1838,10 +1838,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-26T23:10:00+04:00",
-      "estimated": "2026-11-26T22:58:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-26T22:51:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "06",
       "gate": null,
       "airport": {
