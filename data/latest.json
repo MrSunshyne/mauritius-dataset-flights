@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T22:03:08.517Z",
+  "fetched": "2026-11-26T22:13:18.739Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -47,9 +47,9 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
-      "gate": null,
+      "gate": "24",
       "airport": {
         "iata": "NBO",
         "name": "Nairobi",
