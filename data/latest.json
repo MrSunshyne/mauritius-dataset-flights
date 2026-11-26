@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T00:53:09.120Z",
+  "fetched": "2026-11-26T01:03:19.642Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -54,33 +54,6 @@
       }
     },
     {
-      "id": "a-MK015-2026-11-26",
-      "kind": "arrival",
-      "number": "MK015",
-      "codeshares": [
-        "AF7964",
-        "KL3848"
-      ],
-      "airline": "Air Mauritius",
-      "city": "Paris CDG",
-      "stops": [
-        "Paris CDG"
-      ],
-      "scheduled": "2026-11-26T06:35:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "CDG",
-        "name": "Paris CDG",
-        "lat": 49.009,
-        "lon": 2.5541
-      }
-    },
-    {
       "id": "a-AI2241-2026-11-26",
       "kind": "arrival",
       "number": "AI2241",
@@ -102,6 +75,33 @@
         "name": "Mumbai",
         "lat": 19.0887,
         "lon": 72.8679
+      }
+    },
+    {
+      "id": "a-MK015-2026-11-26",
+      "kind": "arrival",
+      "number": "MK015",
+      "codeshares": [
+        "AF7964",
+        "KL3848"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Paris CDG",
+      "stops": [
+        "Paris CDG"
+      ],
+      "scheduled": "2026-11-26T07:10:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "CDG",
+        "name": "Paris CDG",
+        "lat": 49.009,
+        "lon": 2.5541
       }
     },
     {
@@ -1733,7 +1733,7 @@
       "stops": [
         "London Gatwick"
       ],
-      "scheduled": "2026-11-26T22:25:00+04:00",
+      "scheduled": "2026-11-26T22:05:00+04:00",
       "estimated": null,
       "actual": null,
       "status": "scheduled",
