@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T07:13:09.099Z",
+  "fetched": "2026-11-26T07:23:09.853Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -615,9 +615,9 @@
       ],
       "scheduled": "2026-11-26T11:15:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "actual": "2026-11-26T11:19:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -643,8 +643,8 @@
       "scheduled": "2026-11-26T11:20:00+04:00",
       "estimated": "2026-11-26T11:45:00+04:00",
       "actual": null,
-      "status": "estimated",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -1263,10 +1263,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-26T17:10:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-26T17:19:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -1636,10 +1636,10 @@
         "Warsaw"
       ],
       "scheduled": "2026-11-26T21:55:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-26T21:35:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "03",
       "gate": null,
       "airport": {
