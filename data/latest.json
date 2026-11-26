@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T01:33:09.635Z",
+  "fetched": "2026-11-26T01:43:08.932Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -737,10 +737,10 @@
         "Paris Orly"
       ],
       "scheduled": "2026-11-26T11:55:00+04:00",
-      "estimated": "2026-11-26T11:41:00+04:00",
+      "estimated": null,
       "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "status": "scheduled",
+      "statusText": "",
       "belt": "04-05",
       "gate": null,
       "airport": {
