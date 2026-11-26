@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T00:13:10.244Z",
+  "fetched": "2026-11-26T00:23:09.893Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -923,33 +923,6 @@
       }
     },
     {
-      "id": "d-MK288-2026-11-26",
-      "kind": "departure",
-      "number": "MK288",
-      "codeshares": [
-        "AI6740",
-        "EK3476"
-      ],
-      "airline": "Air Mauritius",
-      "city": "Antananarivo",
-      "stops": [
-        "Antananarivo"
-      ],
-      "scheduled": "2026-11-26T14:20:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "TNR",
-        "name": "Antananarivo",
-        "lat": -18.7969,
-        "lon": 47.4788
-      }
-    },
-    {
       "id": "a-MK745-2026-11-26",
       "kind": "arrival",
       "number": "MK745",
@@ -1072,6 +1045,33 @@
         "name": "Rodrigues",
         "lat": -19.7577,
         "lon": 63.361
+      }
+    },
+    {
+      "id": "d-MK288-2026-11-26",
+      "kind": "departure",
+      "number": "MK288",
+      "codeshares": [
+        "AI6740",
+        "EK3476"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Antananarivo",
+      "stops": [
+        "Antananarivo"
+      ],
+      "scheduled": "2026-11-26T15:40:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "TNR",
+        "name": "Antananarivo",
+        "lat": -18.7969,
+        "lon": 47.4788
       }
     },
     {
@@ -1524,30 +1524,6 @@
       }
     },
     {
-      "id": "a-MK289-2026-11-26",
-      "kind": "arrival",
-      "number": "MK289",
-      "codeshares": [],
-      "airline": "Air Mauritius",
-      "city": "Antananarivo",
-      "stops": [
-        "Antananarivo"
-      ],
-      "scheduled": "2026-11-26T19:50:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "TNR",
-        "name": "Antananarivo",
-        "lat": -18.7969,
-        "lon": 47.4788
-      }
-    },
-    {
       "id": "a-MK139-2026-11-26",
       "kind": "arrival",
       "number": "MK139",
@@ -1621,6 +1597,30 @@
         "name": "Rodrigues",
         "lat": -19.7577,
         "lon": 63.361
+      }
+    },
+    {
+      "id": "a-MK289-2026-11-26",
+      "kind": "arrival",
+      "number": "MK289",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Antananarivo",
+      "stops": [
+        "Antananarivo"
+      ],
+      "scheduled": "2026-11-26T21:10:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "TNR",
+        "name": "Antananarivo",
+        "lat": -18.7969,
+        "lon": 47.4788
       }
     },
     {
@@ -1825,33 +1825,6 @@
       }
     },
     {
-      "id": "d-MK646-2026-11-26",
-      "kind": "departure",
-      "number": "MK646",
-      "codeshares": [
-        "MH5770",
-        "SQ6050"
-      ],
-      "airline": "Air Mauritius",
-      "city": "Kuala Lumpur",
-      "stops": [
-        "Kuala Lumpur"
-      ],
-      "scheduled": "2026-11-26T22:50:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "KUL",
-        "name": "Kuala Lumpur",
-        "lat": 2.7456,
-        "lon": 101.71
-      }
-    },
-    {
       "id": "a-MK151-2026-11-26",
       "kind": "arrival",
       "number": "MK151",
@@ -1873,6 +1846,33 @@
         "name": "Rodrigues",
         "lat": -19.7577,
         "lon": 63.361
+      }
+    },
+    {
+      "id": "d-MK646-2026-11-26",
+      "kind": "departure",
+      "number": "MK646",
+      "codeshares": [
+        "MH5770",
+        "SQ6050"
+      ],
+      "airline": "Air Mauritius",
+      "city": "Kuala Lumpur",
+      "stops": [
+        "Kuala Lumpur"
+      ],
+      "scheduled": "2026-11-26T22:55:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "KUL",
+        "name": "Kuala Lumpur",
+        "lat": 2.7456,
+        "lon": 101.71
       }
     },
     {
