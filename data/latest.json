@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T23:03:08.723Z",
+  "fetched": "2026-11-26T23:13:11.764Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -352,7 +352,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "BLR",
@@ -501,10 +501,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-27T09:10:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T08:59:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -1230,7 +1230,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "22-23",
       "airport": {
         "iata": "DXB",
         "name": "Dubai",
