@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T18:53:09.528Z",
+  "fetched": "2026-11-26T19:03:08.279Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1739,10 +1739,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-26T22:30:00+04:00",
-      "estimated": "2026-11-26T22:33:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-26T22:51:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "22-23",
       "airport": {
@@ -1790,10 +1790,10 @@
         "Kuala Lumpur"
       ],
       "scheduled": "2026-11-26T22:55:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-26T22:56:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "19",
       "airport": {
@@ -1814,10 +1814,10 @@
         "Rome"
       ],
       "scheduled": "2026-11-26T23:10:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-26T22:56:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "15",
       "airport": {
