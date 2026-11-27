@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T06:23:16.168Z",
+  "fetched": "2026-11-27T06:33:13.232Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1584,7 +1584,7 @@
       "status": "delayed",
       "statusText": "Delayed",
       "belt": null,
-      "gate": "15",
+      "gate": "24",
       "airport": {
         "iata": "NBO",
         "name": "Nairobi",
