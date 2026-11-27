@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T22:33:11.634Z",
+  "fetched": "2026-11-27T22:43:13.536Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -799,6 +799,30 @@
       }
     },
     {
+      "id": "a-AF418-2026-11-28",
+      "kind": "arrival",
+      "number": "AF418",
+      "codeshares": [],
+      "airline": "Air France",
+      "city": "Paris CDG",
+      "stops": [
+        "Paris CDG"
+      ],
+      "scheduled": "2026-11-28T13:45:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": "04-05",
+      "gate": null,
+      "airport": {
+        "iata": "CDG",
+        "name": "Paris CDG",
+        "lat": 49.009,
+        "lon": 2.5541
+      }
+    },
+    {
       "id": "d-MK288-2026-11-28",
       "kind": "departure",
       "number": "MK288",
@@ -1507,13 +1531,13 @@
       "stops": [
         "Paris CDG"
       ],
-      "scheduled": "2026-11-28T20:45:00+04:00",
+      "scheduled": "2026-11-28T20:40:00+04:00",
       "estimated": null,
       "actual": null,
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "28",
       "airport": {
         "iata": "CDG",
         "name": "Paris CDG",
