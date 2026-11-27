@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T17:03:09.941Z",
+  "fetched": "2026-11-27T17:13:09.372Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1629,10 +1629,10 @@
         "Istanbul"
       ],
       "scheduled": "2026-11-27T20:30:00+04:00",
-      "estimated": "2026-11-27T20:42:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-27T20:57:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "26",
       "airport": {
@@ -1653,10 +1653,10 @@
         "London Gatwick"
       ],
       "scheduled": "2026-11-27T20:55:00+04:00",
-      "estimated": "2026-11-27T20:48:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-27T21:05:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "19",
       "airport": {
