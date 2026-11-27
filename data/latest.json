@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T09:13:16.627Z",
+  "fetched": "2026-11-27T09:23:11.810Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -575,10 +575,10 @@
         "Vienna"
       ],
       "scheduled": "2026-11-27T10:20:00+04:00",
-      "estimated": "2026-11-27T13:30:00+04:00",
+      "estimated": "2026-11-27T13:16:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "17",
       "airport": {
@@ -848,9 +848,9 @@
       ],
       "scheduled": "2026-11-27T13:15:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "actual": "2026-11-27T13:16:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -1205,7 +1205,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "15",
       "airport": {
