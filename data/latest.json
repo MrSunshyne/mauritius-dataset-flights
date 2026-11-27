@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T05:13:19.374Z",
+  "fetched": "2026-11-27T05:23:08.023Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -398,10 +398,10 @@
         "Geneva"
       ],
       "scheduled": "2026-11-27T08:50:00+04:00",
-      "estimated": "2026-11-27T09:02:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-27T09:17:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "22",
       "airport": {
@@ -923,10 +923,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-27T14:40:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T14:44:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "02",
       "gate": null,
       "airport": {
@@ -1779,10 +1779,10 @@
         "London Gatwick"
       ],
       "scheduled": "2026-11-27T22:25:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T22:05:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": null,
       "gate": "17",
       "airport": {
@@ -1832,10 +1832,10 @@
         "Paris CDG"
       ],
       "scheduled": "2026-11-27T22:35:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T22:00:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": null,
       "gate": "28",
       "airport": {
