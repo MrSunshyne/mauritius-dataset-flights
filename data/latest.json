@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T01:03:09.131Z",
+  "fetched": "2026-11-27T01:13:23.223Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -47,7 +47,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "Check-in",
+      "statusText": "",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -1716,6 +1716,30 @@
       }
     },
     {
+      "id": "d-BA2064-2026-11-27",
+      "kind": "departure",
+      "number": "BA2064",
+      "codeshares": [],
+      "airline": "British Airways",
+      "city": "London Gatwick",
+      "stops": [
+        "London Gatwick"
+      ],
+      "scheduled": "2026-11-27T20:55:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "LGW",
+        "name": "London Gatwick",
+        "lat": 51.1487,
+        "lon": -0.1857
+      }
+    },
+    {
       "id": "a-MK141-2026-11-27",
       "kind": "arrival",
       "number": "MK141",
@@ -1739,30 +1763,6 @@
         "name": "Rodrigues",
         "lat": -19.7577,
         "lon": 63.361
-      }
-    },
-    {
-      "id": "d-BA2064-2026-11-27",
-      "kind": "departure",
-      "number": "BA2064",
-      "codeshares": [],
-      "airline": "British Airways",
-      "city": "London Gatwick",
-      "stops": [
-        "London Gatwick"
-      ],
-      "scheduled": "2026-11-27T21:15:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "LGW",
-        "name": "London Gatwick",
-        "lat": 51.1487,
-        "lon": -0.1857
       }
     },
     {
