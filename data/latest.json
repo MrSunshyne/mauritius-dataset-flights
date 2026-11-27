@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T01:33:08.972Z",
+  "fetched": "2026-11-27T01:43:08.408Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -425,10 +425,10 @@
         "Vienna"
       ],
       "scheduled": "2026-11-27T08:40:00+04:00",
-      "estimated": "2026-11-27T11:35:00+04:00",
+      "estimated": null,
       "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "status": "scheduled",
+      "statusText": "",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -724,10 +724,10 @@
         "London Gatwick"
       ],
       "scheduled": "2026-11-27T11:35:00+04:00",
-      "estimated": "2026-11-27T11:46:00+04:00",
+      "estimated": null,
       "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "status": "scheduled",
+      "statusText": "",
       "belt": "01",
       "gate": null,
       "airport": {
