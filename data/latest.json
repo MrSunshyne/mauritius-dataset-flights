@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T08:33:08.918Z",
+  "fetched": "2026-11-27T08:43:17.367Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -798,9 +798,9 @@
       ],
       "scheduled": "2026-11-27T12:40:00+04:00",
       "estimated": null,
-      "actual": "2026-11-27T12:29:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-27T12:36:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "03",
       "gate": null,
       "airport": {
@@ -824,9 +824,9 @@
       ],
       "scheduled": "2026-11-27T12:55:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "actual": "2026-11-27T12:40:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "04",
       "gate": null,
       "airport": {
@@ -1050,10 +1050,10 @@
         "Johannesburg"
       ],
       "scheduled": "2026-11-27T15:45:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T16:08:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "02",
       "gate": null,
       "airport": {
