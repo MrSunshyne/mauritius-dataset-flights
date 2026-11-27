@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T10:13:09.797Z",
+  "fetched": "2026-11-27T10:23:08.992Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -897,10 +897,10 @@
         "St Denis Reunion"
       ],
       "scheduled": "2026-11-27T14:10:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T14:44:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -1024,10 +1024,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-27T15:40:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T15:53:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -1708,7 +1708,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": "24",
+      "gate": "15",
       "airport": {
         "iata": "ORY",
         "name": "Paris Orly",
