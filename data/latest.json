@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T06:03:15.659Z",
+  "fetched": "2026-11-27T06:13:07.861Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -500,10 +500,10 @@
         "Zurich"
       ],
       "scheduled": "2026-11-27T09:25:00+04:00",
-      "estimated": "2026-11-27T09:39:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-27T09:50:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "17",
       "airport": {
@@ -524,10 +524,10 @@
         "Bangalore"
       ],
       "scheduled": "2026-11-27T09:30:00+04:00",
-      "estimated": "2026-11-27T09:23:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-27T09:36:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -551,10 +551,10 @@
         "St Denis Reunion"
       ],
       "scheduled": "2026-11-27T10:00:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T10:09:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "25",
       "airport": {
@@ -675,10 +675,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-27T11:40:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T11:43:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "06",
       "gate": null,
       "airport": {
