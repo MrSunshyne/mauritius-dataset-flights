@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T18:13:08.059Z",
+  "fetched": "2026-11-27T18:23:08.005Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1729,10 +1729,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-27T21:50:00+04:00",
-      "estimated": "2026-11-27T22:17:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-27T22:14:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -1779,10 +1779,10 @@
         "London Gatwick"
       ],
       "scheduled": "2026-11-27T22:25:00+04:00",
-      "estimated": "2026-11-27T22:05:00+04:00",
-      "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "estimated": null,
+      "actual": "2026-11-27T22:14:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "17",
       "airport": {
@@ -1832,10 +1832,10 @@
         "Paris CDG"
       ],
       "scheduled": "2026-11-27T22:35:00+04:00",
-      "estimated": "2026-11-27T22:00:00+04:00",
+      "estimated": "2026-11-27T22:10:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "28",
       "airport": {
