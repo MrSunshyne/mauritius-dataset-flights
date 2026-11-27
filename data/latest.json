@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T03:13:13.125Z",
+  "fetched": "2026-11-27T03:33:15.664Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -123,10 +123,10 @@
         "Mumbai"
       ],
       "scheduled": "2026-11-27T06:55:00+04:00",
-      "estimated": "2026-11-27T07:31:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-27T07:28:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "02",
       "gate": null,
       "airport": {
@@ -147,10 +147,10 @@
         "St Denis Reunion"
       ],
       "scheduled": "2026-11-27T07:30:00+04:00",
-      "estimated": "2026-11-27T07:25:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-27T07:26:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -173,8 +173,8 @@
       "scheduled": "2026-11-27T07:45:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "gate-closed",
+      "statusText": "Closed",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -250,7 +250,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "Check-in",
+      "statusText": "",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -604,7 +604,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "28",
       "airport": {
