@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T20:53:09.942Z",
+  "fetched": "2026-11-27T21:03:19.677Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -115,10 +115,10 @@
         "Mumbai"
       ],
       "scheduled": "2026-11-28T06:55:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T06:42:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -637,10 +637,10 @@
         "Paris Orly"
       ],
       "scheduled": "2026-11-28T11:55:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T11:26:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "04",
       "gate": null,
       "airport": {
@@ -1539,7 +1539,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "24",
       "airport": {
         "iata": "ORY",
         "name": "Paris Orly",
