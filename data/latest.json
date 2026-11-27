@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T20:43:08.094Z",
+  "fetched": "2026-11-27T20:53:09.942Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -641,7 +641,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "04",
       "gate": null,
       "airport": {
         "iata": "ORY",
