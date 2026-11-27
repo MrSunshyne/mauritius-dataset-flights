@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T21:13:09.366Z",
+  "fetched": "2026-11-27T21:23:08.824Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -569,7 +569,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "03",
       "gate": null,
       "airport": {
         "iata": "FCO",
@@ -1643,7 +1643,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "28",
       "airport": {
         "iata": "FCO",
         "name": "Rome",
