@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T13:33:08.952Z",
+  "fetched": "2026-11-27T13:43:13.277Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1377,10 +1377,10 @@
         "Jeddah"
       ],
       "scheduled": "2026-11-27T17:45:00+04:00",
-      "estimated": "2026-11-27T17:26:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-27T17:34:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "26",
       "airport": {
@@ -1403,10 +1403,10 @@
         "Cape Town"
       ],
       "scheduled": "2026-11-27T17:50:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T17:35:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "24",
       "airport": {
