@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T09:33:10.022Z",
+  "fetched": "2026-11-27T09:43:11.072Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1076,10 +1076,10 @@
         "Kuala Lumpur"
       ],
       "scheduled": "2026-11-27T16:00:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T15:33:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "05",
       "gate": null,
       "airport": {
@@ -1327,7 +1327,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "19",
       "airport": {
