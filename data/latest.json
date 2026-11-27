@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T04:13:11.184Z",
+  "fetched": "2026-11-27T04:23:08.851Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -247,7 +247,7 @@
         "St Denis Reunion"
       ],
       "scheduled": "2026-11-27T08:15:00+04:00",
-      "estimated": "2026-11-27T08:09:00+04:00",
+      "estimated": "2026-11-27T08:15:00+04:00",
       "actual": null,
       "status": "unknown",
       "statusText": "Taxiing",
@@ -271,10 +271,10 @@
         "Bangalore"
       ],
       "scheduled": "2026-11-27T08:30:00+04:00",
-      "estimated": "2026-11-27T08:15:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-27T08:21:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -297,11 +297,11 @@
         "Paris CDG"
       ],
       "scheduled": "2026-11-27T08:30:00+04:00",
-      "estimated": "2026-11-27T08:15:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
-      "belt": "04-05",
+      "estimated": null,
+      "actual": "2026-11-27T08:14:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
+      "belt": "04",
       "gate": null,
       "airport": {
         "iata": "CDG",
@@ -352,8 +352,8 @@
       "scheduled": "2026-11-27T08:40:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "25",
       "airport": {
@@ -400,8 +400,8 @@
       "scheduled": "2026-11-27T08:50:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "22",
       "airport": {
@@ -450,8 +450,8 @@
       "scheduled": "2026-11-27T09:00:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "19",
       "airport": {
@@ -527,7 +527,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "Check-in",
+      "statusText": "",
       "belt": null,
       "gate": "24",
       "airport": {
