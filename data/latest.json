@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T01:13:23.223Z",
+  "fetched": "2026-11-27T01:23:08.986Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1590,32 +1590,6 @@
       }
     },
     {
-      "id": "d-KQ271-2026-11-27",
-      "kind": "departure",
-      "number": "KQ271",
-      "codeshares": [
-        "MK960"
-      ],
-      "airline": "Kenya Airways",
-      "city": "Nairobi",
-      "stops": [
-        "Nairobi"
-      ],
-      "scheduled": "2026-11-27T18:30:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "NBO",
-        "name": "Nairobi",
-        "lat": -1.3189,
-        "lon": 36.9282
-      }
-    },
-    {
       "id": "d-MK150-2026-11-27",
       "kind": "departure",
       "number": "MK150",
@@ -1663,6 +1637,32 @@
         "name": "Johannesburg",
         "lat": -26.1401,
         "lon": 28.2468
+      }
+    },
+    {
+      "id": "d-KQ271-2026-11-27",
+      "kind": "departure",
+      "number": "KQ271",
+      "codeshares": [
+        "MK960"
+      ],
+      "airline": "Kenya Airways",
+      "city": "Nairobi",
+      "stops": [
+        "Nairobi"
+      ],
+      "scheduled": "2026-11-27T19:40:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "NBO",
+        "name": "Nairobi",
+        "lat": -1.3189,
+        "lon": 36.9282
       }
     },
     {
