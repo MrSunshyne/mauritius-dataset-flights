@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T10:10:36.092Z",
+  "fetched": "2026-11-27T10:13:09.797Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -877,7 +877,7 @@
       "actual": "2026-11-27T13:31:00+04:00",
       "status": "arrived",
       "statusText": "Arrived",
-      "belt": "05",
+      "belt": "04-05",
       "gate": null,
       "airport": {
         "iata": "BOM",
