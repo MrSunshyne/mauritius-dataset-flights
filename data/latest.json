@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T21:53:09.995Z",
+  "fetched": "2026-11-27T22:03:08.924Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -78,6 +78,30 @@
         "name": "Paris CDG",
         "lat": 49.009,
         "lon": 2.5541
+      }
+    },
+    {
+      "id": "a-MK844-2026-11-28",
+      "kind": "arrival",
+      "number": "MK844",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Cape Town",
+      "stops": [
+        "Cape Town"
+      ],
+      "scheduled": "2026-11-28T06:40:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": "03",
+      "gate": null,
+      "airport": {
+        "iata": "CPT",
+        "name": "Cape Town",
+        "lat": -33.974,
+        "lon": 18.6043
       }
     },
     {
