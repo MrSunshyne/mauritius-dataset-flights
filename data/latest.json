@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T01:23:08.986Z",
+  "fetched": "2026-11-27T01:33:08.972Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -673,7 +673,7 @@
       "stops": [
         "Paris CDG"
       ],
-      "scheduled": "2026-11-27T10:40:00+04:00",
+      "scheduled": "2026-11-27T10:35:00+04:00",
       "estimated": null,
       "actual": null,
       "status": "scheduled",
@@ -1411,32 +1411,6 @@
       }
     },
     {
-      "id": "a-KQ270-2026-11-27",
-      "kind": "arrival",
-      "number": "KQ270",
-      "codeshares": [
-        "MK961"
-      ],
-      "airline": "Kenya Airways",
-      "city": "Nairobi",
-      "stops": [
-        "Nairobi"
-      ],
-      "scheduled": "2026-11-27T17:30:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "NBO",
-        "name": "Nairobi",
-        "lat": -1.3189,
-        "lon": 36.9282
-      }
-    },
-    {
       "id": "a-MK239-2026-11-27",
       "kind": "arrival",
       "number": "MK239",
@@ -1587,6 +1561,32 @@
         "name": "Dubai",
         "lat": 25.2498,
         "lon": 55.371
+      }
+    },
+    {
+      "id": "a-KQ270-2026-11-27",
+      "kind": "arrival",
+      "number": "KQ270",
+      "codeshares": [
+        "MK961"
+      ],
+      "airline": "Kenya Airways",
+      "city": "Nairobi",
+      "stops": [
+        "Nairobi"
+      ],
+      "scheduled": "2026-11-27T18:50:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "NBO",
+        "name": "Nairobi",
+        "lat": -1.3189,
+        "lon": 36.9282
       }
     },
     {
