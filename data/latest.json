@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T05:43:08.402Z",
+  "fetched": "2026-11-27T05:53:12.124Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -603,8 +603,8 @@
       "scheduled": "2026-11-27T10:35:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "28",
       "airport": {
@@ -1503,10 +1503,10 @@
         "Nairobi"
       ],
       "scheduled": "2026-11-27T18:50:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T19:30:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "delayed",
+      "statusText": "Delayed",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -1579,10 +1579,10 @@
         "Nairobi"
       ],
       "scheduled": "2026-11-27T19:40:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T20:20:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "delayed",
+      "statusText": "Delayed",
       "belt": null,
       "gate": "15",
       "airport": {
