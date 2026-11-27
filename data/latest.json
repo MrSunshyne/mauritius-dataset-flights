@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T05:03:10.200Z",
+  "fetched": "2026-11-27T05:13:19.374Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -398,10 +398,10 @@
         "Geneva"
       ],
       "scheduled": "2026-11-27T08:50:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T09:02:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "22",
       "airport": {
@@ -424,10 +424,10 @@
         "Johannesburg"
       ],
       "scheduled": "2026-11-27T08:50:00+04:00",
-      "estimated": "2026-11-27T08:59:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-27T09:09:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "26",
       "airport": {
@@ -448,10 +448,10 @@
         "Mumbai"
       ],
       "scheduled": "2026-11-27T09:00:00+04:00",
-      "estimated": "2026-11-27T08:53:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-27T09:05:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "19",
       "airport": {
@@ -475,9 +475,9 @@
       ],
       "scheduled": "2026-11-27T09:10:00+04:00",
       "estimated": null,
-      "actual": "2026-11-27T08:57:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-27T09:10:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -502,8 +502,8 @@
       "scheduled": "2026-11-27T09:25:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "17",
       "airport": {
