@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T04:03:09.728Z",
+  "fetched": "2026-11-27T04:13:11.184Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -247,10 +247,10 @@
         "St Denis Reunion"
       ],
       "scheduled": "2026-11-27T08:15:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T08:09:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -873,10 +873,10 @@
         "Mumbai"
       ],
       "scheduled": "2026-11-27T13:20:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T13:36:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "05",
       "gate": null,
       "airport": {
