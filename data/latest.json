@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T12:43:08.728Z",
+  "fetched": "2026-11-27T12:53:11.652Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1176,10 +1176,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-27T16:35:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T16:45:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -1202,10 +1202,10 @@
         "Johannesburg"
       ],
       "scheduled": "2026-11-27T16:35:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T16:41:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "15",
       "airport": {
@@ -1380,7 +1380,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "Check-in",
+      "statusText": "",
       "belt": null,
       "gate": "26",
       "airport": {
