@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T13:13:11.863Z",
+  "fetched": "2026-11-27T13:23:08.589Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1226,10 +1226,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-27T17:05:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T17:17:00+04:00",
       "actual": null,
-      "status": "gate-closed",
-      "statusText": "Closed",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -1252,10 +1252,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-27T17:10:00+04:00",
-      "estimated": "2026-11-27T17:05:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-27T17:15:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -1277,9 +1277,9 @@
       ],
       "scheduled": "2026-11-27T17:10:00+04:00",
       "estimated": null,
-      "actual": "2026-11-27T16:58:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-27T17:02:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -1301,9 +1301,9 @@
       ],
       "scheduled": "2026-11-27T17:15:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "actual": "2026-11-27T17:18:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "05",
       "gate": null,
       "airport": {
@@ -1324,10 +1324,10 @@
         "St Denis Reunion"
       ],
       "scheduled": "2026-11-27T17:15:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T17:15:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "19",
       "airport": {
@@ -1405,8 +1405,8 @@
       "scheduled": "2026-11-27T17:50:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -1782,7 +1782,7 @@
       "estimated": "2026-11-27T22:05:00+04:00",
       "actual": null,
       "status": "estimated",
-      "statusText": "Expected",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "17",
       "airport": {
@@ -1835,7 +1835,7 @@
       "estimated": "2026-11-27T22:00:00+04:00",
       "actual": null,
       "status": "estimated",
-      "statusText": "Expected",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "28",
       "airport": {
