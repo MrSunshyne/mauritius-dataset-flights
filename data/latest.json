@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T01:53:08.943Z",
+  "fetched": "2026-11-27T02:03:17.677Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -19,9 +19,9 @@
       ],
       "scheduled": "2026-11-27T04:35:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "actual": "2026-11-27T04:38:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -45,9 +45,9 @@
       ],
       "scheduled": "2026-11-27T05:35:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "actual": "2026-11-27T05:38:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -73,10 +73,10 @@
       ],
       "scheduled": "2026-11-27T05:50:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
+      "actual": "2026-11-27T05:03:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
+      "belt": "04",
       "gate": null,
       "airport": {
         "iata": "PER",
@@ -99,44 +99,17 @@
         "Paris CDG"
       ],
       "scheduled": "2026-11-27T06:35:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T06:40:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
+      "status": "estimated",
+      "statusText": "Expected",
+      "belt": "02-03",
       "gate": null,
       "airport": {
         "iata": "CDG",
         "name": "Paris CDG",
         "lat": 49.009,
         "lon": 2.5541
-      }
-    },
-    {
-      "id": "a-MK844-2026-11-27",
-      "kind": "arrival",
-      "number": "MK844",
-      "codeshares": [
-        "AF7948",
-        "AF7969"
-      ],
-      "airline": "Air Mauritius",
-      "city": "Cape Town",
-      "stops": [
-        "Cape Town"
-      ],
-      "scheduled": "2026-11-27T06:40:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "CPT",
-        "name": "Cape Town",
-        "lat": -33.974,
-        "lon": 18.6043
       }
     },
     {
@@ -154,7 +127,7 @@
       "actual": null,
       "status": "estimated",
       "statusText": "Expected",
-      "belt": "05",
+      "belt": "02",
       "gate": null,
       "airport": {
         "iata": "BOM",
@@ -178,37 +151,13 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "01",
       "gate": null,
       "airport": {
         "iata": "RUN",
         "name": "St Denis, Réunion",
         "lat": -20.8901,
         "lon": 55.5189
-      }
-    },
-    {
-      "id": "a-MK053-2026-11-27",
-      "kind": "arrival",
-      "number": "MK053",
-      "codeshares": [],
-      "airline": "Air Mauritius",
-      "city": "London Gatwick",
-      "stops": [
-        "London Gatwick"
-      ],
-      "scheduled": "2026-11-27T07:40:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "LGW",
-        "name": "London Gatwick",
-        "lat": 51.1487,
-        "lon": -0.1857
       }
     },
     {
@@ -225,9 +174,9 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
-      "gate": null,
+      "gate": "20",
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -252,7 +201,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RUN",
@@ -274,11 +223,11 @@
         "Zurich"
       ],
       "scheduled": "2026-11-27T07:55:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T07:56:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
+      "status": "estimated",
+      "statusText": "Expected",
+      "belt": "03",
       "gate": null,
       "airport": {
         "iata": "ZRH",
@@ -301,14 +250,38 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
-      "gate": null,
+      "gate": "24",
       "airport": {
         "iata": "RUN",
         "name": "St Denis, Réunion",
         "lat": -20.8901,
         "lon": 55.5189
+      }
+    },
+    {
+      "id": "a-6E1861-2026-11-27",
+      "kind": "arrival",
+      "number": "6E1861",
+      "codeshares": [],
+      "airline": "IndiGo",
+      "city": "Bangalore",
+      "stops": [
+        "Bangalore"
+      ],
+      "scheduled": "2026-11-27T08:30:00+04:00",
+      "estimated": "2026-11-27T08:15:00+04:00",
+      "actual": null,
+      "status": "estimated",
+      "statusText": "Expected",
+      "belt": "06",
+      "gate": null,
+      "airport": {
+        "iata": "BLR",
+        "name": "Bangalore",
+        "lat": 13.1979,
+        "lon": 77.7063
       }
     },
     {
@@ -323,42 +296,18 @@
       "stops": [
         "Paris CDG"
       ],
-      "scheduled": "2026-11-27T08:20:00+04:00",
-      "estimated": null,
+      "scheduled": "2026-11-27T08:30:00+04:00",
+      "estimated": "2026-11-27T08:15:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
+      "status": "estimated",
+      "statusText": "Expected",
+      "belt": "04-05",
       "gate": null,
       "airport": {
         "iata": "CDG",
         "name": "Paris CDG",
         "lat": 49.009,
         "lon": 2.5541
-      }
-    },
-    {
-      "id": "a-6E1861-2026-11-27",
-      "kind": "arrival",
-      "number": "6E1861",
-      "codeshares": [],
-      "airline": "IndiGo",
-      "city": "Bangalore",
-      "stops": [
-        "Bangalore"
-      ],
-      "scheduled": "2026-11-27T08:30:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": "06",
-      "gate": null,
-      "airport": {
-        "iata": "BLR",
-        "name": "Bangalore",
-        "lat": 13.1979,
-        "lon": 77.7063
       }
     },
     {
@@ -377,9 +326,9 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
-      "gate": null,
+      "gate": "20",
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -404,9 +353,9 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
-      "gate": null,
+      "gate": "25",
       "airport": {
         "iata": "RUN",
         "name": "St Denis, Réunion",
@@ -425,10 +374,10 @@
         "Vienna"
       ],
       "scheduled": "2026-11-27T08:40:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T11:40:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "delayed",
+      "statusText": "Delayed",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -452,9 +401,9 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
-      "gate": null,
+      "gate": "22",
       "airport": {
         "iata": "GVA",
         "name": "Geneva",
@@ -478,9 +427,9 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
-      "gate": null,
+      "gate": "26",
       "airport": {
         "iata": "JNB",
         "name": "Johannesburg",
@@ -502,9 +451,9 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
-      "gate": null,
+      "gate": "19",
       "airport": {
         "iata": "BOM",
         "name": "Mumbai",
@@ -525,10 +474,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-27T09:10:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T08:59:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -556,7 +505,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "17",
       "airport": {
         "iata": "ZRH",
         "name": "Zurich",
@@ -580,36 +529,12 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "24",
       "airport": {
         "iata": "BLR",
         "name": "Bangalore",
         "lat": 13.1979,
         "lon": 77.7063
-      }
-    },
-    {
-      "id": "a-MK059-2026-11-27",
-      "kind": "arrival",
-      "number": "MK059",
-      "codeshares": [],
-      "airline": "Air Mauritius",
-      "city": "Geneva",
-      "stops": [
-        "Geneva"
-      ],
-      "scheduled": "2026-11-27T09:50:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "GVA",
-        "name": "Geneva",
-        "lat": 46.2381,
-        "lon": 6.109
       }
     },
     {
@@ -631,7 +556,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "25",
       "airport": {
         "iata": "RUN",
         "name": "St Denis, Réunion",
@@ -650,12 +575,12 @@
         "Vienna"
       ],
       "scheduled": "2026-11-27T10:20:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T13:15:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Check-in",
       "belt": null,
-      "gate": "19",
+      "gate": "17",
       "airport": {
         "iata": "VIE",
         "name": "Vienna",
@@ -667,7 +592,9 @@
       "id": "d-AF473-2026-11-27",
       "kind": "departure",
       "number": "AF473",
-      "codeshares": [],
+      "codeshares": [
+        "MK932"
+      ],
       "airline": "Air France",
       "city": "Paris CDG",
       "stops": [
@@ -679,7 +606,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "28",
       "airport": {
         "iata": "CDG",
         "name": "Paris CDG",
@@ -704,7 +631,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "04",
       "gate": null,
       "airport": {
         "iata": "RUN",
@@ -724,11 +651,11 @@
         "London Gatwick"
       ],
       "scheduled": "2026-11-27T11:35:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T11:46:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": "01",
+      "status": "estimated",
+      "statusText": "Expected",
+      "belt": "02",
       "gate": null,
       "airport": {
         "iata": "LGW",
@@ -752,7 +679,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -777,7 +704,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "20",
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -800,7 +727,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "05",
       "gate": null,
       "airport": {
         "iata": "RUN",
@@ -827,7 +754,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "20",
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -850,7 +777,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -870,11 +797,11 @@
         "Istanbul"
       ],
       "scheduled": "2026-11-27T12:40:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T12:20:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": "02-03",
+      "status": "estimated",
+      "statusText": "Expected",
+      "belt": "03",
       "gate": null,
       "airport": {
         "iata": "IST",
@@ -900,7 +827,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "04",
       "gate": null,
       "airport": {
         "iata": "RUN",
@@ -925,7 +852,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "20",
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -950,7 +877,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "05",
       "gate": null,
       "airport": {
         "iata": "BOM",
@@ -974,7 +901,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "01",
       "gate": null,
       "airport": {
         "iata": "RUN",
@@ -1000,7 +927,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "02",
       "gate": null,
       "airport": {
         "iata": "DXB",
@@ -1024,7 +951,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "01",
       "gate": null,
       "airport": {
         "iata": "ADD",
@@ -1052,7 +979,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "25",
       "airport": {
         "iata": "RUN",
         "name": "St Denis, Réunion",
@@ -1077,7 +1004,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "03-04",
       "gate": null,
       "airport": {
         "iata": "JED",
@@ -1101,7 +1028,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -1127,7 +1054,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "02",
       "gate": null,
       "airport": {
         "iata": "JNB",
@@ -1153,7 +1080,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "05",
       "gate": null,
       "airport": {
         "iata": "KUL",
@@ -1178,7 +1105,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "28",
       "airport": {
         "iata": "ADD",
         "name": "Addis Ababa",
@@ -1203,7 +1130,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -1254,7 +1181,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "20",
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -1280,7 +1207,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "15",
       "airport": {
         "iata": "JNB",
         "name": "Johannesburg",
@@ -1304,7 +1231,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "20",
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -1329,7 +1256,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "02-03",
       "gate": null,
       "airport": {
         "iata": "DXB",
@@ -1353,7 +1280,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -1377,7 +1304,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "05",
       "gate": null,
       "airport": {
         "iata": "CPT",
@@ -1400,9 +1327,9 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
-      "gate": null,
+      "gate": "19",
       "airport": {
         "iata": "RUN",
         "name": "St Denis, Réunion",
@@ -1428,7 +1355,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "04",
       "gate": null,
       "airport": {
         "iata": "RUN",
@@ -1455,7 +1382,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "26",
       "airport": {
         "iata": "JED",
         "name": "Jeddah",
@@ -1481,7 +1408,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "24",
       "airport": {
         "iata": "CPT",
         "name": "Cape Town",
@@ -1505,7 +1432,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "20",
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -1529,7 +1456,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "28",
       "airport": {
         "iata": "CPT",
         "name": "Cape Town",
@@ -1555,7 +1482,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "15",
       "airport": {
         "iata": "DXB",
         "name": "Dubai",
@@ -1580,7 +1507,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "01",
       "gate": null,
       "airport": {
         "iata": "NBO",
@@ -1605,7 +1532,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "20",
       "airport": {
         "iata": "RRG",
         "name": "Rodrigues",
@@ -1630,7 +1557,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "05",
       "gate": null,
       "airport": {
         "iata": "JNB",
@@ -1657,7 +1584,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "15",
       "airport": {
         "iata": "NBO",
         "name": "Nairobi",
@@ -1682,7 +1609,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -1731,7 +1658,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "19",
       "airport": {
         "iata": "LGW",
         "name": "London Gatwick",
@@ -1756,7 +1683,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -1781,7 +1708,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "24",
       "airport": {
         "iata": "ORY",
         "name": "Paris Orly",
@@ -1806,7 +1733,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
@@ -1833,7 +1760,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "25",
       "airport": {
         "iata": "RUN",
         "name": "St Denis, Réunion",
@@ -1857,7 +1784,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "17",
       "airport": {
         "iata": "LGW",
         "name": "London Gatwick",
@@ -1883,7 +1810,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "22-23",
       "airport": {
         "iata": "DXB",
         "name": "Dubai",
@@ -1910,7 +1837,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": null,
+      "gate": "28",
       "airport": {
         "iata": "CDG",
         "name": "Paris CDG",
@@ -1933,7 +1860,7 @@
       "actual": null,
       "status": "scheduled",
       "statusText": "",
-      "belt": null,
+      "belt": "06",
       "gate": null,
       "airport": {
         "iata": "RRG",
