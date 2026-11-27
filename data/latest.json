@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T08:23:09.113Z",
+  "fetched": "2026-11-27T08:33:08.918Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -750,9 +750,9 @@
       ],
       "scheduled": "2026-11-27T12:25:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "actual": "2026-11-27T12:28:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -773,10 +773,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-27T12:30:00+04:00",
-      "estimated": "2026-11-27T12:27:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-27T12:24:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -797,10 +797,10 @@
         "Istanbul"
       ],
       "scheduled": "2026-11-27T12:40:00+04:00",
-      "estimated": "2026-11-27T12:20:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-27T12:29:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "03",
       "gate": null,
       "airport": {
