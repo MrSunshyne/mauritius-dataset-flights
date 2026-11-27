@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T07:43:08.097Z",
+  "fetched": "2026-11-27T07:53:11.210Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -374,10 +374,10 @@
         "Vienna"
       ],
       "scheduled": "2026-11-27T08:40:00+04:00",
-      "estimated": "2026-11-27T11:40:00+04:00",
-      "actual": null,
-      "status": "delayed",
-      "statusText": "Delayed",
+      "estimated": null,
+      "actual": "2026-11-27T11:45:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -699,10 +699,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-27T11:45:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-27T11:49:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "20",
       "airport": {
