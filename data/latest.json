@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T09:53:11.502Z",
+  "fetched": "2026-11-28T10:03:08.829Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -833,10 +833,10 @@
         "Paris CDG"
       ],
       "scheduled": "2026-11-28T13:45:00+04:00",
-      "estimated": "2026-11-28T14:00:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-28T14:01:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "04-05",
       "gate": null,
       "airport": {
