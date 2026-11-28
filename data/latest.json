@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T02:23:09.691Z",
+  "fetched": "2026-11-28T02:33:08.795Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -64,10 +64,10 @@
         "Cape Town"
       ],
       "scheduled": "2026-11-28T06:40:00+04:00",
-      "estimated": "2026-11-28T06:33:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-28T06:30:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "03",
       "gate": null,
       "airport": {
@@ -88,10 +88,10 @@
         "Frankfurt"
       ],
       "scheduled": "2026-11-28T06:45:00+04:00",
-      "estimated": "2026-11-28T06:29:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-28T06:25:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "04",
       "gate": null,
       "airport": {
