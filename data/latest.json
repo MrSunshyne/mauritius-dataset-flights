@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T18:53:09.210Z",
+  "fetched": "2026-11-28T19:03:10.321Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1814,7 +1814,7 @@
         "Kuala Lumpur"
       ],
       "scheduled": "2026-11-28T22:50:00+04:00",
-      "estimated": "2026-11-28T22:49:00+04:00",
+      "estimated": "2026-11-28T22:52:00+04:00",
       "actual": null,
       "status": "unknown",
       "statusText": "Taxiing",
