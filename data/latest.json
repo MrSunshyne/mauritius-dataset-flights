@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T01:43:11.155Z",
+  "fetched": "2026-11-28T01:53:08.454Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -251,32 +251,6 @@
       }
     },
     {
-      "id": "a-AF470-2026-11-28",
-      "kind": "arrival",
-      "number": "AF470",
-      "codeshares": [
-        "MK933"
-      ],
-      "airline": "Air France",
-      "city": "Paris CDG",
-      "stops": [
-        "Paris CDG"
-      ],
-      "scheduled": "2026-11-28T08:20:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "CDG",
-        "name": "Paris CDG",
-        "lat": 49.009,
-        "lon": 2.5541
-      }
-    },
-    {
       "id": "d-4Y153-2026-11-28",
       "kind": "departure",
       "number": "4Y153",
@@ -322,6 +296,32 @@
         "name": "Bangalore",
         "lat": 13.1979,
         "lon": 77.7063
+      }
+    },
+    {
+      "id": "a-AF470-2026-11-28",
+      "kind": "arrival",
+      "number": "AF470",
+      "codeshares": [
+        "MK933"
+      ],
+      "airline": "Air France",
+      "city": "Paris CDG",
+      "stops": [
+        "Paris CDG"
+      ],
+      "scheduled": "2026-11-28T08:30:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "CDG",
+        "name": "Paris CDG",
+        "lat": 49.009,
+        "lon": 2.5541
       }
     },
     {
@@ -464,10 +464,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-28T09:10:00+04:00",
-      "estimated": "2026-11-28T09:17:00+04:00",
+      "estimated": null,
       "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "status": "scheduled",
+      "statusText": "",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -613,10 +613,10 @@
         "Rome"
       ],
       "scheduled": "2026-11-28T11:25:00+04:00",
-      "estimated": "2026-11-28T11:41:00+04:00",
+      "estimated": null,
       "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "status": "scheduled",
+      "statusText": "",
       "belt": "03",
       "gate": null,
       "airport": {
@@ -685,10 +685,10 @@
         "Paris Orly"
       ],
       "scheduled": "2026-11-28T11:55:00+04:00",
-      "estimated": "2026-11-28T11:26:00+04:00",
+      "estimated": null,
       "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "status": "scheduled",
+      "statusText": "",
       "belt": "04",
       "gate": null,
       "airport": {
