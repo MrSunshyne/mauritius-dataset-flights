@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T11:43:11.008Z",
+  "fetched": "2026-11-28T11:53:08.303Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -961,10 +961,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-28T15:40:00+04:00",
-      "estimated": "2026-11-28T15:48:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-28T15:48:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -1011,10 +1011,10 @@
         "Seychelles"
       ],
       "scheduled": "2026-11-28T16:00:00+04:00",
-      "estimated": "2026-11-28T15:54:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-28T15:51:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "03",
       "gate": null,
       "airport": {
@@ -1188,7 +1188,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "Check-in",
+      "statusText": "",
       "belt": null,
       "gate": "18",
       "airport": {
