@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T06:23:08.271Z",
+  "fetched": "2026-11-28T06:33:08.904Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -539,10 +539,10 @@
         "Geneva"
       ],
       "scheduled": "2026-11-28T10:20:00+04:00",
-      "estimated": "2026-11-28T10:23:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-28T10:31:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -563,10 +563,10 @@
         "Paris CDG"
       ],
       "scheduled": "2026-11-28T10:35:00+04:00",
-      "estimated": "2026-11-28T10:14:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-28T10:27:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "28",
       "airport": {
@@ -809,10 +809,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-28T13:15:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T13:45:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "delayed",
+      "statusText": "Delayed",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -1283,10 +1283,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-28T17:10:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T17:35:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "delayed",
+      "statusText": "Delayed",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -1382,10 +1382,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-28T17:55:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T18:10:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "delayed",
+      "statusText": "Delayed",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -1632,10 +1632,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-28T21:50:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T22:00:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "delayed",
+      "statusText": "Delayed",
       "belt": "06",
       "gate": null,
       "airport": {
