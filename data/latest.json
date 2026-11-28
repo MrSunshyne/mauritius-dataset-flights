@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T07:43:18.572Z",
+  "fetched": "2026-11-28T07:53:08.233Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -637,10 +637,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-28T11:40:00+04:00",
-      "estimated": "2026-11-28T11:48:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-28T11:46:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -686,10 +686,10 @@
       ],
       "scheduled": "2026-11-28T11:55:00+04:00",
       "estimated": null,
-      "actual": "2026-11-28T11:36:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
-      "belt": "04",
+      "actual": "2026-11-28T11:44:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
+      "belt": "04-05",
       "gate": null,
       "airport": {
         "iata": "ORY",
@@ -735,7 +735,7 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-28T12:30:00+04:00",
-      "estimated": "2026-11-28T13:10:00+04:00",
+      "estimated": "2026-11-28T13:25:00+04:00",
       "actual": null,
       "status": "delayed",
       "statusText": "Delayed",
@@ -910,10 +910,10 @@
         "Johannesburg"
       ],
       "scheduled": "2026-11-28T15:15:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T17:15:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "01",
       "gate": null,
       "airport": {
