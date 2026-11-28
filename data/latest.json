@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T05:13:10.263Z",
+  "fetched": "2026-11-28T05:23:09.318Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -337,10 +337,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-28T08:35:00+04:00",
-      "estimated": "2026-11-28T09:00:00+04:00",
+      "estimated": "2026-11-28T09:20:00+04:00",
       "actual": null,
-      "status": "gate-closed",
-      "statusText": "Closed",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -438,10 +438,10 @@
         "Mumbai"
       ],
       "scheduled": "2026-11-28T09:00:00+04:00",
-      "estimated": "2026-11-28T08:58:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-28T09:14:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "15",
       "airport": {
@@ -465,9 +465,9 @@
       ],
       "scheduled": "2026-11-28T09:10:00+04:00",
       "estimated": null,
-      "actual": "2026-11-28T09:10:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-28T09:17:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -488,10 +488,10 @@
         "Bangalore"
       ],
       "scheduled": "2026-11-28T09:30:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T09:16:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -664,7 +664,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -714,7 +714,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "20",
       "airport": {
