@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T05:03:08.273Z",
+  "fetched": "2026-11-28T05:13:10.263Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -414,10 +414,10 @@
         "Johannesburg"
       ],
       "scheduled": "2026-11-28T08:50:00+04:00",
-      "estimated": "2026-11-28T08:57:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-28T09:07:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "22",
       "airport": {
@@ -464,10 +464,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-28T09:10:00+04:00",
-      "estimated": "2026-11-28T09:17:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-28T09:10:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -520,7 +520,7 @@
       "status": "scheduled",
       "statusText": "Check-in",
       "belt": null,
-      "gate": "17",
+      "gate": "18",
       "airport": {
         "iata": "RUN",
         "name": "St Denis, Réunion",
