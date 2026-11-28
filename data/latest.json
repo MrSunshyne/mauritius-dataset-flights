@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T23:53:17.602Z",
+  "fetched": "2026-11-28T00:03:09.069Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -529,6 +529,30 @@
       }
     },
     {
+      "id": "a-MK059-2026-11-28",
+      "kind": "arrival",
+      "number": "MK059",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "Geneva",
+      "stops": [
+        "Geneva"
+      ],
+      "scheduled": "2026-11-28T10:20:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "GVA",
+        "name": "Geneva",
+        "lat": 46.2381,
+        "lon": 6.109
+      }
+    },
+    {
       "id": "d-AF473-2026-11-28",
       "kind": "departure",
       "number": "AF473",
@@ -809,10 +833,10 @@
         "Paris CDG"
       ],
       "scheduled": "2026-11-28T13:45:00+04:00",
-      "estimated": "2026-11-28T14:00:00+04:00",
+      "estimated": null,
       "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "status": "scheduled",
+      "statusText": "",
       "belt": "04-05",
       "gate": null,
       "airport": {
