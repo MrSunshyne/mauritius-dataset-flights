@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T01:33:11.354Z",
+  "fetched": "2026-11-28T01:43:11.155Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -83,9 +83,9 @@
       "number": "4Y152",
       "codeshares": [],
       "airline": "Eurowings Discover",
-      "city": "Seychelles",
+      "city": "Frankfurt",
       "stops": [
-        "Seychelles"
+        "Frankfurt"
       ],
       "scheduled": "2026-11-28T06:45:00+04:00",
       "estimated": null,
@@ -95,10 +95,10 @@
       "belt": null,
       "gate": null,
       "airport": {
-        "iata": "SEZ",
-        "name": "Mahé, Seychelles",
-        "lat": -4.6743,
-        "lon": 55.5218
+        "iata": "FRA",
+        "name": "Frankfurt",
+        "lat": 50.0267,
+        "lon": 8.5584
       }
     },
     {
