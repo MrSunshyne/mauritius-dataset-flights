@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T04:03:19.543Z",
+  "fetched": "2026-11-28T04:13:09.846Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -261,10 +261,10 @@
         "Frankfurt"
       ],
       "scheduled": "2026-11-28T08:30:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T08:11:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -312,9 +312,9 @@
       ],
       "scheduled": "2026-11-28T08:30:00+04:00",
       "estimated": null,
-      "actual": "2026-11-28T08:01:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-28T08:09:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "04-05",
       "gate": null,
       "airport": {
@@ -441,7 +441,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "Check-in",
+      "statusText": "",
       "belt": null,
       "gate": "15",
       "airport": {
