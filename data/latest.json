@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T06:43:11.457Z",
+  "fetched": "2026-11-28T06:53:09.014Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -759,10 +759,10 @@
         "Istanbul"
       ],
       "scheduled": "2026-11-28T12:35:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T17:20:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "delayed",
+      "statusText": "Delayed",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -811,8 +811,8 @@
       "scheduled": "2026-11-28T13:15:00+04:00",
       "estimated": "2026-11-28T13:45:00+04:00",
       "actual": null,
-      "status": "delayed",
-      "statusText": "Delayed",
+      "status": "estimated",
+      "statusText": "Check-in",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -1664,7 +1664,7 @@
       "status": "scheduled",
       "statusText": "",
       "belt": null,
-      "gate": "18",
+      "gate": "17",
       "airport": {
         "iata": "CDG",
         "name": "Paris CDG",
