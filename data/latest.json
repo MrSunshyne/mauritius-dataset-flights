@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T06:13:08.260Z",
+  "fetched": "2026-11-28T06:23:08.271Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -516,7 +516,7 @@
       ],
       "scheduled": "2026-11-28T10:00:00+04:00",
       "estimated": null,
-      "actual": "2026-11-28T10:05:00+04:00",
+      "actual": "2026-11-28T10:10:00+04:00",
       "status": "departed",
       "statusText": "Take Off",
       "belt": null,
@@ -563,10 +563,10 @@
         "Paris CDG"
       ],
       "scheduled": "2026-11-28T10:35:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T10:14:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "28",
       "airport": {
@@ -637,10 +637,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-28T11:40:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T11:48:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -735,10 +735,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-28T12:30:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T13:10:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "delayed",
+      "statusText": "Delayed",
       "belt": "06",
       "gate": null,
       "airport": {
