@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T17:23:17.377Z",
+  "fetched": "2026-11-28T17:33:09.409Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1606,10 +1606,10 @@
         "Paris Orly"
       ],
       "scheduled": "2026-11-28T21:40:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T21:26:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -1664,7 +1664,7 @@
       "status": "scheduled",
       "statusText": "Check-in",
       "belt": null,
-      "gate": "17",
+      "gate": "18",
       "airport": {
         "iata": "CDG",
         "name": "Paris CDG",
@@ -1763,8 +1763,8 @@
       "scheduled": "2026-11-28T22:20:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "28",
       "airport": {
