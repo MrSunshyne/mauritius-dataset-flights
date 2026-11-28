@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T13:33:08.710Z",
+  "fetched": "2026-11-28T13:43:07.952Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -763,7 +763,7 @@
       "actual": "2026-11-28T17:17:00+04:00",
       "status": "arrived",
       "statusText": "Arrived",
-      "belt": "01",
+      "belt": "04-05",
       "gate": null,
       "airport": {
         "iata": "IST",
@@ -1260,9 +1260,9 @@
       ],
       "scheduled": "2026-11-28T17:10:00+04:00",
       "estimated": null,
-      "actual": "2026-11-28T17:28:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-28T17:36:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -1308,9 +1308,9 @@
       ],
       "scheduled": "2026-11-28T17:15:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "actual": "2026-11-28T17:36:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "28",
       "airport": {
