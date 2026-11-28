@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T16:33:09.683Z",
+  "fetched": "2026-11-28T16:43:17.242Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1532,10 +1532,10 @@
         "Istanbul"
       ],
       "scheduled": "2026-11-28T20:30:00+04:00",
-      "estimated": "2026-11-28T20:25:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-28T20:38:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "15",
       "airport": {
@@ -1556,10 +1556,10 @@
         "Paris CDG"
       ],
       "scheduled": "2026-11-28T20:40:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T20:40:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "28",
       "airport": {
