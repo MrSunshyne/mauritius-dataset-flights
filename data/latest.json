@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T18:03:08.459Z",
+  "fetched": "2026-11-28T18:13:08.923Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1709,10 +1709,10 @@
         "London Gatwick"
       ],
       "scheduled": "2026-11-28T22:05:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T22:08:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "26",
       "airport": {
