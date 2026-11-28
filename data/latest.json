@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T01:23:08.486Z",
+  "fetched": "2026-11-28T01:33:11.354Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -562,7 +562,7 @@
       "stops": [
         "Paris CDG"
       ],
-      "scheduled": "2026-11-28T10:40:00+04:00",
+      "scheduled": "2026-11-28T10:35:00+04:00",
       "estimated": null,
       "actual": null,
       "status": "scheduled",
