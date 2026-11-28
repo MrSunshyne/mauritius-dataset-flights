@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T00:53:08.184Z",
+  "fetched": "2026-11-28T01:03:08.456Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -51,33 +51,6 @@
         "name": "Frankfurt",
         "lat": 50.0267,
         "lon": 8.5584
-      }
-    },
-    {
-      "id": "a-MK015-2026-11-28",
-      "kind": "arrival",
-      "number": "MK015",
-      "codeshares": [
-        "AF7964",
-        "KL3848"
-      ],
-      "airline": "Air Mauritius",
-      "city": "Paris CDG",
-      "stops": [
-        "Paris CDG"
-      ],
-      "scheduled": "2026-11-28T06:35:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "CDG",
-        "name": "Paris CDG",
-        "lat": 49.009,
-        "lon": 2.5541
       }
     },
     {
@@ -153,16 +126,19 @@
       }
     },
     {
-      "id": "a-MK053-2026-11-28",
+      "id": "a-MK015-2026-11-28",
       "kind": "arrival",
-      "number": "MK053",
-      "codeshares": [],
-      "airline": "Air Mauritius",
-      "city": "London Gatwick",
-      "stops": [
-        "London Gatwick"
+      "number": "MK015",
+      "codeshares": [
+        "AF7964",
+        "KL3848"
       ],
-      "scheduled": "2026-11-28T07:40:00+04:00",
+      "airline": "Air Mauritius",
+      "city": "Paris CDG",
+      "stops": [
+        "Paris CDG"
+      ],
+      "scheduled": "2026-11-28T07:15:00+04:00",
       "estimated": null,
       "actual": null,
       "status": "scheduled",
@@ -170,10 +146,10 @@
       "belt": null,
       "gate": null,
       "airport": {
-        "iata": "LGW",
-        "name": "London Gatwick",
-        "lat": 51.1487,
-        "lon": -0.1857
+        "iata": "CDG",
+        "name": "Paris CDG",
+        "lat": 49.009,
+        "lon": 2.5541
       }
     },
     {
@@ -248,6 +224,30 @@
         "name": "Istanbul",
         "lat": 41.2749,
         "lon": 28.7321
+      }
+    },
+    {
+      "id": "a-MK053-2026-11-28",
+      "kind": "arrival",
+      "number": "MK053",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "London Gatwick",
+      "stops": [
+        "London Gatwick"
+      ],
+      "scheduled": "2026-11-28T08:10:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "LGW",
+        "name": "London Gatwick",
+        "lat": 51.1487,
+        "lon": -0.1857
       }
     },
     {
@@ -1672,6 +1672,30 @@
       }
     },
     {
+      "id": "d-MK042-2026-11-28",
+      "kind": "departure",
+      "number": "MK042",
+      "codeshares": [],
+      "airline": "Air Mauritius",
+      "city": "London Gatwick",
+      "stops": [
+        "London Gatwick"
+      ],
+      "scheduled": "2026-11-28T22:05:00+04:00",
+      "estimated": null,
+      "actual": null,
+      "status": "scheduled",
+      "statusText": "",
+      "belt": null,
+      "gate": null,
+      "airport": {
+        "iata": "LGW",
+        "name": "London Gatwick",
+        "lat": 51.1487,
+        "lon": -0.1857
+      }
+    },
+    {
       "id": "d-MK440-2026-11-28",
       "kind": "departure",
       "number": "MK440",
@@ -1721,30 +1745,6 @@
         "name": "Rome",
         "lat": 41.8045,
         "lon": 12.252
-      }
-    },
-    {
-      "id": "d-MK042-2026-11-28",
-      "kind": "departure",
-      "number": "MK042",
-      "codeshares": [],
-      "airline": "Air Mauritius",
-      "city": "London Gatwick",
-      "stops": [
-        "London Gatwick"
-      ],
-      "scheduled": "2026-11-28T22:25:00+04:00",
-      "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
-      "belt": null,
-      "gate": null,
-      "airport": {
-        "iata": "LGW",
-        "name": "London Gatwick",
-        "lat": 51.1487,
-        "lon": -0.1857
       }
     },
     {
