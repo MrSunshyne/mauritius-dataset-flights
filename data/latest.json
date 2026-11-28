@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T03:43:09.160Z",
+  "fetched": "2026-11-28T03:53:11.036Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -163,10 +163,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-28T07:45:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T07:49:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -190,9 +190,9 @@
       ],
       "scheduled": "2026-11-28T07:50:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "actual": "2026-11-28T07:51:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -213,11 +213,11 @@
         "London Gatwick"
       ],
       "scheduled": "2026-11-28T08:10:00+04:00",
-      "estimated": "2026-11-28T07:40:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
-      "belt": "02",
+      "estimated": null,
+      "actual": "2026-11-28T07:40:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
+      "belt": "02-03",
       "gate": null,
       "airport": {
         "iata": "LGW",
