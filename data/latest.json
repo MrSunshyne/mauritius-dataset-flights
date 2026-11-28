@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T04:13:09.846Z",
+  "fetched": "2026-11-28T04:23:08.016Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -261,7 +261,7 @@
         "Frankfurt"
       ],
       "scheduled": "2026-11-28T08:30:00+04:00",
-      "estimated": "2026-11-28T08:11:00+04:00",
+      "estimated": "2026-11-28T08:15:00+04:00",
       "actual": null,
       "status": "unknown",
       "statusText": "Taxiing",
@@ -285,10 +285,10 @@
         "Bangalore"
       ],
       "scheduled": "2026-11-28T08:30:00+04:00",
-      "estimated": "2026-11-28T08:18:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-28T08:21:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "01",
       "gate": null,
       "airport": {
@@ -390,8 +390,8 @@
       "scheduled": "2026-11-28T08:40:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "25",
       "airport": {
@@ -440,8 +440,8 @@
       "scheduled": "2026-11-28T09:00:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "15",
       "airport": {
@@ -491,7 +491,7 @@
       "estimated": null,
       "actual": null,
       "status": "scheduled",
-      "statusText": "Check-in",
+      "statusText": "",
       "belt": null,
       "gate": "24",
       "airport": {
