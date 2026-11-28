@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T17:33:09.409Z",
+  "fetched": "2026-11-28T17:43:08.727Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1606,7 +1606,7 @@
         "Paris Orly"
       ],
       "scheduled": "2026-11-28T21:40:00+04:00",
-      "estimated": "2026-11-28T21:26:00+04:00",
+      "estimated": "2026-11-28T21:34:00+04:00",
       "actual": null,
       "status": "unknown",
       "statusText": "Taxiing",
@@ -1687,8 +1687,8 @@
       "scheduled": "2026-11-28T22:00:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "25",
       "airport": {
@@ -1711,8 +1711,8 @@
       "scheduled": "2026-11-28T22:05:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "26",
       "airport": {
@@ -1838,10 +1838,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-28T22:55:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T23:10:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "01",
       "gate": null,
       "airport": {
