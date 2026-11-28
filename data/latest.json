@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T04:43:08.720Z",
+  "fetched": "2026-11-28T04:53:07.582Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -389,9 +389,9 @@
       ],
       "scheduled": "2026-11-28T08:40:00+04:00",
       "estimated": null,
-      "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "actual": "2026-11-28T08:46:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "25",
       "airport": {
@@ -416,8 +416,8 @@
       "scheduled": "2026-11-28T08:50:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "Check-in",
+      "status": "gate-closed",
+      "statusText": "Closed",
       "belt": null,
       "gate": "22",
       "airport": {
@@ -490,8 +490,8 @@
       "scheduled": "2026-11-28T09:30:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -886,10 +886,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-28T14:40:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T14:36:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "02-03",
       "gate": null,
       "airport": {
