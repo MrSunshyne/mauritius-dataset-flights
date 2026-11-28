@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T14:13:09.564Z",
+  "fetched": "2026-11-28T14:23:15.827Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1283,10 +1283,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-28T17:10:00+04:00",
-      "estimated": "2026-11-28T18:23:00+04:00",
-      "actual": null,
-      "status": "delayed",
-      "statusText": "Delayed",
+      "estimated": null,
+      "actual": "2026-11-28T18:19:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -1408,10 +1408,10 @@
         "Dubai"
       ],
       "scheduled": "2026-11-28T18:30:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T18:18:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "19",
       "airport": {
@@ -1482,10 +1482,10 @@
         "Antananarivo"
       ],
       "scheduled": "2026-11-28T19:50:00+04:00",
-      "estimated": null,
+      "estimated": "2026-11-28T19:26:00+04:00",
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "estimated",
+      "statusText": "Expected",
       "belt": "04-05",
       "gate": null,
       "airport": {
