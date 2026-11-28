@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T03:53:11.036Z",
+  "fetched": "2026-11-28T04:03:19.543Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -163,10 +163,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-28T07:45:00+04:00",
-      "estimated": "2026-11-28T07:49:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-28T07:53:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -190,9 +190,9 @@
       ],
       "scheduled": "2026-11-28T07:50:00+04:00",
       "estimated": null,
-      "actual": "2026-11-28T07:51:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-28T07:55:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "06",
       "gate": null,
       "airport": {
@@ -214,9 +214,9 @@
       ],
       "scheduled": "2026-11-28T08:10:00+04:00",
       "estimated": null,
-      "actual": "2026-11-28T07:40:00+04:00",
-      "status": "landed",
-      "statusText": "Landing",
+      "actual": "2026-11-28T07:52:00+04:00",
+      "status": "arrived",
+      "statusText": "Arrived",
       "belt": "02-03",
       "gate": null,
       "airport": {
@@ -263,8 +263,8 @@
       "scheduled": "2026-11-28T08:30:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "24",
       "airport": {
@@ -311,10 +311,10 @@
         "Paris CDG"
       ],
       "scheduled": "2026-11-28T08:30:00+04:00",
-      "estimated": "2026-11-28T07:53:00+04:00",
-      "actual": null,
-      "status": "estimated",
-      "statusText": "Expected",
+      "estimated": null,
+      "actual": "2026-11-28T08:01:00+04:00",
+      "status": "landed",
+      "statusText": "Landing",
       "belt": "04-05",
       "gate": null,
       "airport": {
@@ -363,8 +363,8 @@
       "scheduled": "2026-11-28T08:40:00+04:00",
       "estimated": null,
       "actual": null,
-      "status": "scheduled",
-      "statusText": "",
+      "status": "boarding",
+      "statusText": "Boarding",
       "belt": null,
       "gate": "26",
       "airport": {
