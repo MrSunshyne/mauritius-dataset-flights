@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T17:53:09.540Z",
+  "fetched": "2026-11-28T18:03:08.459Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -1606,10 +1606,10 @@
         "Paris Orly"
       ],
       "scheduled": "2026-11-28T21:40:00+04:00",
-      "estimated": "2026-11-28T21:34:00+04:00",
-      "actual": null,
-      "status": "unknown",
-      "statusText": "Taxiing",
+      "estimated": null,
+      "actual": "2026-11-28T21:53:00+04:00",
+      "status": "departed",
+      "statusText": "Take Off",
       "belt": null,
       "gate": "24",
       "airport": {
