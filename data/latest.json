@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-28T10:16:19.877Z",
+  "fetched": "2026-11-28T10:23:08.384Z",
   "source": [
     "https://mru.airport.aero/passengers/flights/flight-arrival-search",
     "https://mru.airport.aero/passengers/flights/flight-departure-search"
@@ -809,10 +809,10 @@
         "Rodrigues"
       ],
       "scheduled": "2026-11-28T13:15:00+04:00",
-      "estimated": "2026-11-28T13:45:00+04:00",
+      "estimated": "2026-11-28T14:17:00+04:00",
       "actual": null,
-      "status": "boarding",
-      "statusText": "Boarding",
+      "status": "unknown",
+      "statusText": "Taxiing",
       "belt": null,
       "gate": "20",
       "airport": {
@@ -860,7 +860,7 @@
         "Antananarivo"
       ],
       "scheduled": "2026-11-28T14:20:00+04:00",
-      "estimated": "2026-11-28T14:14:00+04:00",
+      "estimated": "2026-11-28T14:19:00+04:00",
       "actual": null,
       "status": "unknown",
       "statusText": "Taxiing",
